@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yufei.im/"/>
-  <updated>2018-03-15T13:17:18.558Z</updated>
+  <updated>2018-03-15T13:45:17.049Z</updated>
   <id>https://yufei.im/</id>
   
   <author>
@@ -17,21 +17,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>你好，世界</title>
+    <title></title>
     <link href="https://yufei.im/2018/03/15/hello-world/"/>
     <id>https://yufei.im/2018/03/15/hello-world/</id>
-    <published>2018-03-15T13:17:18.558Z</published>
-    <updated>2018-03-15T13:17:18.558Z</updated>
-    
-    <content type="html"><![CDATA[<p>测试</p>]]></content>
+    <published>2018-03-15T13:45:17.049Z</published>
+    <updated>2018-03-15T13:45:17.049Z</updated>
     
     <summary type="html">
-    
-      
-      
-        &lt;p&gt;测试&lt;/p&gt;
-
-      
     
     </summary>
     
