@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yufei.im/"/>
-  <updated>2018-03-20T11:23:37.442Z</updated>
+  <updated>2018-04-25T15:22:47.330Z</updated>
   <id>https://yufei.im/</id>
   
   <author>
@@ -17,9 +17,572 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>macOS、iOS同步照片折腾记</title>
+    <link href="https://yufei.im/post/macos%E3%80%81ios%E5%90%8C%E6%AD%A5%E7%85%A7%E7%89%87%E6%8A%98%E8%85%BE%E8%AE%B0/"/>
+    <id>https://yufei.im/post/macos、ios同步照片折腾记/</id>
+    <published>2016-11-05T17:02:00.000Z</published>
+    <updated>2018-04-25T15:22:47.330Z</updated>
+    
+    <content type="html"><![CDATA[<p>入了 128G 的 iPhone 7 Plus，打算把以前的拍的照片在 macOS 和 iOS 之间同步，本来以为这是一件非常简单的事情，没想到就是一场噩梦。。<br>首先因为照片有十几个吉比特，所以打算通过 iTunes 来同步照片。然而从电脑通过 iTunes 同步到手机上后无法做任何变更，其次在手机拍的照片电脑端修改后再同步会出现两份照片，查看苹果的官方文档确实就是这么设计的。<br>于是想到了 iCloud，购买了最低一档每月六元的 iCloud 后发现这玩意根本没法用，上传点东西极慢，慢就算了还一直失败，一旦失败又要从头开始传。<br>被折磨了几天终于受不了，打算改投谷歌相册，然后 macOS 版的每次登录输完密码后都会提示无法连接，开 Surge 也不行。<br>这时正值梯子到期，受够了原先的二十吉月流量，换了一个价格只有原先三分之一，但流量翻了五倍的新梯子。反正流量大，干脆让 iCloud 全都走梯子。花了两个晚上终于把照片都传到 iCloud 上了。<br>但由于无论 iOS 还是 macOS 自带的「照片」改图都特别弱，于是又想起了谷歌的照片自动优化黑科技，顺便把照片都同步到谷歌相册里，反正流量多呗。然而这又是一个坑，因为 iOS 系统原因，只有谷歌相册在亮屏的前台工作时才能够上传，macOS 版又连不上，所以现在花了三天还没有把照片都传完。</p><p>现在折腾完的结果是：<br>手机拍照：<br>iPhone 拍完照片自动上传 iCloud，电脑端也自动同步了。然后打开谷歌相册应用，首先刚打开就会自动上传，我改完图保存又回再上传到两个云相册，iCloud 又再同步到电脑上一次，就是说拍照并修图一次会有六次上传下载。。<br>单反拍照：<br>数据卡插到电脑上，导入「照片」应用，自动上传 iCloud，同步到手机。手机上打开「谷歌相册」应用，修图又会重复三次上传一次下载，也是共六次。<br>不修图的话都是两次上传一次下载。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;入了 128G 的 iPhone 7 Plus，打算把以前的拍的照片在 macOS 和 iOS 之间同步，本来以为这是一件非常简单的事情，没想到就是一场噩梦。。&lt;br&gt;首先因为照片有十几个吉比特，所以打算通过 iTunes 来同步照片。然而从电脑通过 iTunes 同步到手
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="iOS" scheme="https://yufei.im/tags/iOS/"/>
+    
+      <category term="照片" scheme="https://yufei.im/tags/%E7%85%A7%E7%89%87/"/>
+    
+      <category term="同步" scheme="https://yufei.im/tags/%E5%90%8C%E6%AD%A5/"/>
+    
+      <category term="macOS" scheme="https://yufei.im/tags/macOS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2016年读书计划</title>
+    <link href="https://yufei.im/post/2016%E5%B9%B4%E8%AF%BB%E4%B9%A6%E8%AE%A1%E5%88%92/"/>
+    <id>https://yufei.im/post/2016年读书计划/</id>
+    <published>2016-03-08T15:59:00.000Z</published>
+    <updated>2018-04-25T14:40:26.865Z</updated>
+    
+    <content type="html"><![CDATA[<p>计划今年读完50本书，当前进度10本。</p><table><thead><tr><th>序号</th><th>书名</th><th>作者</th><th>类别</th></tr></thead><tbody><tr><td>1</td><td><a href="https://book.douban.com/subject/2347492/" target="_blank" rel="noopener">蒙曼说唐：武则天</a></td><td>蒙曼</td><td>历史</td></tr><tr><td>2</td><td><a href="https://book.douban.com/subject/3218519/" target="_blank" rel="noopener">蒙曼说唐：太平公主</a></td><td>蒙曼</td><td>历史</td></tr><tr><td>3</td><td><a href="https://book.douban.com/subject/20434484/" target="_blank" rel="noopener">蒙曼说唐：唐玄宗</a></td><td>蒙曼</td><td>历史</td></tr><tr><td>4</td><td><a href="https://book.douban.com/subject/4214302/" target="_blank" rel="noopener">蒙曼说唐：长恨歌</a></td><td>蒙曼</td><td>历史</td></tr><tr><td>5</td><td><a href="https://book.douban.com/subject/6536473/" target="_blank" rel="noopener">大隋风云：隋文帝杨坚</a></td><td>蒙曼</td><td>历史</td></tr><tr><td>6</td><td><a href="https://book.douban.com/subject/10732775/" target="_blank" rel="noopener">大隋风云：隋炀帝杨广</a></td><td>蒙曼</td><td>历史</td></tr><tr><td>7</td><td><a href="https://book.douban.com/subject/24863220/" target="_blank" rel="noopener">塞北三朝·辽</a></td><td>袁腾飞</td><td>历史</td></tr><tr><td>8</td><td><a href="https://book.douban.com/subject/24863221/" target="_blank" rel="noopener">塞北三朝·西夏</a></td><td>袁腾飞</td><td>历史</td></tr><tr><td>9</td><td><a href="https://book.douban.com/subject/24863222/" target="_blank" rel="noopener">塞北三朝·金</a></td><td>袁腾飞</td><td>历史</td></tr><tr><td>10</td><td><a href="https://book.douban.com/subject/25727497/" target="_blank" rel="noopener">袁腾飞讲成吉思汗</a></td><td>袁腾飞</td><td>历史</td></tr></tbody></table>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;计划今年读完50本书，当前进度10本。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;序号&lt;/th&gt;
+&lt;th&gt;书名&lt;/th&gt;
+&lt;th&gt;作者&lt;/th&gt;
+&lt;th&gt;类别&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;&lt;
+      
+    
+    </summary>
+    
+      <category term="记" scheme="https://yufei.im/categories/%E8%AE%B0/"/>
+    
+    
+      <category term="阅读" scheme="https://yufei.im/tags/%E9%98%85%E8%AF%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Zabbix 流量汇总教程</title>
+    <link href="https://yufei.im/post/zabbix-%E6%B5%81%E9%87%8F%E6%B1%87%E6%80%BB%E6%95%99%E7%A8%8B/"/>
+    <id>https://yufei.im/post/zabbix-流量汇总教程/</id>
+    <published>2016-01-22T06:55:00.000Z</published>
+    <updated>2018-04-25T16:12:51.876Z</updated>
+    
+    <content type="html"><![CDATA[<p>用Zabbix获取网络设备的接口流量后有一个很重要的需求就是将流量进行汇总。<br>首先通过监控项（items）来获取数据，然后通过计算公式（Calculated）将采集到的数据进行运算并储存到数据库中。<br>首先可以看下 2.4 版 Zabbix 的官方<a href="https://www.zabbix.com/documentation/2.4/manual/config/items/itemtypes/calculated" target="_blank" rel="noopener">计算公式文档</a>，了解大致格式。<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">func(&lt;key&gt;|&lt;hostname:key&gt;,&lt;parameter1&gt;,&lt;parameter2&gt;,...)</span><br></pre></td></tr></table></figure></p><p>我们是要将同一时间点的多个接口的流量进行相加，所以函数采用的是<code>last</code>。<br>其次是 hostname/key 部分，若只是对单个主机进行运算，可以直接在该主机下新建公式监控项进行汇总，但由于有很多台设备都需要进行运算，将汇总散落在各个主机下不方便管理及查看，所以统一新建一个地址为默认<code>127.0.0.1</code>的主机来进行汇总。<br>这样的话一定要在公式中填写主机名，这个主机名是添加设备中第一行的那个可以唯一标识设备的<code>主机名称</code>，而不是第二行的<code>可见的名称</code>。<br>Key 是该主机下对应监控项的<code>键值</code>，这也是唯一标识接口的字符串。</p><p>所以如果是要添加两台7609设备 <code>Te1/1 和 Te2/1</code> 接口出流量进行汇总的话，首先要新建一台主机，只需要更改名称和群组，其他所有内容都保持原值，点击添加。<br>然后在项目中新建监控项，名称自己起，类型选择<code>计算（Calculated）</code>，键值自己起一个唯一且有意义的。数据类型采用浮点型，单位为bps。其他保留默认添加即可。添加后若监控项行末未出现报错即添加成功。<br>公式为：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">last(&quot;SZ-1.7609:ifHCInOctets[TenGigabitEthernet1/1]&quot;)+</span><br><span class="line">last(&quot;SZ-1.7609:ifHCInOctets[TenGigabitEthernet2/1]&quot;)+</span><br><span class="line">last(&quot;SZ-2.7609:ifHCInOctets[TenGigabitEthernet1/1]&quot;)+</span><br><span class="line">last(&quot;SZ-2.7609:ifHCInOctets[TenGigabitEthernet2/1]&quot;)</span><br></pre></td></tr></table></figure></p><p>添加完成后点击该汇总主机后的<code>图形</code>创建新图形，点击最下面的<code>项目</code>中的添加，主机选刚刚新建的汇总主机，然后选中出流量汇总监控项目即可完成添加图形。</p><hr><p>由于计算是将采集到的数据进行计算后存储到数据库，所以汇总的数据是从你完成添加才开始有，但只要你添加项目后，无论什么时候添加图形，图形中的起始依然是完成汇总计算添加的那个时间点。<br>公式可以换行，所以为了方便查看及维护，建议每一个接口都单独放一行。<br>添加图形的项目中函数（function，中文版中错译为功能）建议使用最大值，以便能在图形中确定出流量最高点的时间。</p><hr><p>公式中的主机名部分<br><img src="~/1.jpg" alt=""><br>公式中的键值部分<br><img src="~/2.jpg" alt=""><br>添加汇总主机<br><img src="~/3.jpg" alt=""><br>汇总计算公式<br><img src="~/4.jpg" alt=""><br>添加图形</p><p><img src="~/5.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;用Zabbix获取网络设备的接口流量后有一个很重要的需求就是将流量进行汇总。&lt;br&gt;首先通过监控项（items）来获取数据，然后通过计算公式（Calculated）将采集到的数据进行运算并储存到数据库中。&lt;br&gt;首先可以看下 2.4 版 Zabbix 的官方&lt;a href=
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="Zabbix" scheme="https://yufei.im/tags/Zabbix/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Zabbix安装指南</title>
+    <link href="https://yufei.im/post/zabbix%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97/"/>
+    <id>https://yufei.im/post/zabbix安装指南/</id>
+    <published>2015-12-28T07:55:00.000Z</published>
+    <updated>2018-04-25T14:57:00.318Z</updated>
+    
+    <content type="html"><![CDATA[<p>操作系统：CentOS 7.2<br>Zabbix版本：2.4.7</p><hr><p>#安装 EPEL 源：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">yum install epel-release</span><br></pre></td></tr></table></figure></p><p>#添加 Zabbix 仓库：<br>官方源实在是太慢了，于是用阿里云的镜像<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">rpm --import http://mirrors.aliyun.com/zabbix/RPM-GPG-KEY-ZABBIX</span><br><span class="line">rpm -Uv  http://mirrors.aliyun.com/zabbix/zabbix/2.4/rhel/7/x86_64/zabbix-release-2.4-1.el7.noarch.rpm</span><br></pre></td></tr></table></figure></p><p>#安装 Zabbix<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">yum install zabbix-server-mysql zabbix-web-mysql zabbix-agent</span><br></pre></td></tr></table></figure></p><p>#安装 MariaDB<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">yum install mariadb-server mariadb</span><br><span class="line">systemctl enable mariadb.service</span><br><span class="line">systemctl start mariadb.service</span><br><span class="line">mysql_secure_installation</span><br></pre></td></tr></table></figure></p><p>#配置数据库<br>创建一个名为<code>zabbix</code>的数据库，用户名为<code>zabbixuser</code><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br></pre></td><td class="code"><pre><span class="line">mysql -uroot -p</span><br><span class="line">Welcome to the MariaDB monitor.  Commands end with ; or \g.</span><br><span class="line">Your MariaDB connection id is 45897</span><br><span class="line">Server version: 5.5.44-MariaDB MariaDB Server</span><br><span class="line"></span><br><span class="line">Copyright (c) 2000, 2015, Oracle, MariaDB Corporation Ab and others.</span><br><span class="line"></span><br><span class="line">Type &apos;help;&apos; or &apos;\h&apos; for help. Type &apos;\c&apos; to clear the current input statement.</span><br><span class="line"></span><br><span class="line">MariaDB [(none)]&gt;create database zabbix character set utf8;</span><br><span class="line">Query OK, 1 row affected (0.05 sec)</span><br><span class="line"></span><br><span class="line">MariaDB [(none)]&gt; grant all privileges on zabbix.* to &apos;zabbixuser&apos;@&apos;localhost&apos; identified by &apos;password&apos;;</span><br><span class="line">Query OK, 0 rows affected (0.21 sec)</span><br><span class="line"></span><br><span class="line">MariaDB [(none)]&gt; flush privileges;</span><br><span class="line">Query OK, 0 rows affected (0.00 sec)</span><br><span class="line"></span><br><span class="line">MariaDB [(none)]&gt; exit</span><br><span class="line">Bye</span><br></pre></td></tr></table></figure></p><p>#初始化 Zabbix 数据库<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">cd /usr/share/doc/zabbix-server-mysql-2.4.7/create</span><br><span class="line">mysql -u zabbixuser -p zabbix &lt; schema.sql</span><br><span class="line">mysql -u zabbixuser -p zabbix &lt; images.sql</span><br><span class="line">mysql -u zabbixuser -p zabbix &lt; data.sql</span><br></pre></td></tr></table></figure></p><p>#修改 Apache<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">vi /etc/httpd/conf.d/zabbix.conf</span><br><span class="line">php_value date.timezone Asia/Shanghai</span><br></pre></td></tr></table></figure></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">vi /etc/php.ini</span><br><span class="line">max_execution_time = 600</span><br><span class="line">max_input_time = 600</span><br><span class="line">memory_limit = 256M</span><br><span class="line">post_max_size = 32M</span><br><span class="line">upload_max_filesize = 16M</span><br><span class="line">date.timezone = Asia/Shanghai</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">systemctl enable httpd.service</span><br><span class="line">systemctl start httpd.service</span><br></pre></td></tr></table></figure><p>#修改 Zabbix 配置<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">vi /etc/zabbix/zabbix_server.conf</span><br><span class="line">[...]</span><br><span class="line">DBName=zabbix</span><br><span class="line">[...]</span><br><span class="line">DBUser=zabbixuser</span><br><span class="line">[...]</span><br><span class="line">DBPassword=password</span><br><span class="line">[...]</span><br></pre></td></tr></table></figure></p><p>#配置防火墙<br>最小化安装默认是没有防火墙的<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">firewall-cmd --permanent --zone=public --add-service=mysql</span><br><span class="line">firewall-cmd --permanent --zone=public --add-service=http</span><br><span class="line">firewall-cmd --permanent --add-port=10050/tcp</span><br><span class="line">firewall-cmd --permanent --add-port=10051/tcp</span><br><span class="line">firewall-cmd --reload</span><br></pre></td></tr></table></figure></p><p>#允许 Apache 和 Zabbix 通信<br>SELinux 会导致 Zabbix 为服务器未运行状态<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">setsebool -P httpd_can_connect_zabbix=1</span><br></pre></td></tr></table></figure></p><p>#启动与开机自动运行<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">systemctl start zabbix-server</span><br><span class="line">systemctl start zabbix-agent</span><br><span class="line">systemctl restart httpd</span><br><span class="line">systemctl restart mariadb</span><br><span class="line">systemctl enable zabbix-server</span><br><span class="line">systemctl enable zabbix-agent</span><br></pre></td></tr></table></figure></p><p>#图形化配置<br>以上操作都配置完成后，访问 <code>http://ip-address/zabbix</code>，完成最终的图形化配置，会检查配置情况，及再输入数据库信息来完成数据库配置。</p><p>参考：<br><a href="http://joelhy.github.io/2015/02/26/install-zabbix-2-4-on-centOS-7-using-yum/" target="_blank" rel="noopener">CentOS 7上使用yum安装zabbix 2.4</a><br><a href="http://www.unixmen.com/how-to-install-zabbix-server-on-centos-7/" target="_blank" rel="noopener">How To Install Zabbix Server On CentOS 7</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;操作系统：CentOS 7.2&lt;br&gt;Zabbix版本：2.4.7&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;#安装 EPEL 源：&lt;br&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span cla
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="Zabbix" scheme="https://yufei.im/tags/Zabbix/"/>
+    
+      <category term="监控" scheme="https://yufei.im/tags/%E7%9B%91%E6%8E%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在深信服上做上网行为管理</title>
+    <link href="https://yufei.im/post/%E5%9C%A8%E6%B7%B1%E4%BF%A1%E6%9C%8D%E4%B8%8A%E5%81%9A%E4%B8%8A%E7%BD%91%E8%A1%8C%E4%B8%BA%E7%AE%A1%E7%90%86/"/>
+    <id>https://yufei.im/post/在深信服上做上网行为管理/</id>
+    <published>2015-12-14T03:17:00.000Z</published>
+    <updated>2018-04-25T15:02:42.426Z</updated>
+    
+    <content type="html"><![CDATA[<p>#需求<br>甲区域</p><blockquote><ol><li>只允许访问几个特定的工作网站；</li><li>允许所有的邮件服务；</li><li>其他所有网络都禁止访问；</li><li>领班额外可以访问新浪微盘；</li><li>晚上十一点至次日七点之间可以访问视频及购物网站</li></ol></blockquote><p>乙区域</p><blockquote><ol><li>禁用即时通讯工具；</li><li>禁用下载工具；</li><li>禁用视频播放；</li><li>IE浏览全天候开放；</li><li>购物网站禁用；</li><li>晚上十一点至次日七点之间可以访问视频及购物网站</li></ol></blockquote><p>领导办公室</p><blockquote><ol><li>禁止浏览视频网站；</li><li>禁止使用下载工具；</li><li>限速 400kb/s；</li></ol></blockquote><hr><p>#分析</p><p>##区域<br>一共分为五个区域：</p><blockquote><ol><li>领导</li><li>甲区域</li><li>乙区域</li><li>乙区域领班及大屏</li><li>服务器</li></ol></blockquote><p>##规则</p><blockquote><ol><li>即时通讯</li><li>下载工具</li><li>视频播放</li><li>购物网站</li><li>工作网站</li><li>新浪微盘</li><li>网络限速</li><li>电子邮箱</li><li>网络协议</li></ol></blockquote><p>限制大致就是白名单和黑名单两种。<br>黑名单很简单，只需要调用现有的规则就可以了。<br>白名单除了客户给的几个内部网站外，还需要考虑网站调用的各种外部资源、软件及系统更新。因为要访问网站还需要考虑放通 DNS、HTTP 等协议，便于网管还需要开放 ICMP、SNMP 等协议。</p><p>##操作顺序</p><blockquote><ol><li>建立地址库；</li><li>建立 IP 组；</li><li>建立时间计划组；</li><li>新增上网策略</li><li>将策略与用户（这里用IP地址）进行绑定；</li><li>新增排除规则</li><li>测试策略是否生效；</li></ol></blockquote><p>#操作<br>以下内容建立在深信服 AC 6.1 上，其他版本可能有所不同。</p><p>##建立白名单地址库<br>菜单 &gt; 对象定义 &gt; URL 分类库 &gt; 新增<br>然后在<strong>URL</strong>栏中添加需要访问的工作网站。</p><p><img src="~/URL分类库.jpg" alt=""></p><p>##建立 IP 组<br>因为这边没有做人员与用户一对一的关系绑定，所以采用对 IP 地址来做分组。<br>菜单 &gt; 对象定义 &gt; IP 组 &gt; 新增</p><p><img src="~/IP地址组.jpg" alt=""></p><p>##建立时间计划组<br>要把工作繁忙期间与凌晨时间段做区分，凌晨可以适当开放部分网站的浏览。<br>菜单 &gt; 对象定义 &gt; 时间计划组 &gt; 新增<br>若某时间段跨零点，需要在一条计划中写两条规则。</p><p><img src="~/时间计划组.jpg" alt=""></p><p><img src="~/时间计划组设置.jpg" alt=""></p><p>##新增上网策略<br>菜单 &gt; 用户与策略管理 &gt; 新增 &gt; 上网权限策略<br>我这边只需要做上网的限制，不需要对数据进行探测和过滤，所以用应用控制。</p><p><img src="~/上网策略.jpg" alt=""></p><p><img src="~/上网策略-应用控制.jpg" alt=""></p><p><img src="~/上网策略-应用控制-选择对象.jpg" alt=""></p><p><img src="~/上网策略-应用控制-选择应用.jpg" alt=""></p><p>##排除<br>有些地址需要全局排除，如360更新等。</p><p><img src="~/排除地址.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;#需求&lt;br&gt;甲区域&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;只允许访问几个特定的工作网站；&lt;/li&gt;
+&lt;li&gt;允许所有的邮件服务；&lt;/li&gt;
+&lt;li&gt;其他所有网络都禁止访问；&lt;/li&gt;
+&lt;li&gt;领班额外可以访问新浪微盘；&lt;/li&gt;
+&lt;li&gt;晚上十一点至次日七点
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="深信服" scheme="https://yufei.im/tags/%E6%B7%B1%E4%BF%A1%E6%9C%8D/"/>
+    
+      <category term="网络" scheme="https://yufei.im/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何离线安装macOS和Windows</title>
+    <link href="https://yufei.im/post/%E5%A6%82%E4%BD%95%E7%A6%BB%E7%BA%BF%E5%AE%89%E8%A3%85macos%E5%92%8Cwindows/"/>
+    <id>https://yufei.im/post/如何离线安装macos和windows/</id>
+    <published>2015-05-22T00:38:00.000Z</published>
+    <updated>2018-04-25T15:08:05.021Z</updated>
+    
+    <content type="html"><![CDATA[<p>昨天拿到一台 2014 年初版的 MacBook Air，那人说 Mac OS X 用不惯，想装成 Windows 7。</p><p>系统是 10.9 的，作为不更新会死星人，当然第一件事就是更新，但是更新速度实在是慢。而且之前有人用过了，想要恢复出厂配置。于是 <code>option+r</code> 进入恢复模式，先把硬盘抹掉，然后选择安装系统。但是下载速度慢得令人发指，居然要一百六十小时，从电信 DNS 切换到 114 和 v2ex 的还是要十多个小时，换阿里的还算好点，但也要五个多小时。</p><p>最后实在是忍不了，在网上找了打包好的 dmg 镜像，在 Windows 中用 Transmac 将镜像还原到优盘里，插到 Mac 上，开机 <code>option+r</code> 并且选择优盘的那项启动，接下来会重启好几次，Mac OS X 就安装好了。</p><p>接下来是按需求安装 Windows 7，先把 Windows 7 镜像保存到 Mac OS X 的分区中，然后打开 Boot Camp 助手，把优盘插入电脑中，选择安装 Windows，制作优盘启动挺慢的，我这花了半个小时吧，然后会让你调整分区。重启后应该会自动进入 Windows 的安装模式，正常安装。</p><p>装完系统进入到优盘中 BootCamp 文件夹，安装驱动。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;昨天拿到一台 2014 年初版的 MacBook Air，那人说 Mac OS X 用不惯，想装成 Windows 7。&lt;/p&gt;
+&lt;p&gt;系统是 10.9 的，作为不更新会死星人，当然第一件事就是更新，但是更新速度实在是慢。而且之前有人用过了，想要恢复出厂配置。于是 &lt;cod
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="macOS" scheme="https://yufei.im/tags/macOS/"/>
+    
+      <category term="Windows" scheme="https://yufei.im/tags/Windows/"/>
+    
+      <category term="Mac" scheme="https://yufei.im/tags/Mac/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何在 Fedora 中安装 F.lux</title>
+    <link href="https://yufei.im/post/%E5%A6%82%E4%BD%95%E5%9C%A8-fedora-%E4%B8%AD%E5%AE%89%E8%A3%85-f-lux/"/>
+    <id>https://yufei.im/post/如何在-fedora-中安装-f-lux/</id>
+    <published>2015-04-27T15:06:00.000Z</published>
+    <updated>2018-04-25T15:04:35.771Z</updated>
+    
+    <content type="html"><![CDATA[<p>之前在 Windows 下很喜欢一款名为 <a href="https://justgetflux.com/" target="_blank" rel="noopener">F.lux</a> 的色温调节软件，它可以根据你所设置的地理位置的日落后期间将屏幕的色温调低，即将屏幕显示为暖色，以缓解在晚上由于显示器过于刺眼导致眼睛疲劳。</p><p>在换了 Linux 后就没法用了，因为官方只提供了 deb 安装包。（其实也提供了二进制包，但之前没注意过）</p><p>在网上搜索了下，找到了解决办法，在此记录下。非常感谢 <a href="https://github.com/lucaciavatta/f.lux-on-Fedora/blob/master/Instructions" target="_blank" rel="noopener">lucaciavatta 的教程</a>。</p><p>####在官网下载二进制包<br>32 位<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://justgetflux.com/linux/xflux-pre.tgz</span><br></pre></td></tr></table></figure></p><p>64 位<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://justgetflux.com/linux/xflux64.tgz</span><br></pre></td></tr></table></figure></p><p>####解压<br>假设解压至<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">/root/xflux</span><br></pre></td></tr></table></figure></p><p>####复制并改权限<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">sudo cp /root/xflux /usr/bin/</span><br><span class="line">sudo chmod 755 /usr/bin/xflux</span><br></pre></td></tr></table></figure></p><p>####启动<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">xflux -l 经纬度</span><br></pre></td></tr></table></figure></p><p>命令后面的经纬度可以从谷歌地图中的地址栏中找到，大致格式为 <code>31.3,120.64</code>（这是苏州的），即<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">xflux -l 31.3,120.64</span><br></pre></td></tr></table></figure></p><p>####设为开机自启动<br>若你在日落后运行上面这条命令，屏幕变成暖色后表明设置无误了，接下来要设为开机自启动。</p><p>#####Gnome<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">gnome-session-properties</span><br></pre></td></tr></table></figure></p><p>#####Xfce<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">xfce4-session-settings</span><br></pre></td></tr></table></figure></p><p>在<code>应用程序自启动</code>（在 Xfce 中是叫这个，其他桌面可能有出入）中添加并填写<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">名称：Xflux</span><br><span class="line">命令：xflux -l 31.3,120.64</span><br></pre></td></tr></table></figure></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;之前在 Windows 下很喜欢一款名为 &lt;a href=&quot;https://justgetflux.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;F.lux&lt;/a&gt; 的色温调节软件，它可以根据你所设置的地理位置的日落后期间将屏幕的色温调低，即将屏
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="Linux" scheme="https://yufei.im/tags/Linux/"/>
+    
+      <category term="Fedora" scheme="https://yufei.im/tags/Fedora/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何批量修改Cacti数据</title>
+    <link href="https://yufei.im/post/%E5%A6%82%E4%BD%95%E6%89%B9%E9%87%8F%E4%BF%AE%E6%94%B9cacti%E6%95%B0%E6%8D%AE/"/>
+    <id>https://yufei.im/post/如何批量修改cacti数据/</id>
+    <published>2015-04-06T21:42:00.000Z</published>
+    <updated>2018-04-25T15:06:11.890Z</updated>
+    
+    <content type="html"><![CDATA[<p>之前可能是由于虚拟机被挂起，恢复后系统时间出现偏差，导致 cacti 的图形在某五分钟出现了一个峰值，既影响查看图形，还影响数据统计，于是打算把这一段错误的数据删掉。</p><p>但由于有一百多的接口，三百多的 rrd 数据库文件，一个个改也未免太傻了点。花了半天来研究怎么批量修改数据，记录一下。</p><hr><p>###单个文件的修改方式</p><p>####转换 rrd 文件至 xml<br><figure class="highlight vim"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">rrdtool dump <span class="number">1</span>.rrd &gt; <span class="number">1</span>.xml</span><br></pre></td></tr></table></figure></p><p>####修改 xml 文件<br><figure class="highlight vim"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">vi</span> <span class="number">1</span>.xml</span><br></pre></td></tr></table></figure></p><figure class="highlight vim"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">vi</span> <span class="number">1</span>.xml</span><br><span class="line">/&lt;!-- <span class="number">2015</span>-<span class="number">04</span>-<span class="number">07</span> <span class="number">00</span>:<span class="number">00</span>:<span class="number">00</span> CST</span><br><span class="line">dd</span><br><span class="line">:<span class="keyword">x</span></span><br></pre></td></tr></table></figure><p>####转换回 rrd 文件<br><figure class="highlight vim"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">rrdtool restore <span class="number">1</span>.xml <span class="number">1</span>.rrd</span><br></pre></td></tr></table></figure></p><hr><p>###批量处理文件<br>首先理一下顺序</p><ul><li>停止 snmp、mysql 服务</li><li>备份 rra 文件</li><li>批量转换 rrd 文件为 xml</li><li>批量删除 xml 文件中问题行</li><li>批量转换 xml 文件回 rrd</li><li>覆盖原有数据</li><li>重启服务</li></ul><p>####停止 snmp、mysql 服务<br>目的是避免新数据采集导致问题<br><figure class="highlight vim"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">service snmpd <span class="keyword">stop</span></span><br><span class="line">service mysqld <span class="keyword">stop</span></span><br></pre></td></tr></table></figure></p><p>####备份 rrd 文件<br><figure class="highlight vim"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">tar -cvf rrd.tar /var/www/html/cacti/rra/</span><br><span class="line"><span class="keyword">cp</span> /var/www/html/cacti/rra/ ~/rra</span><br></pre></td></tr></table></figure></p><p>####批量转换 rrd 文件为 xml<br><figure class="highlight vim"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"># <span class="keyword">cat</span> rra2xml.<span class="keyword">sh</span></span><br></pre></td></tr></table></figure></p><figure class="highlight vim"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">#!/bin/bash</span><br><span class="line">rrddump=<span class="string">"/usr/bin/rrdtool dump"</span></span><br><span class="line">xmldir=~/rraxml/</span><br><span class="line">rradir=~/rra/*</span><br><span class="line"><span class="keyword">for</span> <span class="keyword">file</span> in `<span class="keyword">find</span> $&#123;rradir&#125; -mtime -<span class="number">2</span> |awk -F\/ <span class="string">'&#123;print $NF&#125;'</span>`</span><br><span class="line"># <span class="keyword">find</span> rra directory <span class="number">2</span> days <span class="keyword">change</span></span><br><span class="line"><span class="keyword">do</span></span><br><span class="line">$&#123;rrddump&#125; $&#123;rradir&#125;$&#123;<span class="keyword">file</span>&#125; &gt; $&#123;xmldir&#125;/$&#123;<span class="keyword">file</span>&#125;</span><br><span class="line">done</span><br></pre></td></tr></table></figure><figure class="highlight vim"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"># ./rra2xml.<span class="keyword">sh</span></span><br></pre></td></tr></table></figure><p>这里 ~/rraxml/ 文件夹中的 rrd 文件已经是 xml 格式了，但是为了省事就没变。<br>这段代码抄自网络，具体哪一个站点现在也找不到了。</p><p>####批量删除 xml 文件中问题行<br>由于本人才疏学浅，不会写脚本，于是拖到 Windows 上来操作。<br>使用的是一款名为 UltraReplace 的国人作品。<br>首先要在设置里添加 rrd 文件类型，然后选择“<code>特征替换</code>”，起始特征字符串为“<code>&lt;!-- 2015-04-07 00:00:00 CST</code>”，结束特征字符串为“<code>&lt;/row&gt;</code>”，选择“<code>+文件夹</code>”，然后点击“<code>开始</code>”。<br><img src="~/UltraReplace.jpg" alt=""><br>然后传回 Linux 服务器。</p><p>####批量转换 xml 文件回 rrd<br><figure class="highlight vim"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"># <span class="keyword">cat</span> rra2xml.<span class="keyword">sh</span></span><br></pre></td></tr></table></figure></p><figure class="highlight vim"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">#!/bin/bash</span><br><span class="line">rrdrestore=<span class="string">"/usr/bin/rrdtool restore"</span></span><br><span class="line">xmldir=~/n/rraxml2/</span><br><span class="line">rradir=~/n/rrd2/</span><br><span class="line"><span class="keyword">for</span> <span class="keyword">file</span> in `<span class="keyword">find</span> $&#123;xmldir&#125; -mtime -<span class="number">2</span> |awk -F\/ <span class="string">'&#123;print $NF&#125;'</span>`</span><br><span class="line"># <span class="keyword">find</span> rra directory <span class="number">2</span> days <span class="keyword">change</span></span><br><span class="line"><span class="keyword">do</span></span><br><span class="line">$&#123;rrdrestore&#125; $&#123;xmldir&#125;$&#123;<span class="keyword">file</span>&#125; $&#123;rradir&#125;$&#123;<span class="keyword">file</span>&#125;</span><br><span class="line">done</span><br></pre></td></tr></table></figure><figure class="highlight vim"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"># ./rra2xml.<span class="keyword">sh</span></span><br></pre></td></tr></table></figure><p>####覆盖原有数据<br><figure class="highlight vim"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">mv -<span class="keyword">f</span> ~/rraxml/* /var/www/html/cacti/rra/</span><br></pre></td></tr></table></figure></p><p>####重启服务<br><figure class="highlight vim"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">service snmpd start</span><br><span class="line">service mysqld start</span><br></pre></td></tr></table></figure></p><hr><p>看峰值是否已被删除，过十分钟左右如果有新图形说明成功了。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;之前可能是由于虚拟机被挂起，恢复后系统时间出现偏差，导致 cacti 的图形在某五分钟出现了一个峰值，既影响查看图形，还影响数据统计，于是打算把这一段错误的数据删掉。&lt;/p&gt;
+&lt;p&gt;但由于有一百多的接口，三百多的 rrd 数据库文件，一个个改也未免太傻了点。花了半天来研究怎
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="监控" scheme="https://yufei.im/tags/%E7%9B%91%E6%8E%A7/"/>
+    
+      <category term="Cacti" scheme="https://yufei.im/tags/Cacti/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何使用SmokePing来监控网络质量</title>
+    <link href="https://yufei.im/post/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8smokeping%E6%9D%A5%E7%9B%91%E6%8E%A7%E7%BD%91%E7%BB%9C%E8%B4%A8%E9%87%8F/"/>
+    <id>https://yufei.im/post/如何使用smokeping来监控网络质量/</id>
+    <published>2014-12-10T10:52:00.000Z</published>
+    <updated>2018-04-25T15:06:44.559Z</updated>
+    
+    <content type="html"><![CDATA[<p>smokeping 是一款开源的网络质量监控的工具。因为之前的那套挂了，所以重新搭了一遍。花了近一周，踩坑无数，将过程记录下来。</p><p><img src="~/smokeping.png" alt=""></p><p>不得不吐槽 Linux 杂乱无章的依赖关系，装 Smokeping 最便捷的是 FreeBSD，仅需要一条命令便能完成全部安装。但由于后面的配置太不方便，还是用了用的人最多的 CentOS。 </p><p>##FreeBSD<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pkg_add -r smokeping</span><br></pre></td></tr></table></figure></p><p>##CentOS</p><p>###准备<br>先装好系统，我选的是 CentOS 6.6 64 位版本，CentOS 7 出的时间还不长，各种包东拼西凑装起来还是挺麻烦的。<br>然后配 IP 地址。<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">vi  /etc/sysconfig/network-scripts/ifcfg-ethx</span><br></pre></td></tr></table></figure></p><p>然后把 SELinux 禁用：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">vi /etc/selinux/config</span><br><span class="line">SELINUX = disabled</span><br></pre></td></tr></table></figure></p><p>###安装源<br>官方、网易等虽然稳定快速，但是很多东西都没有。于是装个东西比较全的源：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">rpm -Uvh http://apt.sw.be/redhat/el6/en/x86_64/rpmforge/RPMS/rpmforge-release-0.5.3-1.el6.rf.x86_64.rpm</span><br><span class="line">rpm -Uvh http://apt.sw.be/redhat/el6/en/i386/rpmforge/RPMS/rpmforge-release-0.5.3-1.el6.rf.i686.rpm</span><br></pre></td></tr></table></figure></p><p>根据自己的版本安装，5/7 的自己把 el 后的数字改掉。</p><p>###安装依赖<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">yum -y install perl perl-Net-Telnet perl-Net-DNS perl-LDAP perl-libwww-perl perl-RadiusPerl perl-IO-Socket-SSL perl-Socket6 perl-CGI-SpeedyCGI perl-FCGI perl-CGI-SpeedCGI perl-Time-HiRes perl-ExtUtils-MakeMaker perl-RRD-Simple rrdtool rrdtool-perl curl fping echoping  httpd httpd-devel gcc make  wget libxml2-devel libpng-devel glib pango pango-devel freetype freetype-devel fontconfig cairo cairo-devel libart_lgpl libart_lgpl-devel mod_fastcgi</span><br></pre></td></tr></table></figure></p><p>只要服务器不大姨妈还是很快的。</p><p>###安装smokeping<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">wget http://oss.oetiker.ch/smokeping/pub/smokeping-2.6.11.tar.gz</span><br><span class="line">tar zxvf smokeping-2.6.11.tar.gz</span><br><span class="line">cd smokeping-2.6.11</span><br><span class="line">./configure --prefix=/usr/local/smokeping</span><br><span class="line">./setup/build-perl-modules.sh /usr/local/smokeping/thirdparty</span><br><span class="line">./configure --prefix=/usr/local/smokeping</span><br><span class="line">/usr/bin/gmake install</span><br></pre></td></tr></table></figure></p><p>注意下载下来的压缩包是安装文件，不要改名后直接扔目录，会有冲突。<br>其中 <code>./setup/build-perl-modules.sh /usr/local/smokeping/thirdparty</code> 这一条是个大坑，会从 cpan.org 下载文件安装，但是 cpan.org 国内并不稳定，建议使用网易的镜像，<a href="http://mirrors.163.com/.help/cpan.html" target="_blank" rel="noopener">教程在这</a>，但我按教程来没效果，你也可以爬梯子或者多试两遍。</p><p>###配置 Smokeping</p><p>####创建 cache、data、var 数据目录<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">cd /usr/local/smokeping</span><br><span class="line">mkdir cache data var</span><br></pre></td></tr></table></figure></p><p>####创建日志<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">touch /var/log/smokeping.log</span><br></pre></td></tr></table></figure></p><p>####授权<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">chown apache:apache cache data var</span><br><span class="line">chown apache:apache /var/log/smokeping.log</span><br></pre></td></tr></table></figure></p><p>####修改配置文件<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">cd /usr/local/smokeping/htdocs/</span><br><span class="line">mv smokeping.fcgi.dist smokeping.fcgi</span><br><span class="line">cd /usr/local/smokeping/etc</span><br><span class="line">mv config.dist config</span><br><span class="line">vim config</span><br><span class="line">cgiurl = http://some.url/smokeping.cgi</span><br><span class="line">...</span><br><span class="line">step = 300</span><br><span class="line">ping = 5</span><br></pre></td></tr></table></figure></p><p>将 some.url 改成你的 IP 或者是域名。<br>这里 step、ping 意思是每 300 秒时间，ping 5 次。<br>配完保存给密码文件权限：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">chmod 600 /usr/local/smokeping/etc/smokeping_secrets.dist</span><br></pre></td></tr></table></figure></p><p>####修改 Apache 配置</p><p>#####无密码<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">vim /etc/httpd/conf/httpd.conf</span><br><span class="line">Alias /cache &quot;/usr/local/smokeping/cache/&quot;</span><br><span class="line">Alias /cropper &quot;/usr/local/smokeping/htdocs/cropper/&quot;</span><br><span class="line">Alias /smokeping &quot;/usr/local/smokeping/htdocs/smokeping.fcgi&quot;</span><br><span class="line">&lt;Directory &quot;/usr/local/smokeping&quot;&gt;</span><br><span class="line">AllowOverride None</span><br><span class="line">Options All</span><br><span class="line">AddHandler cgi-script .fcgi .cgi</span><br><span class="line">Order allow,deny</span><br><span class="line">Allow from all</span><br><span class="line">DirectoryIndex smokeping.fcgi</span><br><span class="line">&lt;/Directory&gt;</span><br></pre></td></tr></table></figure></p><p>#####设密码<br>如果要让登录 Smokeping 时需要验证用户，则 Apache 添加内容为<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">vim /etc/httpd/conf/httpd.conf</span><br><span class="line">Alias /cache &quot;/usr/local/smokeping/cache/&quot;</span><br><span class="line">Alias /cropper &quot;/usr/local/smokeping/htdocs/cropper/&quot;</span><br><span class="line">Alias /smokeping &quot;/usr/local/smokeping/htdocs/smokeping.fcgi&quot;</span><br><span class="line">&lt;Directory &quot;/usr/local/smokeping&quot;&gt;</span><br><span class="line">AllowOverride None</span><br><span class="line">Options All</span><br><span class="line">AddHandler cgi-script .fcgi .cgi</span><br><span class="line">AllowOverride AuthConfig</span><br><span class="line">Order allow,deny</span><br><span class="line">Allow from all</span><br><span class="line">AuthName &quot;Smokeping&quot;</span><br><span class="line">AuthType Basic</span><br><span class="line">AuthUserFile /usr/local/smokeping/htdocs/htpasswd</span><br><span class="line">Require valid-user</span><br><span class="line">DirectoryIndex smokeping.fcgi</span><br><span class="line">&lt;/Directory&gt;</span><br></pre></td></tr></table></figure></p><p>然后命令行输入，点回车，会要你输密码：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">htpasswd -c /usr/local/smokeping/htdocs/htpasswd admin</span><br></pre></td></tr></table></figure></p><p>####自动启动 Smokeping、Apache 服务<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">echo &quot;/usr/local/smokeping/bin/smokeping --logfile=/var/log/smokeping.log 2&gt;&amp;1 &amp;&quot; &gt;&gt; /etc/rc.local</span><br><span class="line">chkconfig httpd on</span><br></pre></td></tr></table></figure></p><p>####添加监控列表<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">vim /usr/local/smokeping/etc/config</span><br></pre></td></tr></table></figure></p><p>####Apache 开端口<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">iptables -I INPUT -p TCP --dport 80 -j ACCEPT</span><br><span class="line">/etc/init.d/iptables save</span><br></pre></td></tr></table></figure></p><p>重启设备后进入 <code>http://127.0.0.1/smokeping</code> 应该就能看到图表了</p><p>####树状目录权限报错<br>如果点击列表看不到图，提示什么权限不足，要按照报错新建对应目录，然后给权限<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">mkdir /usr/local/smokeping/data/IDC //IDC 根据实际情况修改</span><br><span class="line">chmod 655 /usr/local/smokeping/data/IDC</span><br></pre></td></tr></table></figure></p><hr><p>几乎照搬 <a href="http://dl528888.blog.51cto.com/2382721/1266598" target="_blank" rel="noopener">dl528888 的博文教程</a>，通过自己实际操作进行梳理，再加上他未说明和遗漏的内容合成一篇。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;smokeping 是一款开源的网络质量监控的工具。因为之前的那套挂了，所以重新搭了一遍。花了近一周，踩坑无数，将过程记录下来。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;~/smokeping.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;不得不吐槽 Linux 杂乱无章的依赖关系，装
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="监控" scheme="https://yufei.im/tags/%E7%9B%91%E6%8E%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>安卓5.0升级记</title>
+    <link href="https://yufei.im/post/%E5%AE%89%E5%8D%935-0%E5%8D%87%E7%BA%A7%E8%AE%B0/"/>
+    <id>https://yufei.im/post/安卓5-0升级记/</id>
+    <published>2014-12-02T16:38:00.000Z</published>
+    <updated>2018-04-25T15:16:01.647Z</updated>
+    
+    <content type="html"><![CDATA[<p>Android 5.0 这个据说是 Android 诞生的历史上最大的更新，事后想了想还是 4.0 冰激凌三明治 更新要大得多，萝莉棒（Lollipop）更多是重构界面与逻辑的重梳理。<br>本篇记录刷正式版萝莉棒的过程。为了避免又成为一篇纯吐槽文，加点教程充当干货吧。</p><p>#教程</p><p>##准备</p><p>###工厂镜像<br><a href="https://developers.google.com/android/nexus/images" target="_blank" rel="noopener">https://developers.google.com/android/nexus/images</a><br>下载对应设备的镜像包（要梯子）。</p><p>###adb/fastboot<br>网上那些下载包都不知道是多久前的版本了，<a href="https://www.dropbox.com/s/06x46dob8gys758/platform-tools.zip?dl=0" target="_blank" rel="noopener">这是</a>目前最新版（2014-12-03） SDK 中提取出来的。</p><p>###驱动<br>还是最新版 SDK 中提取出来的<a href="https://www.dropbox.com/s/5uk02whe4ii8ofj/usb_driver.zip?dl=0" target="_blank" rel="noopener">驱动</a>。</p><p>##刷机<br>首先<strong>请备份数据并保存到其他介质中</strong>！<br>现将 adb/fastboot 的压缩包解压出来，将该目录添加进环境变量 <code>PATH</code> 中。<br>将手机插到电脑上后会提示安装驱动，选择下载的驱动压缩包解压后的文件夹即可。<br>刷机需要设备处于解锁状态，解锁后一开始引导界面地方会有一把锁，解锁办法为——先将设备关机，同时长按电源键及音量加号键，连接数据线，然后在命令行中输入 <code>fastboot oem unlock</code>，注意<strong>本操作会清空设备内所有的数据</strong>。<br>将下载的 .tgz 压缩包解压，你可以选择是否清除数据。我个人推荐清除数据重新安装，以避免出现各种奇怪的问题。若要保留数据，则将工厂镜像文件夹中的 <code>flash-all.bat</code> 右击编辑，搜索 <code>-w</code>，并删除这两个字符。<br>运行 <code>flash-all.bat</code><br>多次自动重启后会进入系统，即完成。<br>注意：新版已发布大半月，早有 OTA（升级包）可刷，本文仅是记录完整刷机步骤。</p><hr><p>#过程<br>正式版是大约北京时间十一月十三日凌晨五点发布的，我五点三刻醒来刷了下 Google+ 后睡意全无，赶紧下载，但手边电脑没梯子，只好手机上是萝莉棒测试版，梯子有点问题，速度非常慢。只好在电脑上弄百度网盘的离线，但这速度简直感人。还是在电脑搭梯子下完了。<br>下载完成后按照以上的保留数据办法刷机了，结果出现各种奇葩问题——主屏幕键无法使用、下拉通知内容缺失等等等等。由于一团糟还非常困，就先睡了。<br>醒来后擦除数据 <code>erase userdata</code>，结果就开不了机了，一直处于开机动画，于是想用 Recovery 看看，结果内存储器里东西都没了，原来 <code>erase userdata</code> 还包含了存储器，以前一直以为仅仅是 <code>/data</code> 分区的。既然如此，干脆就用清空数据办法，将 <code>-x</code> 加入到 <code>flash-all.bat</code> 中。结果一直都是报错失败，没错，我把 <code>-w</code> 记成了 <code>-x</code>。心想我还是干脆自己一个个刷吧<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">fastboot flash bootloader bootloader-hammerhead-hhz12d.img</span><br><span class="line">fastboot flash radio radio-hammerhead-m8974a-2.0.50.2.21</span><br><span class="line">fastboot flash boot boot.img</span><br><span class="line">fastboot flash recovery recovery.img</span><br><span class="line">fastboot flash cache cache.img</span><br><span class="line">fastboot flash system system.img</span><br><span class="line">fastboot flash userdata userdata.img</span><br></pre></td></tr></table></figure></p><p>结果还是进不了系统。心想是不是包有问题，从官网重新下载运行，一点问题都没，这我才注意到我改错了。  </p><p>进系统进行设置，由于没有爬梯子，登录不到谷歌服务器，便不能恢复备份，只能设为新设备。<br>下载并打开钛备份，提示无根权限，便从 <a href="https://plus.google.com/+Chainfire" target="_blank" rel="noopener">chainfire</a> 大神那下载了支持萝莉棒测试版的 <code>SuperSU</code>，刷上去后依然提示无权限，由于已经是第二天的凌晨了，便先睡等醒来看消息。<br>chainfire 不负众望，更新了 <code>autoroot</code>，由于我刷了弗朗哥内核，导致刷上去后还是不行。只好又重新刷了一遍系统，这时就没问题了。<br>打开钛备份，想起我设备上数据全都没了，就去电脑上找同步的备份，电脑上的备份居然是十一天前的，因为我之前重装了操作系统，没有安装配置 BitTorrent Sync，于是这是一天的数据就全部丢失了。记住：<strong>一定要做异地备份！</strong><br>在 Google+ 上提到了这个，好不容易把备份恢复完成后，<a href="https://plus.google.com/115616104342147043843" target="_blank" rel="noopener">AnyOfYou Dary</a> 告诉了我如何设置代理和谷歌的设备还原。我便按照他的步骤操作，成功挂上代理并完成应用恢复，应用程序的数却却没有还原，不知为何，不知道会不会是因为恢复无线网络是断开恢复下载的问题，亦或者是因为之前搞了钛备份？我试了两遍都是没办法恢复数据，最后还是靠钛备份还原的数据。</p><hr><p>#结<br>虽然我已经不止一次将手机内存储设备上的数据弄丢失了，然而完全没吸取教训，到写这篇博客的时候还是没有安装同步。<br>个人觉得 Android 5.0 的出现完全让人耳目一新，甚至可以说终结了扁平拟物之争。全新的设计，优美的动画比 iOS 那苍白的界面好看、好用不知多少。<br>但萝莉棒的问题还是好多啊，虽然那个极其严重的无线网络电池问题解决了，但是使用中的耗电还是很高。连接无线网络总是有感叹号、Xposed 不能用等。另外几个设备的 5.0.1 更新已经发布了，坐等 Nexus 5 的。</p><hr><p>写着写着眼皮打架，要不是天太冷差点直接趴下。睡觉去~</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Android 5.0 这个据说是 Android 诞生的历史上最大的更新，事后想了想还是 4.0 冰激凌三明治 更新要大得多，萝莉棒（Lollipop）更多是重构界面与逻辑的重梳理。&lt;br&gt;本篇记录刷正式版萝莉棒的过程。为了避免又成为一篇纯吐槽文，加点教程充当干货吧。&lt;/
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="安卓" scheme="https://yufei.im/tags/%E5%AE%89%E5%8D%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小米路由器体验</title>
+    <link href="https://yufei.im/post/%E5%B0%8F%E7%B1%B3%E8%B7%AF%E7%94%B1%E5%99%A8%E4%BD%93%E9%AA%8C/"/>
+    <id>https://yufei.im/post/小米路由器体验/</id>
+    <published>2014-05-17T08:49:00.000Z</published>
+    <updated>2018-04-25T14:55:58.995Z</updated>
+    
+    <content type="html"><![CDATA[<p>15号晚上拿到了小米路由器，谈谈这两天的使用感受。</p><hr><p>#背景介绍（怨妇）</p><p>我算是小米的老顾客（是顾客，不是粉丝）了，是第一批入米1的用户。小米路由器刚发布信息时，感觉很不错，但是过两天的官网着实让我恶心了一把，内容就是各种风马不相及的恶意卖萌，大致是：</p><blockquote><p>问：小米路由器的配置怎么样？<br>答：呀，我们的工程师正在热火朝天地开发～<br>问：价格是多少？<br>答：伦家也不知道啊。</p></blockquote><p>之后说开放内测申请，过了半个月关闭申请，说因为有 30 万人申请，但是我们只有 50 台，这个时候真是恶心到了极点，明明知道只有 50 台还搞鸡巴大规模申请？<br>之后 1 元内测，犯贱的我还时去抢了，结果么，呵呵。</p><p>上个月出了张泄漏图说小米路由器即将开卖，售价是 1199（具体记不清了）。很多人就骂，结果是卖 699，然后我又犯贱起了买小米路由器的念头（现在想来那个 1199 就是小米自己放的，为了烘托最后价格的实惠，我又一次被小米坑了）。</p><p>上月底开卖，当然需要抢，当然也几乎抢不到，但是小米路由器在天猫上却有大把的现货原价销售，对此官方的声明也颇为暧昧。这周二同学抢到了路由器问我要不要，我就考虑反正小米说七天无条件退货，那就用七天，要是挺不错就留下，不行的话就退了，也就快递的钱，不是什么大损失，于是就入了。</p><p>#介绍（正文）<br>硬件总的来说还不错，外观不算丑，内置了 1TB 硬盘，风扇声音也远没网上说的晚上吵得睡不着，但在安静的白天还是能听到运转的声音。听说这个硬盘和风扇都是二十四小时不停运转的，我对寿命保持怀疑态度。信号很好，隔了三堵墙信号也还不错，之前的极路由一半的距离就很危险了。</p><p>这路由器的重头在那个 miwifi 系统，就着重讲系统。<br>拿到手一分钟不到就完成了硬件安装及上网配置，非常方便快捷，但是我对这个系统的好感也基本到此为止了。</p><p>到手的版本是最初的稳定版，只能看到基本信息、插件（应用）和设置。<br>我之前的路由器是极路由内测版，最大的特点就是号称有丰富的扩展支持，结果到手一年多了，当初承诺的功能不少至今都没实现。</p><p>我拿到手的第一件事当然就是看看有什么插件，点进去提示说必须要绑定小米账号才能继续，我也能理解，输入用户名密码后，提示无法授权，我又试了好几次还是这样，谷歌了一下，原来是必须要在移动端下才能绑定，强推移动端就不说它了，但你好歹应该提示在手机端才能完成绑定吧，就这么个失败谁知道怎么回事啊？</p><p>手机上完成绑定后说加载插件失败，我就从官网下载了开发版升级，等了几分钟升级完成后，进后台又提示我升级，原来官网的开发版是第一版的。。好吧继续升级，更新完成进后台发现连插件页都没了，只能在移动端看插件。。</p><p>Android 版界面完完全全照搬 iOS。</p><p>手机看了下一共只有四个插件，其中一个是播放器，一个是迅雷的网页，还有个是看小米发布会的，我了个去，也就是说一共只有一个「迅雷云加速」能算是个插件，这个插件的作用是下载文件到路由器的内置硬盘里，还免费送了两个月的迅雷白金会员，这个挺不错的，虽说最近风声紧，已经残废了。速度非常快，我的网络是 20M，下载速度也能够达到 2.5MB/s。终于能实现睡觉下片了，之前尝试用手机晚上挂种子，速度非常慢。</p><p>所有连接的设备都能访问文件，很方便。看 1080p 的视频，随便拖秒加载。</p><p>速度与官方宣传的差距非常大，官网说 2.4 GHz 为 300Mbps，5 GHz 为 867Mbps。实际使用下，即使 Nexus 5 在路由器边半米处，2.4 GHz 下最高为 72Mbps，内网传输峰值为 6MB/s；5 GHz 下最高为 433Mbps，内网传输峰值为 16MB/s。通过超五类双绞线传输，峰值为 25MB/s。不知道是什么情况。</p><p>后台界面的「路由状态」里，实时显示速度，我这 20M 宽带理论上限为 2.5MB/s，但是图表的纵坐标值固定为 10MB/s，不知道为什么要这么设计，平均下载这一下设计的人也挺弱智的。这些数据里只有总上传量是包含内网的（你可能也发现，两个下载量并不相同，而且这两个数字都没有包含迅雷云加速和内网传输）。顺带一提更新后（也可能是重启后）数据会丢失。<br><img src="http://ww4.sinaimg.cn/large/6acc8f77gw1eghfnr557dj20ot0osgpw.jpg" alt="Image Title"></p><p>网络设置功能非常残缺，各种「低端路由器」标配的功能，小米智能路由器都没有。<br><img src="http://ww3.sinaimg.cn/large/6acc8f77gw1eghfpzl197j20nc0lqgoj.jpg" alt="Image Title"></p><p>系统设置也都没什么能设的，应用限速就俩，还不能添加。<br><img src="http://ww3.sinaimg.cn/large/6acc8f77gw1eghg1cgnmsj20hx0ixtb3.jpg" alt="Image Title"></p><p>小米路由器官网上花了非常大的篇幅来画了一个<a href="http://www.mi.com/miwifi#intelli" target="_blank" rel="noopener">智能家居</a>的大饼，但是这里面的无一能实现，况且公开发售的版本还阉割了红外线发射器。</p><hr><p>#结<br>拿到小米路由器后，我觉得我已经发现了现在中国特色互联网产品的实质——</p><blockquote><p>原来一个产品完成后，才会进行销售；现在搭个框架，画个大饼，半成品就能卖，然后与用户共同成长～接着出下代产品，把前一代已知的有能力修的问题修一修，再堆点硬件，一脚踢开之前用户，告诉你由于硬件限制，当初承诺的无法兑现。</p></blockquote><p>周一退货去。</p><p>珍爱生命，远离小米。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;15号晚上拿到了小米路由器，谈谈这两天的使用感受。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;#背景介绍（怨妇）&lt;/p&gt;
+&lt;p&gt;我算是小米的老顾客（是顾客，不是粉丝）了，是第一批入米1的用户。小米路由器刚发布信息时，感觉很不错，但是过两天的官网着实让我恶心了一把，内容就是各种风马不相及的恶意
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="小米" scheme="https://yufei.im/tags/%E5%B0%8F%E7%B1%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>安卓应用翻译心得</title>
+    <link href="https://yufei.im/post/%E5%AE%89%E5%8D%93%E5%BA%94%E7%94%A8%E7%BF%BB%E8%AF%91%E5%BF%83%E5%BE%97/"/>
+    <id>https://yufei.im/post/安卓应用翻译心得/</id>
+    <published>2014-04-20T14:59:00.000Z</published>
+    <updated>2018-04-25T15:18:55.633Z</updated>
+    
+    <content type="html"><![CDATA[<p>今年参与了很多 Android 应用的翻译，主要原因有二：<br>一是自己本身英语就很烂，很多英文应用看不懂，而且还不能在谷歌翻译里复制粘贴；<br>二则有的应用虽然理解没问题，但毕竟是英文，不如母语那样方便。<br>所以方便自己顺便也帮助那些跟我一样英语很烂的人更很好地来用那些优秀的国外应用。<br>翻了不少，也有了一些心得，在这记录下。</p><p>##多用中文<br>计算机行业算是几乎完全由英语主导的一行，翻译/文章里有大量的名词是直接用英文原词，尽量用中文来表达并附上英文原词，如果说 <code>root</code> 大多数用户虽然不知道具体是什么意思，但仍然大概知道大概能干什么的话（<code>root</code> 这个词在计算机里应用挺广泛的，能表示操作、权限、目录或用户等，还是有必要分清楚），类似于 <code>APN</code> 这种词几乎所有用户都完全不知道是什么和干什么的，更有必要解释清楚的。</p><p>##汉字和 English 之间加空格<br>虽然大陆、台湾和日本都没有这个要求，但是为了让语句看着更加舒服，这么做还是很有必要的。</p><p>##用汉字标点<br>很多人都习惯中文用英文标点，这一点我完全无法理解，这非常难看。<br>其他标点别的没什么问题，引号<code>“”`</code>「」`大陆和台湾的标准是不一样的。虽然按理说应该采用大陆标准，但是一方面直角引号更加美观，并且圆引号很吃字体，很多字体里圆引号根本分不出前后来，还有些字体可能是直接用英文的引号，宽度非常窄，引号前后的字几乎贴在了一起。<br>对此我采用了直角引号，但如果有译者或是用户提出意见，我就改成圆引号。</p><p>##相邻词的字尽量不要用同一个字<br>有时候会带来歧义，虽然大多数时候不会有问题，但是看起来不那么连贯，会让人顿一下。所以尽量换个同义词或者是调整下语句结构。</p><p>##统一句式、词汇<br>比如现在进行时 <code>-ing</code>，到底是用<code>正在做</code>，还是<code>做中</code>，要统一。我就见过点击同步按钮，显示<code>正在同步甲</code>，然后<code>同步乙中</code>，对有强迫症的同学简直是要命。<br>同一个词，在意思相同时统一。如 <code>load</code> 到底用<code>加载</code>还是<code>载入</code>。<br>在被称为 Android 上最好用的阅读应用 Press 上，更是出现过同步频率选项下出现了类似</p><ul><li>每15分钟同步一次</li><li>30 分钟同步一次</li><li>四十五分钟</li><li>每小时同步一次</li></ul><p>这样奇葩的翻译。。还能说什么呢？</p><p>##少用被字句<br>英文里，被动用的很多，但是在中文语境里，几乎用不到被字句，更何况被字句经常带有一定的贬义意味。所以尽量把被字句都改为主动句。<br><code>按钮被按下后，会进行提交操作</code>—&gt;<code>按下按钮后会进行提交操作</code></p><p>##不要用欧化中文<br>英文里 <code>will</code> 作为将来时的代表被广泛运用，中文翻译时经常直接翻译成<code>将</code>，但是说实话读着完全不顺，也完全不符合中文习惯，你想想你生活里除了英语课和考试，你能用几次<code>将</code>？</p><ul><li>我将要在两天后去旅行</li><li>我后天要去旅行</li><li>我准备后天去旅行</li></ul><p>但我在翻译时经常会忘记这一点，以后要多加注意。</p><p>同理，其他英文有而中文没有的时态、介词等，也要以中文来表达。专门有一个词来形容这种翻译——<a href="http://zh.wikipedia.org/zh-cn/歐化中文" target="_blank" rel="noopener">欧化中文</a>，详情请看维基百科对应词条。</p><p>##不要用斜体<br>斜体在英文中表强调、引用等，但是在东亚语言里，用斜体简直反人类。<br>英文里由于词与词之间是有空格的，倾斜以后并不影响视觉。汉字由于是两两相连，若是字间距较小的话，最后一个<em>倾斜的汉字</em>将会和接下来的第一个正体汉字重合一部分。而且由于汉字是方块字，倾斜后导致结构发生变化，会让识别汉字更困难。<br>翻译里的斜体普遍用于大段文字说明中，一般该翻译词条是使用 html 格式的，即<code>&lt;i&gt;&lt;/i&gt;</code>包含的内容采用斜体。若是书名则采用书名号<code>《》</code>，表强调是用粗体来替代，即<code>&lt;b&gt;&lt;/b&gt;</code>。</p><p>##采用官方规范<br>比如 Play 商店的分类名称，谷歌给出了官方中文翻译，这时就不要自己起名字，采用官方的。<br>比如 Google 有正式汉字名——谷歌，翻译时就应该采用官方中文名称。</p><p>##该意译就意译<br>很多原文非常具有欧式特色，例如冗长的句式，配以各种态、连接词。这种时候就该果断拆成以句号分隔的多句话，并且意译。你要是跟着他翻译，自己累，别人还看不懂，何苦呢？</p><p>有的作者会在常见问题（FAQ）里提及一些单位、应用等，这时就该以本土用户更为熟悉单位、名称来替代。比如把英制转成公制，国外应用改成国内更常见的应用。像昨天翻译的一款接管应用内链接的应用，文中提及了两款应用，我都没听说过，可以考虑用同一原理的常见应用来替代。</p><p>##改变结构<br>由于中文语序和英文不同，不要拘泥，和上面同一条道理。<br>还是昨天那个应用：主页面有三行<br><code>saves youxxx secondsper link</code><br>第二行固定不能动，由于怎么调整语序都不符合汉语习惯，就将第一句和第三句合并为<code>平均每个链接为您节省了</code>，第三句置空。<br><code>平均每个链接为您节省了xxx 秒</code></p><p>##注意屏幕大小<br>注意控制翻译长度，过长显示会有问题，比如：超出屏幕导致被截取；若被换行，但是第二行就一两个字就特别不美观。</p><p>##不要太口语化<br>类似于疑问句不要用<code>么</code>这种太过于口语化的词，用正式的<code>吗</code>。</p><p>##应用名称<br>应用名称到底要不要翻译，挺成问题的。我个人意见——多个单词的组合词可以翻译，如果是自造词或者单个单词建议不翻译。</p><p>##反面例子<br>图一翻译照搬原文每句后面都加句号，首先这就不符合中文规范（左括号是英文标点，右括号是中文标点，实在无力吐槽），假如换成中文句号的话，由于中文标点占两位又显得太重，个人认为较短句子后面的句号可以省略。<br>另：这个开发者是德国人，之前如果翻译不是以句号结尾，他会强制后面加上句号<code>.</code>，我跟他反映后他很惊奇——世上居然还有不是都以<code>.</code>结尾的语言。其实他应该很早就会发现世界上标点是不统一的，比如他所在的德国，千位分隔符是<code>.</code>，小数分隔符是<code>,</code>。</p><p><img src="~/2014-11-26 08.44.07.png" alt=""></p><p>图二每个选项后面那个<code>...</code>恕我孤陋寡闻，不知道是什么出处，猜想可能是表示还有下一层级或者是可点击的意思？<br>首先不美观，很杂乱；再者要加就全加呗，偏偏还有一个不加的；最后有的<code>...</code>之前有空格，有的没，这是几个意思啊！</p><p><img src="~/2014-11-26 08.56.00.png" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今年参与了很多 Android 应用的翻译，主要原因有二：&lt;br&gt;一是自己本身英语就很烂，很多英文应用看不懂，而且还不能在谷歌翻译里复制粘贴；&lt;br&gt;二则有的应用虽然理解没问题，但毕竟是英文，不如母语那样方便。&lt;br&gt;所以方便自己顺便也帮助那些跟我一样英语很烂的人更很好地来
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="安卓" scheme="https://yufei.im/tags/%E5%AE%89%E5%8D%93/"/>
+    
+      <category term="翻译" scheme="https://yufei.im/tags/%E7%BF%BB%E8%AF%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>安卓通知组合玩法</title>
+    <link href="https://yufei.im/post/%E5%AE%89%E5%8D%93%E9%80%9A%E7%9F%A5%E7%BB%84%E5%90%88%E7%8E%A9%E6%B3%95/"/>
+    <id>https://yufei.im/post/安卓通知组合玩法/</id>
+    <published>2014-03-26T14:55:37.000Z</published>
+    <updated>2018-04-25T15:19:37.317Z</updated>
+    
+    <content type="html"><![CDATA[<p>Android 的通知一向都是强项，4.1 开始支持的可扩展通知栏，4.3 开始支持的读取通知权限，都诞生了很多新玩法。</p><p>#<a href="https://play.google.com/store/apps/details?id=com.pushbullet.android" target="_blank" rel="noopener">Pushbullet</a><br>我之前一直保留着 Android 版火狐的一大重要原因是它可以将手机上的标签页推送到桌面版火狐。上个月因为我桌面浏览器换成了 Chrome，所以就想办法替代，于是重拾 Pushbullet。</p><p>本应用最初的核心功能是在移动设备与桌面设备间推送文字/ 图片/ 链接。我本来发送文字是用 Google Keep，但是同步不是即时的，也非常麻烦。发图、文件用 Dropbox，这就更麻烦了。</p><p>有了本应用，只需要输入要推送的信息，点击推送便可。若是推送到 Android 4.1+ 版本的移动端，在通知栏可预览、点击便可复制，极为便利。</p><p>之后的更新加入了一个非常实用的功能，将移动端的通知消息镜像至电脑。本功能最大的意义是——当移动端有新消息时，不需要点亮设备便可以查看。</p><p>#<a href="https://play.google.com/store/apps/details?id=com.achep.activedisplay" target="_blank" rel="noopener">AcDisplay</a><br>当在电脑面前，移动设备上的消息能用 Pushbullet 镜像通知到电脑上，要是不在电脑面前怎么办呢？iOS 能够锁屏显示通知，原生 Android 只有振动和呼吸灯，AcDisplay 提供了优于 iOS 的体验。</p><p>本应用可以在有新通知消息时点亮屏幕，优美地显示通知。可以自定义亮屏持续时间，并有主动模式，即利用距离感应器，当你手从设备上划过亦或从口袋中拿出时，自动点亮屏幕。</p><p>#<a href="https://play.google.com/store/apps/details?id=com.nlucas.notificationtoasterlite" target="_blank" rel="noopener">NotifierPro </a><br>Android 通知还有一点比不上 iOS，就是亮屏时的新通知消息，在下拉通知栏之前都不知道是什么，本应用便可以像 iOS 那样有个通知框。<br>注意：本应用与 AcDisplay 都有点亮屏幕的功能，但是 AcDisplay 比这美观得多，若要组合使用，记得去掉点亮屏幕功能。</p><p>#<a href="https://play.google.com/store/apps/details?id=com.cypressworks.changelogviewer" target="_blank" rel="noopener">Changelog Droid</a><br>本应用能在更新、安装时在通知栏显示更新日志，对我这种更新日志必看的人来说，真乃神器也。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Android 的通知一向都是强项，4.1 开始支持的可扩展通知栏，4.3 开始支持的读取通知权限，都诞生了很多新玩法。&lt;/p&gt;
+&lt;p&gt;#&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.pushbulle
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="安卓" scheme="https://yufei.im/tags/%E5%AE%89%E5%8D%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nexus 5一月使用体验</title>
+    <link href="https://yufei.im/post/nexus-5%E4%B8%80%E6%9C%88%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/"/>
+    <id>https://yufei.im/post/nexus-5一月使用体验/</id>
+    <published>2014-02-21T05:16:40.000Z</published>
+    <updated>2018-04-25T15:23:47.146Z</updated>
+    
+    <content type="html"><![CDATA[<p>入手 Nexus 5 已经一个月了，写一篇来记录感受和折腾经历。<br>有意的强烈建议看<a href="http://www.ifanr.com/392564" target="_blank" rel="noopener">这篇测评</a>，是目前最好的一篇测评。</p><hr><p>##使用感受</p><p>##购买<br>在11月1号，谷歌发布时就打算入，纠结了近3个月终于入了。打个广告：</p><blockquote><p>想入的建议在<a href="http://thesh6p.taobao.com/index.htm?spm=2013.1.w5002-4699365161.2.8NSyxj" target="_blank" rel="noopener">这家</a>买。认真负责得令人发指，买之前会把所有相关的单子、盒子等全部拍照发过来。</p></blockquote><p>￥2700 入的 32G 黑色美版，这是我在可信、普通的代购渠道看到的最低价了。还有个 ￥320 的无线充电器。</p><hr><p>##感受</p><p>###外观<br>正面没有任何图案，一片黑（白、红色版的听筒和机身一样，要入的考虑清楚）。背面是书竖排的 <strong>Nexus</strong>，我个人不太喜欢。最好是Google 或者像 Nexus 4 那种效果。<br>屏幕非常清晰，远胜 米1 和 iPad3。</p><p>###手感<br>非常轻薄，要不是我之前摸过某三星和米三就真成刘姥姥了。<br>正面玻璃非常光滑，没有米1那种粘滞感。背面是类肤质材料，比较容易留下指纹，等天热了估计手汗也会很明显。<br>作为 5 寸屏，左上角想都不用想，肯定是按不到的，而且左下角不调整握持姿势也是按不到的。那干脆就用双手操作，别去管什么单手操作面积之类的理论，其实我一直觉得除了特殊场合，比如公交车上要一个手扶着需要单手外，扯单手理论并没有特别大意义。<br>电源键有点靠上，不调整姿势很难按到。左侧的音量键比较容易误触。</p><p>###硬件缺陷<br>关于具体配置、参数，顶上那篇测评有很详细地说了，就不重复了。主要谈谈做工缺陷。<br>刚出时的第一批摇晃手机会听到明显的音量键晃动的声音，后来几批有所改进，我的这部时第三批了，晃动的声音比米一和牛排要明显，但也能接受。<br>问题更大的地方在于喇叭，底部的两个喇叭口，我觉得只有一个是有声音的，网上也看到普遍有这个问题。<br>我觉得最大的败笔在于背面的摄像头，背面除了这个摄像头都在一个平面上，导致在桌上放不平，所以我现在比较喜欢把手机上部放在一些小东西上，比如耳机线之类的。虽说刚买都挺珍惜，以后肯定都跟后妈那样，但是镜头毕竟花了就非常影响使用。<br>有空去查查这个镜头到底是什么材料做的、硬度如何、能放在什么材料上面、有没有人刮花。</p><p>###电池<br>2300 毫安，不算大。正常使用撑到吃晚饭的点还是没问题的。这主要得看你怎么用，我一开始一直开游戏玩，一天要充 3 次电，也有较轻度用用抗一天半的。总的来说凑合。</p><p>###相机<br>个人觉得还行，没设备作比较。HDR+ 模式挺棒。</p><p>###系统流畅度<br>基本从去年的设备开始，Android 旗舰机已经不存在流畅度如何的问题了。不过有一个前提是少用电国产垃圾软件，特别像百度、腾讯、阿里、金山系的，360 就更不要说了。</p><p>###系统<br>作为亲儿子能第一个享用到最新版的 Android 系统，有非常多的大神开发工具、系统、内核、应用等。<br>我在米1上早就用到了4.4，所以对系统本身并没有太多感想。</p><hr><p>基本使用体验结束，接下来是高端的折腾部分。</p><hr><p>坑。。等我有空再写。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;入手 Nexus 5 已经一个月了，写一篇来记录感受和折腾经历。&lt;br&gt;有意的强烈建议看&lt;a href=&quot;http://www.ifanr.com/392564&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;这篇测评&lt;/a&gt;，是目前最好的一篇测评。&lt;/p&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="安卓" scheme="https://yufei.im/tags/%E5%AE%89%E5%8D%93/"/>
+    
+      <category term="谷歌" scheme="https://yufei.im/tags/%E8%B0%B7%E6%AD%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android 应用推荐・貳——国产</title>
+    <link href="https://yufei.im/post/android-%E5%BA%94%E7%94%A8%E6%8E%A8%E8%8D%90%E3%83%BB%E8%B2%B3%E2%80%94%E2%80%94%E5%9B%BD%E4%BA%A7/"/>
+    <id>https://yufei.im/post/android-应用推荐・貳——国产/</id>
+    <published>2014-01-17T04:30:47.000Z</published>
+    <updated>2018-04-25T15:17:52.857Z</updated>
+    
+    <content type="html"><![CDATA[<p>偷懒许久继续本系列，这次谈谈那些优秀或垃圾的国产应用。中国作为第二大移动设备市场，不仅移动设备销量大、品牌多，本土的应用也相当多。但是 Android 应用质量普遍非常低，但依然有不少高质量的应用，同时也有很多我想喷的应用。</p><p>##优秀应用</p><p>###<a href="https://play.google.com/store/apps/details?id=com.oasisfeng.greenify" target="_blank" rel="noopener">绿色守护</a><br>一款非常棒的进程控制类应用。国产所有的「安全管家」都有「优化内存」的功能，说白了就是杀进程。这种从小内存的 Windows 时代遗留的习惯带到了 Android 平台上。我一向都无法理解有些人电脑内存都 4~8GB 了，还那么在乎一个应用多占了十几兆甚至几兆的内存；喜欢看着内存占用永远低于三十，似乎超过了百分之五十电脑就会炸掉似得。同理开了应用用完以后必须要清理，优化、清理的实质便是杀进程，但是杀了进程以后便无法享受该应用带来的一些便利的功能了。那在性能与便利之间有没有什么平衡点呢？绿色守护便是。<br>绿色守护拥有独到的技术，让应用处于深度休眠状态，对于使用 GCM 的应用，还支持推送。详见应用介绍页。</p><p>###<a href="https://play.google.com/store/apps/details?id=mobi.infolife.ezweather" target="_blank" rel="noopener">轻松天气</a><br>终于找到一款非常适合我的天气应用了，相较于不少国外天气应用来说天气更为准确。界面美观、全中文。功能强大，桌面控件还可以单独设置打开什么时钟、天气应用。遗憾的是暂时还没有为平板优化。</p><p>###<a href="https://play.google.com/store/apps/details?id=org.qii.weiciyuan" target="_blank" rel="noopener">四次元</a><br>Android 平台最好的微博客户端，界面遵照 Android 设计规范，又不拘泥于此。还有黑魔法，突破新浪 API 限制。</p><p>###<a href="https://play.google.com/store/apps/details?id=com.alensw.PicFolder" target="_blank" rel="noopener">快图浏览</a><br>Android 平台公认的最好的图片浏览器，体积很小、界面美观、功能强大，速度又快。在 Google+ 相册出现之前，完全没有任何图片浏览应用能与之比较。你值得拥有。</p><p>###<a href="https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder" target="_blank" rel="noopener">便捷录音</a><br>方面、美观、快捷、音质好、功能强大。</p><p>###<a href="http://support.evanhe.com/2012/03/08/introduction-to-market-unlocker-2/" target="_blank" rel="noopener">市场解锁</a><br>对于中国大陆用户，想要下载、购买带有内购或付费就必须要切换到美区。本应用可以模拟任何国家的运营商。</p><p>###<a href="http://www.ibuka.cn/" target="_blank" rel="noopener">布卡漫画</a><br>Android 上提到漫画应用，必然是布卡。美观、强大。</p><p>###<a href="https://play.google.com/store/apps/developer?id=Zhihu+Inc." target="_blank" rel="noopener">知乎</a><br>知识社区，是国内公司里 Android 应用做得最好的。</p><p>###<a href="https://play.google.com/store/apps/details?id=com.youba.barcode" target="_blank" rel="noopener">二维码扫描</a><br>简单实用的二维码扫描应用，没有那么多繁杂的功能。</p><p>###<a href="https://play.google.com/store/apps/details?id=com.nextdev.alarm" target="_blank" rel="noopener">闹钟One</a><br>好用的闹钟应用。</p><p>###<a href="https://play.google.com/store/apps/details?id=com.github.shadowsocks" target="_blank" rel="noopener">影梭</a><br>出墙神器，当然前提是你有账号。</p><p>##垃圾应用</p><p>###<a href="https://play.google.com/store/apps/details?id=me.abitno.vplayer.t" target="_blank" rel="noopener">VPlayer</a><br><img src="/images/vplayer.png" alt="VPlayer"><br><del>应用本身没话说，理应在优秀应用推荐里。但是开发者太恶心。其实我们也不要求开发者对国内用户有什么特别好的待遇（有类似于付费版优惠之类的当然也好），只要像对待其他人一样就行。应用介绍、更新日志都是英文也没关系。开发者只有在简体中文里加上那些你在中文互联网经常看见的标语（最大、最好、绿色、安全、无广告、高效等等），这让我这种人感到非常恶心。发邮件去问开发者，开发者满满的嘲讽意味——「国人不都喜欢这种口号么~」。既然开发者不喜欢为什么要把这种恶心的东西强加给用户？反正你们也不希望喜欢这种标语的用户用你的产品，你要是不加这句他们就会去用使用恶心方法的应用，剩下来的用户不喜欢这种标语，干嘛还要恶心正常人？<br>当社会充斥了不合理元素时，某些觉悟到的人并没有尽自己力来改善这一不良现象，反而去恶心其他觉悟到的人。唉</del><br>经过多次和开发者的邮件，承诺会在年前修正。若不呐喊、反抗，什么都不会改变。</p><p>###腾讯系<br>照搬 iOS 界面不说，连 Android 优势的地方也完全采用 iOS 那套垃圾的玩法（比如 Android 的系统及分享）。国际版微信不采用 GCM，大幅影响电池续航。</p><p>###阿里系<br>各种通知，全都是广告，权限巨多。不遵照 Android 设计规范。</p><p>###LBE<br>论功能也应在前面，但是作为安全厂商，不去封堵漏洞，反而利用漏洞来扩散自己的产品。</p><p>###所有管家<br>前面已经提到了，把用户在 Windows 上的错误习惯带到 Android 平台上。</p><p>###电池类<br>更浪费电，也完全没有宣传的那些优化电池的能力。</p><p>###超级应用<br>一个应用想包办所有功能，无比巨大。野心无限大，有的手电筒应用把自己当成微信一样做平台。。。</p><p>还有不少一时想不起来的，就不喷了。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;偷懒许久继续本系列，这次谈谈那些优秀或垃圾的国产应用。中国作为第二大移动设备市场，不仅移动设备销量大、品牌多，本土的应用也相当多。但是 Android 应用质量普遍非常低，但依然有不少高质量的应用，同时也有很多我想喷的应用。&lt;/p&gt;
+&lt;p&gt;##优秀应用&lt;/p&gt;
+&lt;p&gt;###
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="安卓" scheme="https://yufei.im/tags/%E5%AE%89%E5%8D%93/"/>
+    
+      <category term="应用" scheme="https://yufei.im/tags/%E5%BA%94%E7%94%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android 应用推荐・壹——Xposed</title>
+    <link href="https://yufei.im/post/android-%E5%BA%94%E7%94%A8%E6%8E%A8%E8%8D%90%E3%83%BB%E5%A3%B9%E2%80%94%E2%80%94xposed/"/>
+    <id>https://yufei.im/post/android-应用推荐・壹——xposed/</id>
+    <published>2013-12-01T04:30:47.000Z</published>
+    <updated>2018-04-25T15:17:14.187Z</updated>
+    
+    <content type="html"><![CDATA[<p>原生 Android 系统可供设置的地方非常少，可能比 iOS 还少，想要制定系统（比如状态栏、下拉设置、图标等）就得自己动手或者使用第三方制作的系统来解决。但往往有名和好用的第三方系统官方匹配的机型并不多，如果不支持你的机子还得指望民间来适配。况且各个第三方系统各有各的特性，很可能这个系统有你离不开的功能，另一个有其他吸引你的地方却没这个，很是纠结。那有没有办法兼顾呢？Xposed 在一定程度上可以解决。把各个功能作为模块实现，你可以按自己的需求来安装。</p><p><a href="http://forum.xda-developers.com/showthread.php?t=1574401" target="_blank" rel="noopener">Xposed</a> 框架是一款可以在不修改 APK 的情况下修改系统和软件的框架服务，基于它可以制作出许多功能强大的模块。</p><p>在 xda 上有人做了个大全 <a href="http://repo.xposed.info/" target="_blank" rel="noopener">Collection of XPOSED Modules</a>，英文好的同学可以自己上去找。我在这只是推荐下自用的。</p><hr><p>#安装 Xposed 框架</p><ol><li>确保是正常的系统（不支持类似于 Flyme 等深度制定的系统，对 MIUI 有有限支持）</li><li>已经获得根权限（root）</li><li><a href="http://dl.xposed.info/latest.apk" target="_blank" rel="noopener">安装最新版的 Xposed</a></li><li>运行 Xposed</li><li>点击「框架」按钮</li><li>点击「安装/更新」按钮</li><li>重启</li></ol><p>#安装 Xposed 模块</p><p>##在 Xposed 应用内下载安装</p><ol><li>打开 Xposed 应用</li><li>点击「下载」查看可使用模块（里面几乎全部都是英文的）</li><li>找到自己想要的模块后，点击进去安装</li><li>回到 Xposed 主界面，点击「模块」</li><li>找到刚刚安装好的模块，选中把名称前面的勾</li><li>重启</li></ol><p>##下载安装包安装</p><ol><li>通过搜索引擎、推荐、官网或前面的大全等途径下载安装包（APK）并安装</li><li>同上 456 步</li></ol><p>#设置 Xposed 模块<br>很多 Xposed 模块应用是提供设置的，进入 Xposed 应用，点「模块」，再点对应的名称即可进入。有的模块是有应用图标的，那就直接点击即可。</p><hr><p>#模块推荐<br>以下所有模块除了那两个收费的以外均可在 Xposed 中「下载」里下载安装。</p><p>###<a href="http://forum.xda-developers.com/showthread.php?t=2437377" target="_blank" rel="noopener">App Settings</a><br>从名字上应该能看出这是一款对应用进行设置的模块。可以单独对一个应用设DPI、字号缩放、分辨率、语言、是否全屏，方向和权限等。非常实用，但用得到的地方也不多。</p><p>###<a href="http://forum.xda-developers.com/showthread.php?t=2432359" target="_blank" rel="noopener">BootManager</a><br>设置开机启动项，把那些游戏和国产公司的应用们都禁止自启动吧！</p><p>###<a href="http://forum.xda-developers.com/showthread.php?t=2502282" target="_blank" rel="noopener">HideStorageMountAlert</a><br>当手机连上 USB 线插到电脑上时总会弹出一个界面问你是否要打开大容量存储，这个模块可以让那个弹出界面消失，如果需要连接时，可以从下拉通知里进去。</p><p>###<a href="http://forum.xda-developers.com/showthread.php?t=2385625" target="_blank" rel="noopener">Jelly Bean 4.x Airplane Mode Helper</a><br>在 Android 4.2 及以上版本的系统中，谷歌把应用允许调用飞行模式的接口去掉了，导致应用需要用飞行模式的时候必须要你手动进设置选中飞行模式，挺麻烦的。用上这个后就能像之前那样直接用接口调用了。</p><p>###Play Store link in App info<br>非常有用的一个小功能，在查看应用信息的时候显示一个按钮，点击即可直接跳转到 Google Play 上该应用所在的页面。</p><p>###<a href="http://forum.xda-developers.com/showthread.php?t=2457265" target="_blank" rel="noopener">Tinted Status Bar</a><br>可以让状态栏的颜色和按照和应用顶部颜色一致（就像 iOS 7 那样）。只有按照Android设计规范或使用作者接口的应用才有这个效果，所以几乎所有国产应用都不支持（不少个人开发者的优秀应用都支持）。除了自动匹配以外，你也可以手动设颜色，作者建了一个<a href="https://docs.google.com/spreadsheet/ccc?key=0AibKJwYV-sTfdF9MZmk3a1JqZ2ZBODJ0azVJV3RnTEE&amp;usp=sharing" target="_blank" rel="noopener">表格</a>，让你可以参考配色。</p><p>###<a href="http://forum.xda-developers.com/showthread.php?t=2320783" target="_blank" rel="noopener">XPrivacy</a><br>可以设置应用的权限，非常详细强大，就是太烦琐了。</p><p>###<a href="https://play.google.com/store/apps/details?id=sg.ruqqq.IconThemer" target="_blank" rel="noopener">Unicon</a><br>改变应用图标，包括分享等任何你看得到这个应用图标的地方。1.59美元。</p><p>###<a href="https://play.google.com/store/apps/details?id=com.oasisfeng.greenify" target="_blank" rel="noopener">绿色守护</a><br><a href="https://play.google.com/store/apps/details?id=com.oasisfeng.greenify.pro" target="_blank" rel="noopener">捐赠版</a>可以开启更多功能，非常棒的一款软件，可以看下<a href="http://www.phonekr.com/greenify/" target="_blank" rel="noopener">锋客的评测</a>，免费版功能就很强大，比那些暴力杀进程的应用强十万八千里。捐赠版2.99美元。</p><p>###<a href="http://forum.xda-developers.com/showthread.php?t=2316070" target="_blank" rel="noopener">GravityBox</a><br>极其强大的系统自定义功能，大多主流第三方系统有的功能它都有。强烈推荐原生系统用户使用。</p><p>###3dot menu Mod<br>在有实体键的机子上也显示菜单的三个点。用了类似于 GravityBox 的模块的不需要装，已经自带。</p><p>###Advanced Power Menu<br>强化电源键菜单。同上。</p><p>###<a href="http://forum.xda-developers.com/showthread.php?t=2365294" target="_blank" rel="noopener">Master Key multi-fix</a><br>如果你的机子没有人为你适配最新的系统，那强烈推荐你安装。本模块会为你修复漏洞。</p><hr><p>都是我觉得很不错的模块，其他好模块还不少，我这只是抛砖引玉。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;原生 Android 系统可供设置的地方非常少，可能比 iOS 还少，想要制定系统（比如状态栏、下拉设置、图标等）就得自己动手或者使用第三方制作的系统来解决。但往往有名和好用的第三方系统官方匹配的机型并不多，如果不支持你的机子还得指望民间来适配。况且各个第三方系统各有各的特
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="安卓" scheme="https://yufei.im/tags/%E5%AE%89%E5%8D%93/"/>
+    
+      <category term="应用" scheme="https://yufei.im/tags/%E5%BA%94%E7%94%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>翻译问题</title>
+    <link href="https://yufei.im/post/%E7%BF%BB%E8%AF%91%E9%97%AE%E9%A2%98/"/>
+    <id>https://yufei.im/post/翻译问题/</id>
+    <published>2013-11-20T12:25:00.000Z</published>
+    <updated>2018-04-25T14:44:13.098Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近参加了几个应用的翻译，发现有几个问题，在这总结下。</p><p>##问题</p><p>###字符串拼接<br>Press 是我在 Android 平台上非常喜欢的 RSS 阅读应用，在参与翻译的过程中，我对这个应用的好感度大幅降低。开发者提供的不少原文不是整串的文字，而是拆开为多个字符串，最后在应用里显示的时候再拼接起来。这种做法是属于<strong>开发者自以为是</strong>，以为天下所有的文字都是拉丁字母、所有文字都是有空格的、所有文字的语序都是一样的。<br>打个比方：”Syncing data…” 当 “Syncing” 翻译为「同步中」时这句话就变成了「同步中 数据…」，狗屁不通。万幸「同步中」改为「正在同步」这句话就顺了，但是中间那个刺眼的空格依然在那。<br>在捷克语里这两个词的顺序是反的，但拼接的时候依然是按英文的顺序，就彻底不是人话了。我很难想象在阿拉伯语这种从右往左书写的文字里，这个应用会变成什么样子。</p><p>###词性混淆<br>“Syncing” 作动名词的时候是「同步」，作动词的时候是「同步中/正在同步」，有的开发者竟然不添加注释，这就很难翻译。</p><p>###标点<br>开发者经常会有漏标点或像第一条一样自以为天下标点都一样而拼接。在同级界面的各项有的有句号，有的没有，超烦。<br>不少翻译者是留学生，在英语国家待惯了就不会用中文标点了，翻译出来的东西都是英文标点。</p><p>###语序/法<br>不少翻译者是留学生，在英语国家待惯了连中文都不会了。翻译出来的句子要是拿到小学的语文考卷上全都是病句。<br>由于中文几乎没有时态，在英文里那些复杂的时态翻译过来经常会犯翻译病，句子都是欧化中文。什么是欧化中文？英文考卷的中译英的中文题目就几乎全都是欧化中文。</p><p>###尽量避免相同字在相近位置<br>在中文里一个汉字有非常多的意思，所以一句话相邻有相同的字是很常见的，但是为了阅读方便还是建议改成意思相同的其他字或词。<br>像「在文中中文是」，要是写作「在文章里的中文是」就顺多了。</p><p>###统一<br>“Every 15 minutes” 翻成「每十五分钟」、「每15分钟」、「每 15 分钟」、「每十五分钟一次」等都没错，但是请统一翻译。不要前面用阿拉伯数字，后面又用汉字的「三十分」。<br>“doing” 到底是「正在做」还是「做…中」，”URL” 翻译有英文、「链接」、「链接地址」、「网址」等。<br>而且一个人的翻译都不统一，实在是受不了。</p><hr><p>##解决</p><p>###开发者<br>以完整的句号甚至是段落为单位，其中的变量特别标明。容易混淆的地方添加注释。<br><strong>将翻译完全交给翻译者，他们比你更了解这个语言。</strong></p><p>###翻译者<br>统一翻译，使用正确的语序、标点。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;最近参加了几个应用的翻译，发现有几个问题，在这总结下。&lt;/p&gt;
+&lt;p&gt;##问题&lt;/p&gt;
+&lt;p&gt;###字符串拼接&lt;br&gt;Press 是我在 Android 平台上非常喜欢的 RSS 阅读应用，在参与翻译的过程中，我对这个应用的好感度大幅降低。开发者提供的不少原文不是整串的文字
+      
+    
+    </summary>
+    
+      <category term="记" scheme="https://yufei.im/categories/%E8%AE%B0/"/>
+    
+    
+      <category term="翻译" scheme="https://yufei.im/tags/%E7%BF%BB%E8%AF%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>符合寻找优秀的安卓应用</title>
+    <link href="https://yufei.im/post/%E7%AC%A6%E5%90%88%E5%AF%BB%E6%89%BE%E4%BC%98%E7%A7%80%E7%9A%84%E5%AE%89%E5%8D%93%E5%BA%94%E7%94%A8/"/>
+    <id>https://yufei.im/post/符合寻找优秀的安卓应用/</id>
+    <published>2013-10-30T17:01:00.000Z</published>
+    <updated>2018-04-25T15:05:36.495Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="http://yufei.im/post/ke-ji/firefox-or-chrome">之前说</a>要做一个 Android 应用推荐的，然后拖延症发作一个多月了，还毛都没动，先来一篇介绍我如何寻找那些优秀的应用的。</p><p>##优秀的标准<br>既然说是介绍我如何寻找优秀的应用，那当然就先得说我对优秀应用的标准。</p><ol><li>界面不丑，如果能优美就更好了。</li><li>功能够用，如果强大又不不显繁杂更佳。</li><li>易用性强，方便快捷不反直觉。</li></ol><hr><p>##准备</p><blockquote></blockquote><ol><li>有 Google 框架服务</li><li>有 Google 帐号</li><li>用 Google Play</li><li>有<em>梯子</em>出墙</li><li>Google Play 切换到美区</li><li>用 Google Plus</li><li>购买 Google Play 礼品卡等方式购买付费应用</li><li>用 <a href="http://playboard.me" target="_blank" rel="noopener">Playboard</a></li></ol><p>前5是必须的，后面是加分项。应该还有暂时想不起来了。</p><p>前2点都是为了3而存在的。那为什么要用 Google Play 而不是其他第三方的应用商店呢？第三方商店首页的应用几乎全部都是付费推荐的，谁出的钱多谁在最显眼位置，而这些应用质量基本顶多属于一般（还有微信、QQ 这类垃圾应用）。Google Play 作为 Android 生态的核心一环承载了引导 Android 应用更棒的责任。</p><p>要有<em>梯子</em>的原因是 Google Play 常年属于半墙的状态，还有就是为了切换到美区。美区到底有什么好呢？这得了解 Google Play 的政策——在国内由于没有支付服务，所以你在 Google Play 中区是看不到付费和带内购的应用的，而这些应用中有很多都是非常棒的应用，你用中区就无法下载。</p><p>Google Plus 是 Google 账户系统的核心，有 G+ 能方便地</p><blockquote></blockquote><ol><li>圈开发者，了解进展。</li><li>参与测试版。</li><li>组群里有不少的应用推荐群。</li><li>方便使用 Play Game Center等配套服务。</li></ol><p>Playboard 是一个 Android 应用推荐的网站，前不久更新支持了  Google Plus 登录，原来只能使用 Facebook 登录。里面每个人都能够创建自己的应用频道，推荐应用，是个非常棒的网站。</p><p>##找优秀应用<br>唉，我写点东西一点逻辑都没。。感觉上一段把这里该说的都快说完了。。</p><p>前提你手机里有 Google 框架，没有的话去刷。<br>没有 Google 帐号去注册。<br>两个都有登录了就能用 Google Play。<br>至于用美区，我是一年多前弄得，所以不太清楚。我印象中的步骤：</p><blockquote></blockquote><ol><li>下载安装 <a href="http://support.evanhe.com/2012/03/08/introduction-to-market-unlocker-2" target="_blank" rel="noopener">Market Unlocker</a></li><li>设置运营商及开机启动等</li><li>清空 Google Play 数据</li><li>重启</li><li>开 VPN</li><li>进商店买免费的书</li><li>会让你注册 电子钱包</li><li>不要选信用卡用礼品卡</li><li>输姓名、邮编、地址等。姓名就用拼音，邮编地址找个免税州的大学。</li><li>接下来输 20 位英文字母</li><li>然后再买免费书就好了。</li></ol><p>如果想要买收费的应用，可以：</p><blockquote></blockquote><ol><li>在淘宝上搜索 Google giftcard</li><li>找到 60 元左右的购买，他会发给你一串代码（或者买<a href="http://item.taobao.com/item.htm?spm=a1z02.1.5864393.d4908585.gsKloK&amp;id=17908823547" target="_blank" rel="noopener">这家的</a>，我都是在他这买的）</li><li>开梯子</li><li>进入 Google Play，点击兑换，输入编号。</li><li>就能购买应用了</li></ol><p>在美区首页有很多专题推荐，里面都是很棒的应用。排行榜也可一看，但是大公司推出的垃圾也会在榜单前列。<br>当你找到一个自己心怡的应用后可以进这个应用在 Google Play 的页面，拉到底下有同类内容和该开发者的其他应用等，进去有很大机率能找到喜欢的应用。<br>善用搜索。</p><p>碰到欣赏且用 G+ 的开发者，可以去圈他。<br>很多应用会有测试群，加入说明中的群组，然后点公告的链接，确认后过一段时间就能收到测试版的更新了。</p><p>在 Playboard 可以翻排行或者搜索。找到感兴趣的频道，点击进入下载和关注。</p><p>多注意国外 Android 类网站的推荐。<br>国内的话推荐 <a href="http://www.ifanr.com/weixin/140965" target="_blank" rel="noopener">AppSolution</a> 和<a href="http://zuimeia.com/apps?platform=2" target="_blank" rel="noopener">最美应用</a>。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;http://yufei.im/post/ke-ji/firefox-or-chrome&quot;&gt;之前说&lt;/a&gt;要做一个 Android 应用推荐的，然后拖延症发作一个多月了，还毛都没动，先来一篇介绍我如何寻找那些优秀的应用的。&lt;/p&gt;
+&lt;p&gt;##优秀的标准&lt;b
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="安卓" scheme="https://yufei.im/tags/%E5%AE%89%E5%8D%93/"/>
+    
+      <category term="应用" scheme="https://yufei.im/tags/%E5%BA%94%E7%94%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>累</title>
+    <link href="https://yufei.im/post/%E7%B4%AF/"/>
+    <id>https://yufei.im/post/累/</id>
+    <published>2013-08-28T08:26:00.000Z</published>
+    <updated>2018-04-25T14:43:29.307Z</updated>
+    
+    <content type="html"><![CDATA[<p>我再也不折腾博客了，好累。。。</p><p>暑假这 1 个月都没写东西，浑浑噩噩过了。今天准备开写，然后发现博客有点问题，改了半天终于弄好了。我再也不用非官方模版了，被坑死。</p><p>接下来准备写个 Android 应用推荐。</p><hr><p>2013.9.20<br>又坑了一个月，话说我再也不碰Farbox的后台了，每次碰到都要都各种乱，要重新搭。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;我再也不折腾博客了，好累。。。&lt;/p&gt;
+&lt;p&gt;暑假这 1 个月都没写东西，浑浑噩噩过了。今天准备开写，然后发现博客有点问题，改了半天终于弄好了。我再也不用非官方模版了，被坑死。&lt;/p&gt;
+&lt;p&gt;接下来准备写个 Android 应用推荐。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;2013.9.
+      
+    
+    </summary>
+    
+      <category term="记" scheme="https://yufei.im/categories/%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>多看邀请码</title>
+    <link href="https://yufei.im/post/%E5%A4%9A%E7%9C%8B%E9%82%80%E8%AF%B7%E7%A0%81/"/>
+    <id>https://yufei.im/post/多看邀请码/</id>
+    <published>2013-07-29T03:53:00.000Z</published>
+    <updated>2018-04-25T14:41:47.921Z</updated>
+    
+    <content type="html"><![CDATA[<p>我爱好不多，其中两个就是玩各种电子设备和买书（对你没看错 不是看书 是买书。。。）这一年多下来（截至到2013-7-29 12：00）免费+收费书屯了607本，刚好搜了一下，找到个能批量导出的<a href="http://my.oschina.net/oymyisme/blog/142912" target="_blank" rel="noopener">脚本</a>，就分享下吧，否则这些邀请码肯定永远烂在那了。</p><hr><p>费话不多说，多看是我见过的最好的电子书 <a href="http://www.duokan.com/" target="_blank" rel="noopener">应用</a>和<a href="http://book.duokan.com/" target="_blank" rel="noopener">书城</a>，具体比较可以参考我之前的<a href="http://yufei.im/post/note/pai-ban-pi#ipad">文章</a>，9个月前的东西了，多看现在又大不一样了。</p><p>邀请码是给<strong>没有多看帐号</strong>的人用的，已经有帐号的就别浪费，让给新人吧。不知道怎么用的可以参考官网<a href="http://book.duokan.com/help/invite" target="_blank" rel="noopener">说明</a>，总的来说就是：</p><ul><li><a href="http://book.duokan.com/reg" target="_blank" rel="noopener">注册多看帐户</a>时输入邀请码；</li><li>你会得到这么邀请码对应的那本书；</li><li>当你觉得多看挺不错，并且愿意付费购买里面的电子书时，我会同时获得你付费购买的第一本书。</li></ul><p>就是这样，希望你也能喜欢多看。反正我是几乎不买纸质书了。拿了邀请码的同学也说一声拿了哪个，方便我去掉。</p><hr><p>2013-8-2 更新新书邀请码<br>2013-8-3 更新去除已用邀请码<br>2013-8-8 更新邀请码。 ps 看了下居然有一个人在8月7日刷了20本书（从拿的书来看应该是个程序员，还喜欢王小波），这也太无耻了吧，我都说这是给新人的，即使是抵不住诱惑拿一两本我也能理解，但20本也太。。退一万步来说，你拿了20本书连句谢谢都没？有意思吗？邀请码是建立在信任与互惠互利上的。</p><hr><p>2013-08-11 不再提供，看了下基本都是刷的，一点意思都没。<br>2013-08-12 呵呵，有点意思，居然还有人都保存下来，我即使删了都还在刷。承蒙各位看得起，让我认识到在中国互惠互利是那么难，某些人的下限是有多低。</p><hr><p>编号 | 书名 | 邀请码<br>—- | —- | —-</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;我爱好不多，其中两个就是玩各种电子设备和买书（对你没看错 不是看书 是买书。。。）这一年多下来（截至到2013-7-29 12：00）免费+收费书屯了607本，刚好搜了一下，找到个能批量导出的&lt;a href=&quot;http://my.oschina.net/oymyisme/b
+      
+    
+    </summary>
+    
+      <category term="记" scheme="https://yufei.im/categories/%E8%AE%B0/"/>
+    
+    
+      <category term="电子书" scheme="https://yufei.im/tags/%E7%94%B5%E5%AD%90%E4%B9%A6/"/>
+    
+  </entry>
+  
+  <entry>
     <title>繁简体之争</title>
-    <link href="https://yufei.im/2013/07/20/%E7%B9%81%E7%AE%80%E4%BD%93%E4%B9%8B%E4%BA%89/"/>
-    <id>https://yufei.im/2013/07/20/繁简体之争/</id>
+    <link href="https://yufei.im/post/%E7%B9%81%E7%AE%80%E4%BD%93%E4%B9%8B%E4%BA%89/"/>
+    <id>https://yufei.im/post/繁简体之争/</id>
     <published>2013-07-20T14:44:00.000Z</published>
     <updated>2018-03-20T11:23:37.442Z</updated>
     
@@ -46,9 +609,151 @@
   </entry>
   
   <entry>
+    <title>WWDC 2013观感</title>
+    <link href="https://yufei.im/post/wwdc-2013%E8%A7%82%E6%84%9F/"/>
+    <id>https://yufei.im/post/wwdc-2013观感/</id>
+    <published>2013-06-11T11:15:00.000Z</published>
+    <updated>2018-04-25T16:12:12.050Z</updated>
+    
+    <content type="html"><![CDATA[<p>我也不知道从几时侯开始看发布会直播的，今年是第一次看苹果发布会的视频直播，以前都是看图文直播的。腾讯科技相当良心，居然做了同传直播，之前 Google I/O 也是。具体内容网上到处都是，我就说说看我的看法。</p><h2 id="Mac"><a href="#Mac" class="headerlink" title="Mac"></a>Mac</h2><p>Mac OS 发布说 Sea Lion，吓一大跳，原来 Mac OS 都是用大猫作版本号的，海狮不能因为带个 Lion 就算大猫啊。。虽然这只是个笑话，不过版本号确实不是大猫了。</p><p>更新内容上还不错，特别是对性能的提升，还有多标签页。通知中心还凑活，其他也没什么了。Safari 我又不用，好几个特性都没意义了。</p><p>预计中的 Mac Mini 没有更新，那我到底是入不入啊，别 9 月份就更新了。。Air 都换处理器了，唉 纠结。</p><p>Mac Pro 外形相当拉风，体积只有上一代的 1/8，就是圆桶略像垃圾桶了。</p><h2 id="iOS"><a href="#iOS" class="headerlink" title="iOS"></a>iOS</h2><p>这次的主角是 iOS 7 ，开场放了部介绍新版 iOS 的短片，全场都激动地站起来鼓掌好久，我能理解他们，iOS 在很多方面（特别是功能）都落后 Android 太远了，这次居然在不少方面缩短了距离，可喜可贺。。</p><p>表面上苹果抛弃了拟物转投扁平，其实重点是重新设计了 iOS 的逻辑。</p><p>界面大量运用了毛玻璃特效，别的地方还行，但是那个控制中心也太难看了吧。。毛玻璃下那花花绿绿的图标啊，完全吐槽不能，还有那几个按钮扁平过头了（现在这个分格下），有点微软的感觉了。自带应用图标分格也很不统一——有的有高光，渐变也不一样，总体都是鲜艳的颜色，但是当中有俩黑得跟炭一样的图标，这是怎么搭配的啊，多数图标的颜色太多了，预览图上觉得不好看。不过苹果一向是到手的惊喜要大于Keynote的。</p><p><img src="https://www.apple.com/media/us/ios/ios7/f34c5445-5a9c-4b3a-9556-8efe89147559/shared_controlcenter/shared_controlcenter_keyframe.jpg" alt=""><img src="https://www.apple.com/media/us/ios/ios7/f34c5445-5a9c-4b3a-9556-8efe89147559/shared_controlcenter/shared_controlcenter_endframe.jpg" alt=""></p><p>新版的下拉通知栏很棒，那个毛玻璃效果相当喜欢，之前越狱的时候也装了插件来透明通知栏。里面 today 这个标签颇有 Google Now 的赶脚。</p><p>新版Safari很棒，但是我不会去用。</p><p>天气漂亮得爆表。</p><p>安全方面，用了远程擦除后，即使是清空数据也没法再用这台设备了，必须要输 Apple id 和 密码才行。某种程度上解决了手机被偷后转手的可能，当然天朝人民的智慧嘛~啧</p><p>iOS终于有多任务啦！！在那个硬件落后的时代用单任务还情有可原，现在还是就不能忍啊。看着挺不错的，就是能看到的任务好少，马脸上只能看到 3 个。苹果说相当智能，并且做了很多优化，不会对续航带来的压力。</p><hr><p><strong>总的来说非常棒，但是颜色、风格、扁平程度等方面问题不少，这个版本图标是败笔，但愿到下一版发布时这些问题能解决。</strong></p><p>但是 但是，苹果你居然没有 iOS 7 for iPad，而且在 iOS 7 的视频里iPad一次都没有出现，这让我对 for iPad 的完成度抱有很大的怀疑，或许根本还没想到怎么为 iPad 屏幕设计？反正我觉得至少一个月内是看不到的了，苹果给点力好伐~希望能尽早用上吧。</p><p>刚看到一篇到目前为止觉得谈 iOS 7 设计最棒的<a href="http://www.pingwest.com/ios-7-flat-design/" target="_blank" rel="noopener">文章</a>，甚合吾意。</p><p>一出，网上骂声一片，最搞笑的是「iOS 界面不再小众」，敢问 iOS 界面几时侯是小众？难道一定要跟别人差距很大才好？才有优越感？关键是好用，如果竟然能好看那就更好了。</p><p>既视感很正常，这年头出什么不都有人骂抄袭XX？要真是找不到抄什么，这帮孙子又要骂脱离实际、接受不了了。。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;我也不知道从几时侯开始看发布会直播的，今年是第一次看苹果发布会的视频直播，以前都是看图文直播的。腾讯科技相当良心，居然做了同传直播，之前 Google I/O 也是。具体内容网上到处都是，我就说说看我的看法。&lt;/p&gt;
+&lt;h2 id=&quot;Mac&quot;&gt;&lt;a href=&quot;#Mac&quot; 
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="苹果" scheme="https://yufei.im/tags/%E8%8B%B9%E6%9E%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Anki 日语佳明卡片组</title>
+    <link href="https://yufei.im/post/anki-%E6%97%A5%E8%AF%AD%E4%BD%B3%E6%98%8E%E5%8D%A1%E7%89%87%E7%BB%84/"/>
+    <id>https://yufei.im/post/anki-日语佳明卡片组/</id>
+    <published>2013-05-24T09:01:00.000Z</published>
+    <updated>2018-04-25T15:20:33.081Z</updated>
+    
+    <content type="html"><![CDATA[<p>在3月份自学了50音，中间很久没动，为了巩固，并且更进一步达到熟练，用Anki练习，可是共享的卡片里没找到五十音，准确来说我看不懂。。。所以自己花了点时间做了一个。</p><p>罗马音参考了这两个网站<a href="http://h84473111.myweb.hinet.net/TACR/jp.htm" target="_blank" rel="noopener">1</a>、<a href="http://www.wawawa.co.jp/keyboard/guidance/table.htm" target="_blank" rel="noopener">2</a>和<a href="http://zh.wikipedia.org/zh/%E4%BA%94%E5%8D%81%E9%9F%B3" target="_blank" rel="noopener">维基百科五十音图词条</a>。</p><p>Anki 这名字学过点日语的都会感觉到一股日语范，作者当年就是为了学日语才做的这款应用。<a href="https://www.dropbox.com/s/k0ho644ub64ughr/%E4%BA%94%E5%8D%81%E9%9F%B3.apkg" target="_blank" rel="noopener">官方网站</a>。几乎跨所有的平台，几乎所有平台都是免费的，而且还能免费同步，不过 iOS 版的价格实在有点。。。不过无论哪个平台翻译都略差。</p><p>卡片下载：<a href="https://www.dropbox.com/s/k0ho644ub64ughr/%E4%BA%94%E5%8D%81%E9%9F%B3.apkg" target="_blank" rel="noopener">Dropbox</a>  <a href="https://docs.google.com/file/d/0Bxggbs64COdYYjlRVWhOWWlBMnM/edit?usp=sharing" target="_blank" rel="noopener">Google Driver</a><br>软件下载去官网</p><p>在 Windows 8 和 Android 上的界面大概是这样的。<br><img src="http://ww3.sinaimg.cn/large/6acc8f77jw1e4zh7uyf8jj20dc0nq3z6.jpg" alt=""><br><img src="http://ww3.sinaimg.cn/large/6acc8f77jw1e4zh8flkbxj20ec0c7mxo.jpg" alt=""></p><p>最后附上我这个卡片所采用的标准：</p><blockquote><p>あ    a<br>ア    a<br>い    i<br>イ    i<br>う    u<br>ウ    u<br>え    e<br>エ    e<br>お    o<br>オ    o<br>か    ka<br>カ    ka<br>き    ki<br>キ    ki<br>く    ku<br>ク    ku<br>け    ke<br>ケ    ke<br>こ    ko<br>コ    ko<br>さ    sa<br>サ    sa<br>し    shi<br>シ    shi<br>す    su<br>ス    su<br>せ    se<br>セ    se<br>そ    so<br>ソ    so<br>た    ta<br>タ    ta<br>ち    chi<br>チ    chi<br>つ    tsu<br>ツ    tsu<br>て    te<br>テ    te<br>と    to<br>ト    to<br>な    na<br>ナ    na<br>に    ni<br>ニ    ni<br>ぬ    nu<br>ヌ    nu<br>ね    ne<br>ネ    ne<br>の    no<br>ノ    no<br>は    ha<br>ハ    ha<br>ひ    hi<br>ヒ    hi<br>ふ    fu<br>フ    fu<br>へ    he<br>ヘ    he<br>ほ    ho<br>ホ    ho<br>ま    ma<br>マ    ma<br>み    mi<br>ミ    mi<br>む    mu<br>ム    mu<br>め    me<br>メ    me<br>も    mo<br>モ    mo<br>や    ya<br>ヤ    ya<br>ゆ    yu<br>ユ    yu<br>よ    yo<br>ヨ    yo<br>ら    ra<br>ラ    ra<br>り    ri<br>リ    ri<br>る    ru<br>ル    ru<br>れ    re<br>レ    re<br>ろ    ro<br>ロ    ro<br>わ    wa<br>ワ    wa<br>ゐ    wi<br>ヰ    wi<br>ゑ    we<br>ヱ    we<br>を    wo<br>ヲ    wo<br>が    ga<br>ぎ    gi<br>ぐ    gu<br>げ    ge<br>ご    go<br>ざ    za<br>ず    zu<br>ぜ    ze<br>ぞ    zo<br>じ    ji<br>だ    da<br>づ    zu<br>で    de<br>ど    do<br>ば    ba<br>び    bi<br>ぶ    bu<br>べ    be<br>ぼ    bo<br>ぱ    pa<br>ぴ    pi<br>ぷ    pu<br>ぺ    pe<br>ぽ    po<br>ヴぁ    va<br>ヴぃ    vi<br>ヴ    vu<br>ヴぇ    ve<br>ヴぉ    vo<br>ぎゃ    gya<br>ぎゅ    gyu<br>ぎょ    gyo<br>じゃ    ja<br>じゅ    ju<br>じょ    jo<br>びゃ    bya<br>びゅ    byu<br>びょ    byo<br>ぴゃ    pya<br>ぴゅ    pyu<br>ぴょ    pyo<br>ん    n<br>ン    n<br>ガ    ga<br>ギ    gi<br>グ    gu<br>ゲ    ge<br>ゴ    go<br>ザ    za<br>ジ    ji<br>ズ    zu<br>ゼ    ze<br>ゾ    zo<br>ダ    da<br>デ    de<br>ド    do<br>バ    ba<br>ビ    bi<br>ブ    bu<br>ベ    be<br>ボ    bo<br>パ    pa<br>ピ    pi<br>プ    pu<br>ペ    pe<br>ポ    po<br>キャ    kya<br>キュ    kyu<br>キョ    kyo<br>シャ    sha<br>シュ    shu<br>ショ    sho<br>チャ    cha<br>チュ    chu<br>チョ    cho<br>ニャ    nya<br>ニュ    nyu<br>ニョ    nyo<br>ヒャ    hya<br>ヒュ    hyu<br>ヒョ    hyo<br>ミャ    mya<br>ミュ    myu<br>ミョ    myo<br>リャ    rya<br>リュ    ryu<br>リョ    ryo<br>ギャ    gya<br>ギュ    gyu<br>ギョ    gyo<br>ジャ    ja<br>ジュ    ju<br>ジョ    jo<br>ビャ    bya<br>ビュ    byu<br>ビョ    byo<br>ピャ    pya<br>ピュ    pyu<br>ピョ    pyo<br>きゃ    kya<br>きゅ    kyu<br>きょ    kyo<br>しゃ    sha<br>しゅ    shu<br>しょ    sho<br>ちゃ    cha<br>ちゅ    chu<br>ちょ    cho<br>にゃ    nya<br>にゅ    nyu<br>にょ    nyo<br>ひゃ    hya<br>ひゅ    hyu<br>ひょ    hyo<br>ふぁ    fa<br>ふゅ    fu<br>ふぉ    fo<br>みゃ    mya<br>みゅ    myu<br>みょ    myo<br>りゃ    rya<br>りゅ    ryu<br>りょ    ryo</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;在3月份自学了50音，中间很久没动，为了巩固，并且更进一步达到熟练，用Anki练习，可是共享的卡片里没找到五十音，准确来说我看不懂。。。所以自己花了点时间做了一个。&lt;/p&gt;
+&lt;p&gt;罗马音参考了这两个网站&lt;a href=&quot;http://h84473111.myweb.hine
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="日语" scheme="https://yufei.im/tags/%E6%97%A5%E8%AF%AD/"/>
+    
+      <category term="学习" scheme="https://yufei.im/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="Anki" scheme="https://yufei.im/tags/Anki/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Google I/O 2013</title>
+    <link href="https://yufei.im/post/google-i-o-2013/"/>
+    <id>https://yufei.im/post/google-i-o-2013/</id>
+    <published>2013-05-20T14:36:00.000Z</published>
+    <updated>2018-04-25T15:21:55.961Z</updated>
+    
+    <content type="html"><![CDATA[<p>今年的 Google I/O 是我第一次看直播，真是好可惜，要是我去年就看直播的话，最后 Google Glass 那段绝对会让我跳起来~</p><p>今年 Google I/O 具体内容到处都是，自己去找。今年亮点还是相当多的。</p><p>###Android Studio<br>Google 终于出了独立的 IDE，可以给 eclipse 减负了，那个各设备实时预览相当惊艳，还有各种实用功能，相信以后功能会越来越强大。</p><p>###Play Game Center<br>跨平台的游戏中心对我这种既用 iOS 也用 Android 的人来说就是碉堡了啊，最看重的就是存档同步，排行榜其实无所谓啦，对战的话在天朝用处不大，一则周围人有 Google 服务的人少之又少，再者 Google Plus 可不是人人都能上的（笑。</p><p>###WebP &amp; VP9<br>可以在体积只有一半的情况下保持基本相同的清晰度，对我朝这种小水管更明显，特别是挂 VPN 后速度更慢的情况下就更有用了。</p><p>###Google Maps<br>地图改版了，非常棒，直播结束后我就从老贾那拿到了测试版邀请，花了两天都进不去（电脑上的 VPN 登不上），刚进去就傻眼了。。还好只是网速问题，放大以后就好了。但是地图永远是我的痛啊！Google 其他服务用 VPN 能解决，但是地图的数据和偏移无解啊，希望 Google 早日回来拿到牌照，提供更好的服务。</p><p><img src="http://ww1.sinaimg.cn/large/6acc8f77jw1e4v4m2b6k5j21fu0rq4ns.jpg" alt=""></p><p>###Google Plus<br>图片那个功能真是碉堡逆天，新版瀑布流也相当棒，还有那个智能标签，终于也把 Google Images 那逆天功能加进来点了。</p><p>Hangouts 真是理想中界面最棒的聊天工具~</p><p>终于 Google 把几乎所有功能都围绕着 Google Plus 展开了，Google Plus 真正成为 Google 的核心。我也决定 Google Plus 成为我的首选社交网络服务。</p><p>###Google Search<br>知识图谱终于支持中文啦~这功能也是碉堡逆天，谁用谁知道。还支持了自然语意搜索。</p><p>###拉里・佩奇的演讲<br>毫无疑问，本届 Google I/O 最大的亮点就是拉里・佩奇的<a href="http://tech.sina.com.cn/i/2013-05-16/11028346282.shtml" target="_blank" rel="noopener">演讲(中文版)</a>，科技改变世界。可惜后面的 Q&amp;A 找不到中文版。</p><blockquote><p>技术让我们能够自由地去做更多事，让生活更加美好。</p></blockquote><p>###Google Glass<br>之后的分会场有 Google Glass 专场，证明了之前那帮没见过 Google Glass ，甚至可能就是压根就不知道 Google Glass 能干嘛就抵制的那帮人是有多愚蠢。就是这样，等公开发售后一定要入一副，但愿价格不会太贵，能在 500 刀以内。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今年的 Google I/O 是我第一次看直播，真是好可惜，要是我去年就看直播的话，最后 Google Glass 那段绝对会让我跳起来~&lt;/p&gt;
+&lt;p&gt;今年 Google I/O 具体内容到处都是，自己去找。今年亮点还是相当多的。&lt;/p&gt;
+&lt;p&gt;###Android St
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="安卓" scheme="https://yufei.im/tags/%E5%AE%89%E5%8D%93/"/>
+    
+      <category term="谷歌" scheme="https://yufei.im/tags/%E8%B0%B7%E6%AD%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我是怎样获取信息的</title>
+    <link href="https://yufei.im/post/%E6%88%91%E6%98%AF%E6%80%8E%E6%A0%B7%E8%8E%B7%E5%8F%96%E4%BF%A1%E6%81%AF%E7%9A%84/"/>
+    <id>https://yufei.im/post/我是怎样获取信息的/</id>
+    <published>2013-05-12T11:00:00.000Z</published>
+    <updated>2018-04-25T15:10:29.461Z</updated>
+    
+    <content type="html"><![CDATA[<p>在这个信息爆炸的时代大家都是怎么获取信息的呢？每个人都不一样，我跟周围人差很多，我的长辈基本都是从报纸、电视、人际网获取的。同学里不少都是看门户、新闻网站甚至是贴吧获取的。。</p><p>大致算了下我获取信息中：</p><ol><li>RSS阅读等推送    65%</li><li>谷歌和维基百科    25%</li><li>视频                3%</li><li>微博                2%</li><li>其他                5%</li></ol><p>#RSS阅读<br>RSS占了绝绝大多数，其实很好理解，方便嘛。RSS本身就是聚合阅读，把自己还算喜欢的网站、博客等订阅了都在RSS里阅读，所以我完全不认同什么「RSS将死」这种狗屁话。反而我觉得Google Reader死了对RSS发展供献很大，我在之前的博文里也表达了这个想法，事实证明没错，我已经完全转投Feedly了，这一个多月以来Feedly进步神速，非常好用，就是速度略慢并且免费和没中文不太满意。<br>但是我有一个很不好的习惯，有事没事都要刷刷RSS阅读器，这样效率很低，我决定从今天开始每天起床刷一次，中午一次，晚上一次，RSS阅读器上的信息其实不需要太具有时效性。</p><p>还有别的推送大致就是包含狗耳朵谁送到Kindle、QQ客户端信息推送。<br>狗耳朵服务其实有点像RSS，都是利用RSS订阅来推送，但是基本上都是属于量很大的网站，精选消息推送，并且是那些比较适合深度阅读和思考的文章。<br>QQ推送的频率相当低，一两个礼拜才一个，都是属于那种比较重大的消息。</p><p>#谷歌、维基百科<br>凡是你不知道的事情把这两位大神请出来基本都能解决。<br>现在但凡有人问我常识性问题我都会给他个<a href="http://lmgtfy.com/" target="_blank" rel="noopener">lmgtfy</a>（Let me Google that for you）自己看。<br>对了，说到问问题，昨天看知乎，看到一位日本人的回答甚合吾意，先生的中文文言功底很深，当然也可能是他的中文老师是位老先生。<a href="http://www.zhihu.com/question/20257007/answer/15339094" target="_blank" rel="noopener">原文链接</a>。我总结了一下：</p><ol><li>搞清楚你是在「提问」还是「发言」</li><li>不要问「对XXX你怎么看」（自己没脑子，需要别人帮你？这也是我之前很讨厌知乎的原因，到处都是这种傻逼问题）</li><li>不要问宏观、泛论问题</li><li>不要问常识性问题（自己谷歌）</li></ol><p>#视频<br>其实就是B站、Youtube和优酷科技站。<br>B站每天看的量很大但是里面基本没什么消息，Youtube上看的消息不少，主要是关于科技、日本、政治和相声。优酷科技的话量很少就是关于手机的一些评测什么的，只看订阅的几个人。</p><p>#微博<br>曾几何时，我在微博上获取的信息非常大，几乎整天泡在上面，但是微博上信息太渣、乱、多，很多东西压根你就不需要知道，而且很多都是假消息。相对来说门户也差不多，胡掰的假消息少一点但是受各部管制，所以政治正确的假消息比较多。<br>我曾经也泡Twitter看政治推，后来放弃了，假消息比例和新浪不分伯仲。</p><hr><p>相信在同龄人里我是属于非常早就会翻出去的人了，第一次应该是在2004年，使用的还是目田门，每次打开就会自动打开X纪元，X波罗之类的网站，你懂的。从小经常接触就会产生很强烈的对党的反感，但是后来慢慢发现这些网站甚至还远不如日人民报，基本就没有一篇真消息，从此不在碰轮子（没有贬义，我也不想用这个词，用正名，但是会被和谐的）网站。对于这个组织，@zokio的评论很是同意：</p><blockquote><p>我认为*是一种教义有漏洞、组织有缺陷、行为有偏差的不成熟宗教，在遭受残酷镇压后有失心疯的症状，某些表现类似于祥林嫂。但这不构成别人幸灾乐祸助纣为虐的理由。骂*傻逼，与骂*是邪教，两种说法是有本质区别的。前者是作为一个人发言，后者则是作为一名共*党精神党员发言。 </p></blockquote><p>其实党的目的达到了，成功让*自己疯掉了，做出各种傻逼事情，让人民自发从内心对这个组织感到厌恶。</p><p>跑题了，在前两年我订阅了BBC、CNN等各种海外媒体的中国版，但是这些网站的水平啊。。。呵呵。</p><p>还有各种公知，嗯，水平参差不齐。</p><hr><p>我有点想搞一个微信公众平台，当成一个类似于轻博客的存在来用，可能每2天发一篇谈自己的看法之类的，具体还没想清楚。博客确实太重了，发一篇要用不少时间，内容太少的和碰到好东西推荐之类的不敢发。看吧</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;在这个信息爆炸的时代大家都是怎么获取信息的呢？每个人都不一样，我跟周围人差很多，我的长辈基本都是从报纸、电视、人际网获取的。同学里不少都是看门户、新闻网站甚至是贴吧获取的。。&lt;/p&gt;
+&lt;p&gt;大致算了下我获取信息中：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;RSS阅读等推送    65%&lt;
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="信息" scheme="https://yufei.im/tags/%E4%BF%A1%E6%81%AF/"/>
+    
+      <category term="知识" scheme="https://yufei.im/tags/%E7%9F%A5%E8%AF%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>阅韩寒《革命民主自由》感</title>
+    <link href="https://yufei.im/post/%E9%98%85%E9%9F%A9%E5%AF%92%E3%80%8A%E9%9D%A9%E5%91%BD%E6%B0%91%E4%B8%BB%E8%87%AA%E7%94%B1%E3%80%8B%E6%84%9F/"/>
+    <id>https://yufei.im/post/阅韩寒《革命民主自由》感/</id>
+    <published>2013-05-04T06:57:00.000Z</published>
+    <updated>2018-04-25T14:33:11.050Z</updated>
+    
+    <content type="html"><![CDATA[<p>对 你没有看错，我说的就是韩寒在2011年末发的革命民主自由三部曲。我当时就放在Pocket（当时还叫Read it later）里了，一直没看，当时没看的理由早已经忘了，但引起的轩然大波仍记忆犹新。各种所谓公知、民运人士、右派民众（我从来不觉得「公知」是一个坏词，只不过被滥用和用烂罢了，但性质不变，这里作为否定的词是「所谓」）痛心疾首，大吼「我们中出了一个叛徒」、「我看错你了」、「原来韩寒你是这种人」……</p><p>当时即使是在没有看韩三篇的时候也觉得这现象相当搞笑，一帮人忘吃药还是怎么了，在Twitter上甚至出现了韩寒被政府收买了的谣言，证据是登上了党的喉舌上。呵呵，这帮人真不知道说什么好，即使是我都早就知道——想毁一个人最好的办法是屏蔽他的反对派和在反对派中大力夸赞他，顺带找写手、水军发各种无脑赞扬、支持他的文章。屏蔽或者是请喝茶等办法反而会使他的声望大增。</p><p>回到韩三篇本身，这三篇我几乎是完全同意，其实我早发现了，我和韩寒<strong>发出来</strong>的文章想表达的内容是很相似的。</p><p>附：韩三篇链接<br><a href="http://blog.sina.com.cn/s/blog_4701280b0102dz5s.html" target="_blank" rel="noopener">谈革命</a><br><a href="http://blog.sina.com.cn/s/blog_4701280b0102dz84.html" target="_blank" rel="noopener">说民主</a><br><a href="http://blog.sina.com.cn/s/blog_4701280b0102dz9f.html" target="_blank" rel="noopener">要自由</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;对 你没有看错，我说的就是韩寒在2011年末发的革命民主自由三部曲。我当时就放在Pocket（当时还叫Read it later）里了，一直没看，当时没看的理由早已经忘了，但引起的轩然大波仍记忆犹新。各种所谓公知、民运人士、右派民众（我从来不觉得「公知」是一个坏词，只不过被
+      
+    
+    </summary>
+    
+      <category term="史政" scheme="https://yufei.im/categories/%E5%8F%B2%E6%94%BF/"/>
+    
+    
+      <category term="政治" scheme="https://yufei.im/tags/%E6%94%BF%E6%B2%BB/"/>
+    
+      <category term="韩寒" scheme="https://yufei.im/tags/%E9%9F%A9%E5%AF%92/"/>
+    
+  </entry>
+  
+  <entry>
     <title>消费灾难 谎言</title>
-    <link href="https://yufei.im/2013/04/22/%E6%B6%88%E8%B4%B9%E7%81%BE%E9%9A%BE%20%E8%B0%8E%E8%A8%80/"/>
-    <id>https://yufei.im/2013/04/22/消费灾难 谎言/</id>
+    <link href="https://yufei.im/post/%E6%B6%88%E8%B4%B9%E7%81%BE%E9%9A%BE-%E8%B0%8E%E8%A8%80/"/>
+    <id>https://yufei.im/post/消费灾难-谎言/</id>
     <published>2013-04-22T11:28:00.000Z</published>
     <updated>2018-03-15T15:19:04.541Z</updated>
     
@@ -76,9 +781,123 @@
   </entry>
   
   <entry>
+    <title>去他妈的愚人节 &amp; 锤子手机</title>
+    <link href="https://yufei.im/post/%E5%8E%BB%E4%BB%96%E5%A6%88%E7%9A%84%E6%84%9A%E4%BA%BA%E8%8A%82-%E9%94%A4%E5%AD%90%E6%89%8B%E6%9C%BA/"/>
+    <id>https://yufei.im/post/去他妈的愚人节-锤子手机/</id>
+    <published>2013-04-01T11:00:00.000Z</published>
+    <updated>2018-04-25T15:00:15.792Z</updated>
+    
+    <content type="html"><![CDATA[<p>我实在是难掩我心中的愤怒，其实这我几年前就想说了，愚人节=法定骗人日？如果真是这样就好了，每年这天一个人在家看片、看书，不联网，这一天所有消息全都不看。</p><p>维基百科上的<a href="https://zh.wikipedia.org/zh-cn/%E6%84%9A%E4%BA%BA%E8%8A%82" target="_blank" rel="noopener">愚人节</a>，可以选择看看。起源的可能中除了第一条都不是带恶意的，基本是为了开心。到后来越来越畸形，以发布假新闻为乐，甚至是捉弄他人。我一直都比较讨厌所谓的捉弄，比如给你个网页会弹出很多框，聚精会神玩游戏突然吓你一跳，包含且不仅限于此。</p><p>这些行为已经远远超出我的底线，比如说游戏中突然吓你一下，基本每个人都有过“基友”发给你吧，要是我碰到这种人毫不犹豫绝交，滚你麻痹的。这种行为会引起很多危害相当大的后果：惊恐对人来说肯定没有任何好处，对于特定的人来说会引发精神性疾病甚至是猝死；瞬间的尖叫对耳膜会有强烈的刺激，危害不必多说。还有很多。这种有百害只有一益（你廉价的快感），呵呵。</p><p>我相当讨厌日本的所谓“整蛊”文化，耍人很有意思？特别是某些直接上升到人身攻击，比如给人泼水，甚至 居然到了人身侮辱，比如在厕所里偷拍，将厕所改造使别人看的见他，居然 居然 他妈的还在电视上播出来，草他X的 那帮 傻逼日本人和观众，注意，我是有限定的，做这行为的日本人和全世界觉得有趣的人类，我这种人不会乱开地图炮。</p><p>放点假新闻很有意思？这个愚人节满足了你们内心可悲的造谣欲，到这一天终于堂而皇之地得到释放，呵呵，要是可以，我真想弃用所有愚人节过火的产品，我也确实在慢慢实践中。</p><hr><p>今天中午，老罗终于放出了锤子系统的发布会，很多人在纠结到底应该是叫 OS 还是 ROM 还是 UI，我不知道应该怎么说他们，这很重要么？反正对于 iOS 用户来说所有基于 Android 的系统全都是皮肤而已。我觉得 ROM 和 Skin 的区别就是 ROM 是融合了开发者自己的思想的，做了很多操作、易用性上的改变（可以直接说是改进）。</p><p>在当天的发布会上我看到的所有消息都是零零碎碎的图片文字，是的我对锤子手机没有什么好印象，觉得做得的确不是那么好（印证了微博这种碎片化信息让人变得多傻逼），但是今天看完老罗的视频，我只能说<strong>老罗你太他妈的牛逼了</strong>，这个发布会直接影响了我的手机购买计划，新计划（纠结）：</p><ul><li>继续用 米1，等明年手机出来了，就买。</li><li>米1 留着，专门用 Smartisan，买 Nexus 4。</li><li>买 Nexus 4，坐等老罗的平板。</li><li>卖 米1，买 Nexus 4 等技术大牛移植。</li></ul><p>作为一个坚信<strong>细节决定一切</strong>的人来说，老罗这系统完全没话说，多说无益，看网上的所谓深度评测、解剖一点意义都没有，评论家就只是个评论家。直接自己看视频。我觉得老罗的那个语音拨打电话的功能还有不少需要改进的地方，其他大部分真的可以说秒杀市面上所有系统。</p><iframe height="498" width="510" src="http://player.youku.com/embed/XNTM1ODU5MDI4" frameborder="0" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;我实在是难掩我心中的愤怒，其实这我几年前就想说了，愚人节=法定骗人日？如果真是这样就好了，每年这天一个人在家看片、看书，不联网，这一天所有消息全都不看。&lt;/p&gt;
+&lt;p&gt;维基百科上的&lt;a href=&quot;https://zh.wikipedia.org/zh-cn/%E6%84%
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="罗永浩" scheme="https://yufei.im/tags/%E7%BD%97%E6%B0%B8%E6%B5%A9/"/>
+    
+      <category term="锤子" scheme="https://yufei.im/tags/%E9%94%A4%E5%AD%90/"/>
+    
+      <category term="手机" scheme="https://yufei.im/tags/%E6%89%8B%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nexus 7初上手</title>
+    <link href="https://yufei.im/post/nexus-7%E5%88%9D%E4%B8%8A%E6%89%8B/"/>
+    <id>https://yufei.im/post/nexus-7初上手/</id>
+    <published>2013-03-24T12:24:00.000Z</published>
+    <updated>2018-04-25T15:24:27.604Z</updated>
+    
+    <content type="html"><![CDATA[<p>2月20日下单美帝直邮，定了一台 Nexus 7 WIFI 16G 的，到3月23日早上才到。嗯，耐心不好的同学不要玩这个了，会疯的。。<br>2月20日晚下单，3月3日到美国仓库并发往北京，3月6日到北京，然后在海关待到了15日，原因是北京开会，15日被税了通关，到21日22点才发到顺丰，23日9点到的。。可见除了顺丰各个都他瞄的是坑货，并且这个过程在网上得隔好几天才查得到，这都什么年代了。OK，喷完了，说正文。</p><p>价格 1800 还行，不过半年前 2200 也能入，目前来说性价比就没有那么高了，但是在 Android 平板里还是首选。重量只有牛排一半，一只手拿毫无压力，硬件就不多说了，网上评测抓抓一大把。<br>预装的是 4.2.1，到手后就升了 4.2.2。一直都说 Android 平板应用支持得少，但是我装了几个软件和游戏发现都是毫无压力，可能是因为 Android 手机和平板的分辨率差不多，开发的时候都顺便适配了。正如之前看别人谈到的那样，底下的那一排虚拟按键蛋疼得一比，几乎所有的应用都有这一条，玩游戏不能完全全屏，在到手一个小时以后准备试试看传说中的 Ubuntu Touch。参考了这篇<a href="http://bbs.imp3.net/thread-10925568-1-1.html" target="_blank" rel="noopener">教程</a>。（我个人是相当讨厌论坛这种形式，特别是中国绝大多数论坛不注册无法看图，甚至是要回复可见，以后可能会专门谈谈，但这个论坛挺不错的，不登陆也能有图等，不过即使是这样我也不会没事去。。）总的来说：</p><ol><li>解锁 BootLoader</li><li>刷第三方 Recovery（CWM 或 TWRP）</li><li>刷引导</li><li>刷两个系统包</li><li>OK了</li></ol><p>Ubuntu Touch 给我的感觉是几个想法不错，但是产品却非常烂，我知道是预览版，但这已经烂到超出我的预计。我个人是比较喜欢滑动操作的，但 Ubuntu Touchu 实现得不好。</p><p>然后准备 FastBoot 刷回原生系统，但是悲剧了，怎么都刷不上，这是想到了可能是之前刷过引导的问题，于是刷了自带的引导就能正常回到原生系统了。但是我还是觉得那个虚拟键蛋疼啊，去下载了 <strong>Paranoid Android </strong> 这个 ROM，这个 ROM 个人感觉最大的优点就是对界面设置有较大的可制定性，比如可以吧任务栏和下面的虚拟按键合并，等于是扩大了界面大小，并且可以设置隐藏底下的虚拟按键，用手势进行操作，这一点非常棒。然后本着不折腾会死星人的特点又去下了 CM 10.1，CM 给我的感觉是对整个系统的操作上有了很大的可制定性，但是那蛋疼无比的虚拟按键貌似无法隐藏，于是不得已换了这个很符合我性格的 ROM。之后又换了两个内核，其实内核就我个人来说没发现有太大的区别。具体刷机和下载可以参考<a href="http://www.i-steven.com/nexus7/" target="_blank" rel="noopener">i-steven的视频</a>，视频在有土鳖上，请自带梯子。他是 Mac OS 的，Windows 同理，就是工具得下对应版本。</p><p>这台 Nexus 7 更激发了我想要换亲儿子手机的欲望，亲儿子有大把的人来做 ROM、内核、工具。我一直都相信每个人都是不一样的，每个人偏好习惯等也都是有很大区别的，毕加索的话在艺术家眼里都是无价珍宝，在我这种土鳖平民眼里狗屁不值，厂商只能做出贴合多数人喜好的界面，而不喜欢的人也能进行制定。而我这发烧友用的小米就差得多了，但也比大多数机子好折腾。特别完艹是某高举「不喜欢就滚！人云亦云」大旗的民族企业~和某水果。区别是前者实力不济，并且还喜欢当婊子立牌坊，后者是真有实力但是不允许自定义，越狱后就好得多了。</p><p>第一次用4.2，送的来说改变并不大，但是有两点相当惊艳，锁屏控件和安装安全提醒。<br>锁屏控件可以让你在锁屏界面放上自定义的控件，就像是桌面控件那样，可以在不解锁的情况下查看各种自己放的信息。当然也带来了隐私问题，不过在没有密码的机子上没区别，就少了一步而已，对于加密的机子就自己掂量放什么吧，问题不大，具体内容还是得要解除密码才能看。<br>Android 的安全问题由来已久，Android 4.2 在安装应用时会提醒你要什么权限，并且哪些是高危的权限，大大改善了 Android 安全方面的问题，当然前提是你得知道你在干什么。</p><p>原生系统 ROOT 简单的一塌糊涂，工具抓抓一大把，哪像我爸的电信订制机谷歌搜型号一共就3页。。<br>平板特有的应用推荐是 GMD GestureControl（手势操作）可以和 iPad 那样手指捏合、滑动进行快捷操作。我自己建了一个Android应用推荐频道，经常会更新。这个网站注册要连非死不可，你懂的。<br>平板阅读比手机舒服多了，但是和 iPad 有较大差距。  </p><p>最后放图吧。</p><p><img src="http://ww1.sinaimg.cn/large/bfadf3bejw1e313tl6vfzj.jpg" alt=""><br><img src="http://ww1.sinaimg.cn/large/a74ecc4cjw1e313uody4pj.jpg" alt=""><br><img src="http://ww2.sinaimg.cn/large/a74e55b4jw1e313w45wq6j.jpg" alt=""><br><img src="http://ww2.sinaimg.cn/large/a74eed94jw1e313ws8xkdj.jpg" alt=""><br><img src="http://ww4.sinaimg.cn/large/bfadf3bejw1e313xk91ojj.jpg" alt=""><br><img src="http://ww2.sinaimg.cn/large/a74ecc4cjw1e313zd2ubrj.jpg" alt=""><br><img src="http://ww4.sinaimg.cn/large/a74e55b4jw1e3140f8dejj.jpg" alt=""><br><img src="http://ww2.sinaimg.cn/large/a74eed94jw1e31412kqbaj.jpg" alt=""><br><img src="http://ww3.sinaimg.cn/large/bfadf3bejw1e3141s86pjj.jpg" alt=""><br><img src="http://ww3.sinaimg.cn/large/a74ecc4cjw1e3143s43f5j.jpg" alt=""><br><img src="http://ww1.sinaimg.cn/large/a74e55b4jw1e3145ay6txj.jpg" alt=""><br><img src="http://ww3.sinaimg.cn/large/a74eed94jw1e3147fjcswj.jpg" alt=""><br><img src="http://ww1.sinaimg.cn/large/bfadf3bejw1e3149bwkhfj.jpg" alt=""><br><img src="http://ww3.sinaimg.cn/large/a74ecc4cjw1e314d0x8h9j.jpg" alt=""><br><img src="http://ww3.sinaimg.cn/large/a74e55b4jw1e314i1uvnej.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;2月20日下单美帝直邮，定了一台 Nexus 7 WIFI 16G 的，到3月23日早上才到。嗯，耐心不好的同学不要玩这个了，会疯的。。&lt;br&gt;2月20日晚下单，3月3日到美国仓库并发往北京，3月6日到北京，然后在海关待到了15日，原因是北京开会，15日被税了通关，到21日
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="安卓" scheme="https://yufei.im/tags/%E5%AE%89%E5%8D%93/"/>
+    
+      <category term="谷歌" scheme="https://yufei.im/tags/%E8%B0%B7%E6%AD%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>别了Google Reader君</title>
+    <link href="https://yufei.im/post/%E5%88%AB%E4%BA%86google-reader%E5%90%9B/"/>
+    <id>https://yufei.im/post/别了google-reader君/</id>
+    <published>2013-03-16T06:33:00.000Z</published>
+    <updated>2018-04-25T15:09:06.975Z</updated>
+    
+    <content type="html"><![CDATA[<p>前天中午回家，刷了下微博，就看见铺天盖地的关于 Google Reader 关闭的话题，嗯，一直担心的事情终于成了现实，一时间大怒，怒骂 Google 个傻逼，但是过了会儿也冷静下来，塞翁失马焉知非福。作文乃记 Google Reader 君（问我为什么现在才写？因为前两天在背五十音~~其实就是拖延症啦。。）</p><p>我首次使用 Google Reader 是在 2010年2月10日，现在用的这个 Google 帐户是 2011年4月29日 创建的，这个是统计截图：<br><img src="http://ww2.sinaimg.cn/large/a74ecc4cjw1e2rka4j8ilj.jpg" alt=""><br>我这个帐号至今用 Google Reader 已经看了至少30万条消息，当然里面有不少水份，比如BT、新闻类的订阅，但可以肯定的是自从我用了 Google Reader ，我的信息获取基本全靠他了。感谢 Google 和 Google Reader 这三年来一直免费维护着这个优质的服务，虽然我知道你很想靠这个来赚钱，但是失败了。</p><p>有人大唱 RSS 已死论，社交化不可挡论。但是他们忘了 RSS 从来就不是主流，一向是小众的工具，Google Reader 死了，还有大批的阅读器顶上来。微博等社交化媒介很难完成思考，指望用140个字来叙事、论理对绝大多数人来说是不可能做好的。</p><p>既然 Google Reader 死了，RSS 不会死，那怎么延续呢？在 Google Reader 光环下有很多不知名的公司/个人在做阅读器，比如煎蛋的这篇 <a href="http://jandan.net/2013/03/15/google-reader-alternatives.html" target="_blank" rel="noopener">g Reader 将死，8款 Google Reader 替代品</a>，这些阅读器不少都和 Google Reader 界面、理念、功能有相当大的区别，相对比于 Google Reader 很多年不更新，但是又垄断着 RSS 阅读器市场，导致这些优质阅读器永无出头之日来说，Google Reader 死了反而是件大好事，这些阅读器会做得更好、更多样化。当然我也认为这些阅读器在某些方面永远不会超过 Google Reader ，比如说谷歌拥有最强大的爬虫和算法系统，除非有重大革命，否则这些公司这一块做不好。</p><p>我在这两天也在尝试别的阅读器以便接替 Google Reader 死亡后的任务，目前最好用的免费服务是 Feedly，可以无缝转移 Google Reader 的内容。优点不少：服务稳定（Google Reader 在某些国家被不稳定），移动端非常牛逼。但是缺点也很明显，因为采用的是类杂志风格，所以页面内容太少；界面采用了 3 栏，并且页面空白太多；由于是小公司，所以访问速度很慢，特别是在 Google Reader 被判死刑后，没有本地化。所以暂时决定在 7月1日 Google Reader 正式关闭前 PC 端还是主用 Google Reader ，移动端主用 Feedly。也会继续试用各种 RSS 阅读器。我相当希望Feedly能够收费（$1/月以内可以接受），并且提供更优质的服务。</p><p>为了更好的使用Feedly，我个人推荐一个 User Style <a href="http://userstyles.org/styles/84468/feedly-wide-and-clean-like-google-reader" target="_blank" rel="noopener">Feedly Wide and Clean -&gt; Like Google Reader</a>，相当棒。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;前天中午回家，刷了下微博，就看见铺天盖地的关于 Google Reader 关闭的话题，嗯，一直担心的事情终于成了现实，一时间大怒，怒骂 Google 个傻逼，但是过了会儿也冷静下来，塞翁失马焉知非福。作文乃记 Google Reader 君（问我为什么现在才写？因为前两天
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="信息" scheme="https://yufei.im/tags/%E4%BF%A1%E6%81%AF/"/>
+    
+      <category term="谷歌" scheme="https://yufei.im/tags/%E8%B0%B7%E6%AD%8C/"/>
+    
+      <category term="RSS" scheme="https://yufei.im/tags/RSS/"/>
+    
+      <category term="阅读器" scheme="https://yufei.im/tags/%E9%98%85%E8%AF%BB%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows下视频播放器</title>
+    <link href="https://yufei.im/post/windows%E4%B8%8B%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8/"/>
+    <id>https://yufei.im/post/windows下视频播放器/</id>
+    <published>2013-03-01T18:30:00.000Z</published>
+    <updated>2018-04-25T16:11:23.609Z</updated>
+    
+    <content type="html"><![CDATA[<p>我个人比较喜欢折腾各种软件，写一下我对Windows平台的视频播放器的看法。顺序是按照我记忆中自己用的顺序排的。</p><p>#Windows Media Player<br>我最早接触的是 WMP，就是 Windows 自带的那个。这个播放器怎么说呢，既强大又非常弱。强大的是他的管理功能，可以管理计算机上的音乐、视频和图片，我至今还没找到一款功能相近的软件。问题也非常严重，支持的格式非常少，作为播放器的功能可以说是过于简陋了，没有快捷键设置，对视频播放的设置也太少。<br>所以，即使他管理功能是如此的强大，并且我也对这个功能又非常大的需求，又没有任何软件能替代，但是因为这俩缺点（主要是第二个），所以被我无情的抛弃了。</p><p>#RealPlayer<br>当年为了看 RM 格式下的，这个软件除了能播放自己的专有格式外一无是处。臃肿程度居然能胜过 iTunes。。各种难用。</p><p>#金山影霸<br>几乎完全没印象，只记得这软件安装要好久好久，第一次启动有个动画。不怎么样。</p><p>#豪杰解霸<br>我对这个软件的印象就是能播放非常多的格式，界面非常复杂。后来被暴风影音收购了。</p><p>#暴风影音<br>修改自 MPC，记得汉化修改的人叫铃风什么的，我还曾经花了好几个钟头来搜索这个人来着。自从某版本（3.1？）商业化开始就变成一个大流氓，各种后台、自启动和铺天盖地的广告，当然最著名的要属当年的断网事件，神作啊 233 在耍流氓后不久我就卸了，这货后来越来越烂。唉</p><p>#快播<br>呵呵，你懂的。不过我也就刚开始一两个月用过，但是因为流氓和画质差就弃了。</p><p>#QQ影音<br>曾经是国产中最好的，但是这个团队也太。。在官方平台提建议、意见和 BUG 从来不回，再加上常年不更新，就弃了。如果你对软件没有什么要求（说白了不具备挑选软件能力），还是不错的，那些小工具都挺实用的，还整合了旋风的离线，如果你有的话。</p><p>#射手影音<br>唉，可惜了啊。国产开源播放器，主打字幕功能，原来挺不错的，但是在 3.6 版本自费武功，搞了一个精简版的设置（我对于软件的要求是新人能很快上手，有能力的能自定义，所以播放器我用 Firefox，我没办法用 Linux，因为我根本没办法上手）我不知道过了 3 年了，射手那帮人发现自己错了吗？如果他们还认为是QQ影音的问题的话，我只能说死了活该。<br>本来还留着下字幕，现在也都直接网页下载字幕了。</p><p>#KMPlayer<br>当年我从射手转来用的时候发现，这他瞄的就是两个极端，一个是极简一个则是极复杂。打开设置（我在之前提过，我用软件，第一件事就是打开设置框），密密麻麻的全都是选项，一下子让我觉得这个软件没法用，事实上默认设置对于我来说也的确是没法用。就几乎再也没用过，第一印象非常重要。还有一个很大的原因是KMPlayer作者跳槽去别的公司做播放器了。</p><p>#MPlayer<br>好像是 Linux 上最牛逼的播放器，但是 Windows 下问题很多，卡顿严重，就是播放视频的时候打开菜单时候视频会卡住，声音回一直循环那 1 秒的声音，极其蛋疼。还有个问题就是设置太复杂并且只能复杂，对我来说这也是致命伤，不过这个国人开发者比射手那帮「专业的」聪明得多，后来的版本里<strong>加入</strong>了简单设置。这就是智商上不可逾越的差距，射手影音为了照顾新手把高级设置彻底删了，MPlayer 是另加入了一个简单设置。但是还是各种用不惯。</p><p>#MPC<br>光给你看界面，你会有一种「上世纪软件」的感觉。对，界面非常朴素，打开设置框，内容中等，只要改一下几个快捷键就很容易上手，而且扩展性极强。但是我还是各种用不惯，很大的原因是快捷键太复杂，没有把常用的提取出来，而且快捷键设置很麻烦。最大的问题是界面（这我会在后面专门说）。</p><p>#MPC-BE<br>MPC 的修改版，做了很多人性化改动，但是依然用不惯。</p><p>#VLC<br>跨平台开源播放器，这个播放器是我对设置最满意的典范（另一个是 Firefox），打开默认是简单设置，简单设置基本涵盖了所有常用功能，并且基本没有用不到的设置。这个播放器对我来说最大也是惟一一个缺点就是界面。丑，太丑，丑到连 MPC 都不如。。</p><p>#PotPlayer<br>可以讲因为 PotPlayer 的出现终结了我一直换播放器的历程。</p><hr><p>#设置<br>来张集体照（就这6个，其他播放器就不下载装了，脏电脑）<br>我觉得高下立判—— VLC &gt; QQ影音 &gt; MPC = PotPlayer &gt; MPlayer &gt; 射手 &gt; KMPlayer<br>QQ影音分类最清晰，但是没有高级设置，PotPlayer 虽然选项很多，但是分类清晰，并且实际操作中基本只需要到第一级菜单里就行。MPlayer 都是在一级里的，KMPlayer 不但有一二三级，并且还有标签页，进一步复杂。射手则是太简单，并且是提供左右按钮来切换设置项，你不知道你想要的东西到底在哪一页。</p><p>#界面<br>还是集体照，不过这已经是我修改过的了，很明显你能看出有个奇葩。。。抛开 KMPlayer 这傻逼不谈，我认为作为一个播放器，应该是给用户最少的干扰，所以尽可能隐藏界面，既只有想要对播放进行操作的时候才显示控制界面，对于这个问题各个播放器也都有解决方案。<br>上策（PotPlayer、射手影音、QQ影音）：只有鼠标移动到指定区域才显示控制界面。</p><ul><li>PotPlayer 做得最好，控制按钮很窄，位于顶部和底部，播放器边框默认是深色，看视频时一般都能较好的融合。</li><li>射手 次之，他的播放条位于中下位置，可移动，但是还是很碍眼，经常会显示。标题栏和边框特别显眼。</li><li>QQ影音 最烂，控制按钮占到了近四分之一的屏幕，所以经常会误显示。标题栏和边框特别显眼。<br>中策（MPlayer）：移动到位置，界面会有变化，回多一个框和标题栏，并且导致播放器视频无法紧贴屏幕。<br>下策(VLC、MPC)：只能只显示播放条或者是控制按钮，不能同时存在。并且界面还是必须显示的，不能隐藏，只是把干扰界面变窄而已。<br>PotPlayer 的内置皮肤，是我用过的所有播放器的所有官方和是三方的皮肤里最棒的，将干扰降到最小并且功能齐全。刚找到一款类似感觉，但是是英文，并且感觉有点过于复杂的 PotPlayer 皮肤——<a href="http://browse.deviantart.com/art/YouTube-Skin-For-PotPlayer-347143522" target="_blank" rel="noopener">Youtube</a>。<br>VLC什么都好，就是这个界面难看。第三方皮肤各种BUG。</li></ul><p>#快捷键<br>很显然， QQ影音 和 PotPlayer 完胜，腾讯的用户体验真不是盖的（艹，就是播放器界面做不好）。这几个开源播放器都是什么啊，这么一长条是想闹哪样？很难找到你想要的那个，即使找到了设置也非常麻烦。PotPlayer 是惟一一个在设置里没有把快捷键都列出来的播放器，而是在右键菜单对应的地方表明快捷键。想修改就自己添加。并且 MPC 的键盘默认快捷键非常蛋疼。<br>鼠标按键 MPC 和射手都是键鼠放一起，显然这是极其二逼的行为，键盘有 100 左右个键，一般的鼠标就三个，并且这两个的快捷键设置框都无法把所有控制项都显示出来。。二逼至极。</p><p>#播放列表<br>做得最好的还是 QQ影音，当你打开一个文件，会自动添加到播放列表的底部，并且播放。（哈哈，这个建议是我提的，我果然对体验有过人的见解）。<br>PotPlayer 就很烂，当播放器没有打开时，你双击打开文件回清楚你的播放列表，即只有你打开的这一个文件。相当蛋疼，但是我没办法提建议，因为作者是韩国人。。<br>有的播放器就压根没有播放列表的概念，只有最近打开文件的列表。。</p><p>暂时只想到这些。。要是还有别的再说吧，睡觉去。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;我个人比较喜欢折腾各种软件，写一下我对Windows平台的视频播放器的看法。顺序是按照我记忆中自己用的顺序排的。&lt;/p&gt;
+&lt;p&gt;#Windows Media Player&lt;br&gt;我最早接触的是 WMP，就是 Windows 自带的那个。这个播放器怎么说呢，既强大又非常弱。强
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="播放器" scheme="https://yufei.im/tags/%E6%92%AD%E6%94%BE%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
     <title>先有鸡还是先有蛋</title>
-    <link href="https://yufei.im/2013/02/14/%E5%85%88%E6%9C%89%E9%B8%A1%E8%BF%98%E6%98%AF%E5%85%88%E6%9C%89%E8%9B%8B/"/>
-    <id>https://yufei.im/2013/02/14/先有鸡还是先有蛋/</id>
+    <link href="https://yufei.im/post/%E5%85%88%E6%9C%89%E9%B8%A1%E8%BF%98%E6%98%AF%E5%85%88%E6%9C%89%E8%9B%8B/"/>
+    <id>https://yufei.im/post/先有鸡还是先有蛋/</id>
     <published>2013-02-13T16:36:00.000Z</published>
     <updated>2018-03-15T15:18:57.241Z</updated>
     
@@ -103,9 +922,67 @@
   </entry>
   
   <entry>
+    <title>如何上手一个智能移动设备</title>
+    <link href="https://yufei.im/post/%E5%A6%82%E4%BD%95%E4%B8%8A%E6%89%8B%E4%B8%80%E4%B8%AA%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87/"/>
+    <id>https://yufei.im/post/如何上手一个智能移动设备/</id>
+    <published>2013-02-01T10:38:00.000Z</published>
+    <updated>2018-04-25T15:04:00.252Z</updated>
+    
+    <content type="html"><![CDATA[<p>Kindle 到手了快 1 个礼拜了，自认为折腾得有模有样，但是周围一直会有人来问你这个怎么弄那个怎么弄，在这结合自己的体验来讲讲——<strong>怎么上手一个移动智能设备</strong>。<br>说是说移动智能设备，其实这些能推广到所有计算机东西上，如软件、 应用等都是没有什么问题的。</p><p>##购买<br>购买最好通过官方途径，如果官方途径无法购买，则通过靠谱的代购商，最好是直邮和不拆封，<strong>千万不要</strong>买那些自带服务的，如越狱、 贴膜等，一旦拆封，十有八九你这设备就被换了，iOS 设备到手先查激活日期。</p><p>##破处<br>一定要自己来破，这个过程非常享受，如果你曾经破过，一定会赞同我。先检查东西和附赠品有没有问题。</p><p>##上手</p><blockquote><p>###先看说明书<br>附带的纸质说明书一般都是介绍设备的基本硬件功能和参数等。<br>进入系统（先连 WIFI，没 WIFI？你他喵的买来干嘛？），先完成账户注册，iOS 注册 Apple ID，Android 注册 Google 账户等。可以说不注册你这个设备基本就废了一大半。</p></blockquote><blockquote><p>###看系统内的说明<br>iOS 进 iBooks 商店，会有该设备的说明书（需要先在 iTunes 里下载 iBooks，并在 iBooks 商店里找到对应设备的说明书）；<br>iOS 还能看自带的浏览器 Safari 浏览器书签里的说明。<br>原生 Android 好像只有一个没几步的新手指南，MIUI有一套完整详细的说明书；<br>Kindle 有一套完整的新手指南，并且里面会预存 2 本说明书。<br><strong>完整的看完他们</strong></p><p>###看系统设置<br>这一步是我认为最重要的一步。<br>进入系统设置，然后把系统设置里<strong>每一个</strong>选项全部都点开，全部都撸完，基本上你这个设备的入门就完成了。</p></blockquote><p>##装软件<br>iOS 没什么好说的，所有应用都从 iTunes 上下载，<strong>千万不要安装破解版的应用</strong>，一则稳定性差，二则可能会添加自己的广告等，三来考虑到开发者（毕竟自己也是这专业的学生）。有些好应用可能因为苹果的原因，上不了，那当然是另外一回事，但是要选可信的开发者，装之前记得备份，以免意外。</p><p>Android 就复杂很多了，因为过于开放。我个人选择：</p><ol><li>有 Google Play 版的都从 Google Play 上下载看；</li><li>官方不提供 Google Play 途径的在官网上下；</li><li>更新软件时，国外软件一律 Google Play ，国内的可以选择豌豆荚。</li><li>无论如何都不下载破解版应用，一律在 Google Play 上购买。</li></ol><p>因为特殊国情，你懂的。有些人可以选择从豌豆荚上下，对于对计算机不太了解的人，记得每个星期同豌豆荚的「洗白白」功能。</p><p>##破解<br>移动设备的系统相对于桌面系统来说封闭了很多，产生了破解这个大需求。</p><p>iOS 入手一个月，不要越狱，安心用原生系统，如果你能准确说出这个系统哪里明显不好用，甚至可以说反人类（不要傻逼的跟我讲「人家工程师、设计师年薪十几万，不如你这个臭傻逼？」之类的话，说毛病能说说一大把），并且越狱能够解决问题，OK，去吧。</p><p>Android 一样先用一段时间，问自己 <strong>root 是什么？我 root 了要干嘛？能干嘛？是否真的需要？能否解决问题？</strong>如果都能答上，那就承担风险并上吧。对了，就是因为小米敢开放 root 权限，所以我在一开始非常欣赏小米。</p><p>Kindle 也是先了解你破解了要干嘛？能干嘛？是否真的需要？能否解决问题？再上。如果你和我一样是要用多看商城的，那没什么好说的，先用半天，体验下原生系统，就破吧，记得装了多看后要经常比较这两个系统的优缺点。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Kindle 到手了快 1 个礼拜了，自认为折腾得有模有样，但是周围一直会有人来问你这个怎么弄那个怎么弄，在这结合自己的体验来讲讲——&lt;strong&gt;怎么上手一个移动智能设备&lt;/strong&gt;。&lt;br&gt;说是说移动智能设备，其实这些能推广到所有计算机东西上，如软件、 应用等都
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="iOS" scheme="https://yufei.im/tags/iOS/"/>
+    
+      <category term="安卓" scheme="https://yufei.im/tags/%E5%AE%89%E5%8D%93/"/>
+    
+      <category term="Kindle" scheme="https://yufei.im/tags/Kindle/"/>
+    
+      <category term="教程" scheme="https://yufei.im/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>维修三星SA系显示器</title>
+    <link href="https://yufei.im/post/%E7%BB%B4%E4%BF%AE%E4%B8%89%E6%98%9Fsa%E7%B3%BB%E6%98%BE%E7%A4%BA%E5%99%A8/"/>
+    <id>https://yufei.im/post/维修三星sa系显示器/</id>
+    <published>2013-01-16T10:22:00.000Z</published>
+    <updated>2018-04-25T15:14:22.524Z</updated>
+    
+    <content type="html"><![CDATA[<p>前两天出去吃饭，电脑就开着挂下载，等回来的时候发现显示器无论如何都无法正常显示，屏幕上只有一个不断跳动的「<strong>检测信号线</strong>」。凭我的经验来说这绝对是显示器问题，因为以前电脑关机的时候点亮显示器是「无信号」，然后就是休眠模式，现在不管开关机都是「检测信号线」，但是出于对自己的不自信，还是换插显卡，还是没办法，因为第二天还要考试，所以救不折腾了。</p><p>第二天考完，在网上搜了下，找到了是「<strong>三星 MUC</strong>」的问题，这又是一个从来没听说过的名词，放狗搜了下，大概就类似于显示器的控制器，三星SA系列的显示器MUC都有点问题，论坛里「大神」给的解决办法刷MUC或者是直接更换MUC芯片，需要拆机，价格倒是便宜，程序2块钱，山寨芯片10块钱能买4块，但是，我他妈的买4块干吗？就等于告诉我这山寨芯片质量非常差？而且每次换都得找人来拆机，多麻烦啊。三星原厂的芯片238块钱，窝巢。。。</p><p>但是，这个时候我觉得这类问题还得是去官网上找，因为既然我这个问题是普遍存在的，那三星不会置之不顾吧。上官网一下子就找到了官方解决办法——<strong><a href="http://downloadcenter.samsung.com/content/FM/201203/20120312092008691/SamsungFirmwareUpdater_1.1.07_120227.exe" target="_blank" rel="noopener">下载官方升级程序</a></strong>，不需要拆机，只要把显示器连上电脑，安装程序，点按升级，OK。要是碰到我这种显示器完全无法显示的情况，只要另找一个显示器，下载安装，运行程序后把显示器换上，点回车，等2分钟左右显示器会自动重启，就可以正常使用了。我是在笔记本上完成的，有点就是操作过程中也有屏幕可看。</p><p>等显示器换回我的台式机，出了一个新问题——显示器永远都出于休眠模式，也就是说无信号，折腾了半天显卡没弄出来，想到极其可能是内存问题，把所有内存都拔出来，用手撸了一遍金手指，再插回去，完全OK了。</p><p>走了好多弯路，还好还没送修，估计会被宰一刀。记下来供是三星SA系列显示器，并且出现类似问题的朋友参考。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;前两天出去吃饭，电脑就开着挂下载，等回来的时候发现显示器无论如何都无法正常显示，屏幕上只有一个不断跳动的「&lt;strong&gt;检测信号线&lt;/strong&gt;」。凭我的经验来说这绝对是显示器问题，因为以前电脑关机的时候点亮显示器是「无信号」，然后就是休眠模式，现在不管开关机都是「检
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="三星" scheme="https://yufei.im/tags/%E4%B8%89%E6%98%9F/"/>
+    
+      <category term="维修" scheme="https://yufei.im/tags/%E7%BB%B4%E4%BF%AE/"/>
+    
+  </entry>
+  
+  <entry>
     <title>群众都是傻逼的——肯德基篇</title>
-    <link href="https://yufei.im/2012/12/25/%E7%BE%A4%E4%BC%97%E9%83%BD%E6%98%AF%E5%82%BB%E9%80%BC%E7%9A%84%E2%80%94%E2%80%94%E8%82%AF%E5%BE%B7%E5%9F%BA%E7%AF%87/"/>
-    <id>https://yufei.im/2012/12/25/群众都是傻逼的——肯德基篇/</id>
+    <link href="https://yufei.im/post/%E7%BE%A4%E4%BC%97%E9%83%BD%E6%98%AF%E5%82%BB%E9%80%BC%E7%9A%84%E2%80%94%E2%80%94%E8%82%AF%E5%BE%B7%E5%9F%BA%E7%AF%87/"/>
+    <id>https://yufei.im/post/群众都是傻逼的——肯德基篇/</id>
     <published>2012-12-25T10:43:00.000Z</published>
     <updated>2018-03-15T15:19:20.573Z</updated>
     
@@ -133,9 +1010,245 @@
   </entry>
   
   <entry>
+    <title>我为什么讨厌iOS</title>
+    <link href="https://yufei.im/post/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AE%A8%E5%8E%8Cios/"/>
+    <id>https://yufei.im/post/我为什么讨厌ios/</id>
+    <published>2012-12-15T13:33:00.000Z</published>
+    <updated>2018-04-25T15:09:45.912Z</updated>
+    
+    <content type="html"><![CDATA[<p>我第一次摸到iOS设备是08年年初，第一代iPhone，这部手机给我留下相当深刻的震撼——没有键盘，横屏后手机居然能看电影，发短消息居然和QQ聊天一个感觉，可以触屏玩连连看，并且不会误触。</p><p>自己的第一台iOS设备是今年4月底入手的iPad3（我至今都完全无法理解为什么这代叫牛排，第四代又叫iPad4了，真他妈奇葩。。）。在自己亲手、长时间使用iPad后变成了一个Android黑和半iOS粉，并且傻逼的叫嚣Android必死，iOS永生的话。主要原因是原生Android问题不少，又有很多不人性化的设计，并且无法购买应用，应用质量也参差不齐。</p><p>在这半年多的时间内iOS没什么决定性突破，而且不少东西做得更烂了，再加上苹果的臭脾气等，让我越来越讨厌iOS；自己决定要是iOS还是这个屌样，不思进取的话，这台史上最短命的iOS设备——牛排就是我最后一台iOS设备。</p><p>下面讲讲我对iOS哪些地方不满意。</p><p>###没有系统级分享</p><p>这是Android完胜iOS的一点，当我在某个应用里看到一片好文，想等等再看或者是收藏时就相当麻烦，只能分享到该应用所提供的服务，若是国人做的尚可反馈，要是一个外国人指望让他添加个Wiz或者是腾讯微博根本是不可能的事情。就是因为苹果不给iOS加系统级分享功能，开发者也非常麻烦的一个个添加支持的API。</p><p>###单进程</p><p>iOS虽然是多进程，但是因为所有程序都是全屏，并且所有后台程序都是暂停的，所以基本可以说是单进程。单进程带来很多不方便之处，比如Dropbox上传图片，上传速度很慢，所以要花很多时间，但是iOS无法后台运行程序，所以只能在主界面等，由于锁屏后也会断网，所以还得保持屏幕常亮，所以不是一般的蛋疼。当你需要在两个应用中切换时都得卡上好几秒，超过10分钟的就直接关掉了，还得花时间启动。</p><p>###单用户</p><p>iPad作为一款平板电脑，在家庭中的地位可能是娱乐终端的地位，但是iOS没有多用户，导致若iPad是多人使用时，就得主义隐私，你的应用、照片会让其他人看到。</p><p>###桌面形式单一</p><p>只有满屏幕的图标、文件夹，和Android便携快捷的挂件相比若爆了，当然我觉得在很长的时间内，甚至永远都不会有这个功能。</p><p>###苹果对应用限制<br>输入法</p><p>由于iOS的沙盒机制和苹果不提公共接口，导致不越狱无法使用第三方输入法。本来系统稳定和用户隐私是苹果拒绝第三方输入法的一大好借口，但是也由于苹果不提供，所以逼用户越狱来装输入法，但由于越狱后的应用不需要苹果审核，反而大大加重了这些用户的稳定性和隐私的隐患。</p><p>###不允许第三方内核</p><p>整个iOS系统，除了苹果自己应用，别的所有应用都用的是苹果提供的引擎，但是这个引擎效率非常低下，所以在打开js多/复杂的网页时，这些应用往往会卡死、崩溃。所以同样是Chrome，iOS版各种BUG和慢，功能也是各种缺失。</p><p>###文字选择困难</p><p>现在屏幕分辨率都挺高，字都不大，相对于手指来说就更小了，手指想定位光标就异常困难。如果说定位光标能靠那个放大镜来解决的话，选中文字就是几乎无法解决的问题了，当想选中一行字的时候金昌市整段都被一个选中框选中，无法调整，除非你全选中后删除。</p><p>###格式单一</p><p>内置的音乐、视频支持的格式极其少，并且功能还非常单一。逼你用第三方播放器，而这些播放器也只是支持的格式多一点，很多PC甚至是Android都能流畅播放、硬解的格式在iOS上卡的一笔，而且还没有一个好一点的播放器，预计iOS永远都不会出现一个比一年前Android上MX Player更好的播放器，更别说一年后现在的版本了。</p><p>###没有文件系统概念</p><p>因为是沙盒，并且没有一个公用的文件系统，导致你不用电脑辅助或者是越狱有些功能根本实现不了。打个比方我想下一个文件并阅读，但是Safari没有下载功能，得用下载应用下载，但是下载完的文件在沙盒里，无法用阅读器打开。除非你连上iTunes导出再导入。</p><p>###通知系统太弱</p><p>抄袭Android的通知栏只抄到了皮毛，完全没抄到精髓，就成了现在这个弱逼东西。</p><p>暂时想到这些，还有不少，一时想不起来了，等想到了再添上吧。</p><p>###傻逼的苹果</p><p>几乎所有接口都是用自己的标准，明明有国标，还是一意孤行，即使是iPhone5换接口，还是换了另一个自己的，转接口还得再收你200块，各种烦，并且各种线材、配件都非常贵，对于非苹果生产的配件，还得再收一个苹果税。<br>iOS跟某国政府有得一拼，都是明明有规则，但是规则具体执行完全看公司、个人感觉，若是大公司产品并和苹果的功能有一点重叠，就能以各种理由拒绝上架。同一应用提交说有问题，没有修改再提交一次又能过了。某应用新版过了审核，但第二天就背苹果强制下架，并且没有旧版下载，明明是苹果自己的审核出了问题，却让开发商来承担后果。Google Voice提交给苹果后16个月才通过，呵呵，傻逼苹果。<br>前两天的事情，微软的SkyDrive出iOS版，并且内建有支付功能，但是由于支付的钱是购买微软服务的钱，这些钱是实实在在用在硬件和服务的，并不只是服务于iOS的，所以微软希望不要分30%给苹果，苹果就义正严词地说苹果对于所有人一视同仁，不搞特殊化（呵呵）。微软想和Dropbox一样，iOS应用不提供支付，只能在别的平台支付，但这个对所有人一视同仁的苹果拒绝了，为什么Dropbox可以而微软不行呢？请一视同仁的苹果解释下什么叫一视同仁？呵呵，傻逼苹果。这是我对于傻逼苹果最高等的呵呵。<br>我热烈期盼这苹果这头贪婪的巨兽会在以后iOS内所有购物都收30%的苹果税——我在iOS上网银转账100块钱，苹果也得收30%。苹果这厮做的出来的。嗯</p><p>骂了这么多，说一条好的吧，解释为什么我暂时还会使用iOS设备。因为客服服务太好了，我在凌晨给苹果客服发了一封邮件，在第二天9点，苹果客服就回复并且解决了，过了大概三天，苹果客服又来了一封邮件，询问问题是否完全解决了。让我这个在天朝生活了20年的人差点热泪盈眶了，这辈子，除了当年用过的某主机商外，就没见过这么好的售后客服了~</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;我第一次摸到iOS设备是08年年初，第一代iPhone，这部手机给我留下相当深刻的震撼——没有键盘，横屏后手机居然能看电影，发短消息居然和QQ聊天一个感觉，可以触屏玩连连看，并且不会误触。&lt;/p&gt;
+&lt;p&gt;自己的第一台iOS设备是今年4月底入手的iPad3（我至今都完全无法理
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="iOS" scheme="https://yufei.im/tags/iOS/"/>
+    
+      <category term="苹果" scheme="https://yufei.im/tags/%E8%8B%B9%E6%9E%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>谈谈小米和雷军</title>
+    <link href="https://yufei.im/post/%E8%B0%88%E8%B0%88%E5%B0%8F%E7%B1%B3%E5%92%8C%E9%9B%B7%E5%86%9B/"/>
+    <id>https://yufei.im/post/谈谈小米和雷军/</id>
+    <published>2012-12-01T13:32:00.000Z</published>
+    <updated>2018-04-25T15:14:57.275Z</updated>
+    
+    <content type="html"><![CDATA[<p>这一年多来雷军和他的小米一直处于锋尖浪口，风光无限，争议不断。</p><p>#小米<br>不众所周知，我在我人生的前18年半都没有手机，第一我不觉得手机是必需品，第二身上带一块小砖也不爽。在去年6月份，抱着好奇心看了小米1的发布会，然后 然后这个被周围人认定<code>绝对不会有手机</code>的人居然拍板决定就买小米了，从决定买到预订，我等了3个月；从预订到下单，我等了3个月；从下单到到手花了7天，对就是这么扯蛋。直到我购买前我还是个<strong>米粉</strong>，对 是<code>粉</code>。小米小米手机购买的这个过程让我从<code>米粉</code>变成了<code>小米手机用户</code>，我当时相当不爽，于是写下了<a href="http://yufei.im/xiaomiex-perience/">小米手机初体验</a>。后来的小米手机4.0风波更是直接让我从一个<code>小米手机用户</code>变成了<code>米黑</code>。后来又回归理性，不管小米做什么都呵呵，看淡了。OK，扯了个不短的蛋，来说正题——对小米的看法。</p><p>##硬件<br>手机本身质量跟一流大厂当然没法比，但是和二流比还算可以，至少我除了虚拟按键有点漏光外手机本体没有碰到什么问题，周围用小米的也是，根本没有碰到网上的那些铺天盖地的问题，更何况我这个是相当早期的，后期质量应该是更好了。小米喜欢堆硬件，为很多用iPhone的人不齿：「硬件高有什么用。」其实硬件高还是有好处的，特别是各种芯片，不过小米这方面做得也很烂就是了。这手机还有一大特点——开放Root，明明是很简单的事，想要就开，不要就关，偏有些厂商要你折腾几小时来解锁，现在像魅族这种公司也都解锁了，小米开了一个好头，GJ。<br>总的来说小米的硬件——<strong>数据很漂亮，用起来就那样。</strong></p><p>##系统<br>经常可以看到一堆「评论家」说小米就是靠营销和炒作，没了这个一无是处。我只能说「呵呵」，很明显这个「评论家」没用过MIUI，毫不夸张的说「<strong>MIUI是我用过的最好用的手机系统</strong>」，可能又有人说了「不就是Android套个壳么~国产就这种水平了」，嗯 的确是壳，但是人家大胆的说自己时基于Android的系统，并且这也是谷歌允许的，不像某些公司，「自主创新」~<br>用过MIUI的都知道他有相当多人性化的设计、改变，最吸引我的就是每周更新，对于我这个不更新会死星人来说是再爽不过的事。当然作为一个主要为中国服务的系统，也有很多让我讨厌的地方，比如</p><ul><li>自带的商店宣传盗版</li><li>阉割了Google Play等所有谷歌服务</li><li>用百度的定位系统，我这谷歌定位不准确不知道是不是这个问题。</li><li>替换了Android原生锁屏，导致PowerAMP功能残缺。</li><li>更新非常慢，对 你没有看错，因为MIUI时深度定制的Android，所以跨版本更新非常慢，而且我认为这是人为故意导致的。</li></ul><p>总的来说硬件一般，系统非常棒的手机。这个年头拼的其实是系统，硬件已经没有多大差别了。如果差钱（2000-），并且对雷军不是非常反感的话还是建议入手小米的。2000+就推荐四儿子。</p><p>#雷军<br>从前对雷军有点好感，因为雷军之前也很牛逼。但是从小米时代开始，雷军越来越恶心，一直满嘴跑火车，什么话都敢说，恶心至极（比周鸿祎好点）。<br>雷军投资的软件公司大都有一个特点——每周更新一个新版本，我前面就说了，对于我这个不更新会死星人来说简直就是秒杀啊~这一点让我对雷军的感情又不少提升。  </p><p>##多看<br>多看是我从感情上最喜欢的雷军系公司，在之前的<a href="http://yufei.im/xiaomiex-perience/">iPad阅读应用评测里</a>也提过了，我目前想买一部Kindle PaperWhite，就准备到手就刷多看，不是多看有多好，主要是多看书城。</p><p>##金山<br>怎么说呢，金山本来是我相当喜欢的公司，但是现在啊，喜欢耍流氓的WPS，每次安装、更新都要给你<strong>强制、后台、静默</strong>安装快盘。金山毒霸则一直有个不爽的地方，他把自己当成电脑的主人，明明我知道是安全的，金山认为危险的居然不允许我信任，只能忽略，忽略后还是黄色提醒，很烦。还有就是一直会谈床说跟360怎么样，推荐小米等。不爽。</p><p>#多玩<br>我只有在听<a href="http://jbguide.me/" target="_blank" rel="noopener">越狱指南</a>的<a href="http://jbguide.me/category/podcasts/" target="_blank" rel="noopener">Talk JB</a>时才会用他的手机端，因为Windows太流氓了，做得也很烂。</p><p>#凡客<br>购物体验很差，快递非常慢，如风达的分绝对是微风，送个东西基本都要至少三天。对于B2C来说是非常慢。</p><p>#UC<br>相当烂</p><hr><p>写到后来发现我完全不知道自己在干嘛了。。。算了，字打了就发出来吧。<br>这一个月都没有写博客，说白了就是拖延症，决定了，每周六都要更新一篇博文。</p><p>218.92.227.84</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这一年多来雷军和他的小米一直处于锋尖浪口，风光无限，争议不断。&lt;/p&gt;
+&lt;p&gt;#小米&lt;br&gt;不众所周知，我在我人生的前18年半都没有手机，第一我不觉得手机是必需品，第二身上带一块小砖也不爽。在去年6月份，抱着好奇心看了小米1的发布会，然后 然后这个被周围人认定&lt;code&gt;绝
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="小米" scheme="https://yufei.im/tags/%E5%B0%8F%E7%B1%B3/"/>
+    
+      <category term="雷军" scheme="https://yufei.im/tags/%E9%9B%B7%E5%86%9B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>排版癖</title>
+    <link href="https://yufei.im/post/%E6%8E%92%E7%89%88%E7%99%96/"/>
+    <id>https://yufei.im/post/排版癖/</id>
+    <published>2012-10-28T12:25:00.000Z</published>
+    <updated>2018-04-25T14:42:42.537Z</updated>
+    
+    <content type="html"><![CDATA[<p>不知道有没有人注意到过，我对排版和标点有莫名的执着。</p><p>#排版<br>我始终认为，好的排版能让阅读变成享受，使阅读量、速度都大幅提升，我排版一般分两种：</p><ul><li>层次式</li><li>层次缩进式</li></ul><p>可能不怎么好理解，举例说明。</p><p>##层次式</p><p>###1</p><p>####2</p><p>#####3</p><p>######4</p><p>##层次缩进式</p><blockquote><p>###1</p><blockquote><p>####2</p><blockquote><p>#####3</p><blockquote><p>######4</p></blockquote></blockquote></blockquote></blockquote><p>第二种特点是层次非常清晰，主从关系一眼就能看出。缺点就是，当层次过多时行宽会很窄，而且格式复杂，若不用Markdown这些标记语言来写的话，绝对会一团糟。这最早是从<a href="http://www.kenengba.com/" target="_blank" rel="noopener">可能吧</a>学到的。<br>第一种的话把优缺点都反一下就是了,另外在不同的排版下标题大小不是很容易看出大小，甚至在有的CSS下小一号的标题会比上个标题更大、更粗。<br>所以我基本还是采用第二种。在<code>#排版</code>里我采用的是第一种，防止混乱。<br>在我还没学Markdown之前，排版的时间甚至和打字的时间差不多。  </p><p>英文除非特殊情况（比如缩写等），首字母大写，后面一律小写，完全忍受不了全是大写/小写。<br>单词、字母两边要加上一个半角的空格<code></code>，在既有中文又有英文的情况下尤其要注意遵守。</p><p>对于中文行首是否要缩进这点，规范是要求缩进，但是在网络上用一个标准行距的空行效果要远远明显于首行缩进。并且在较复杂的无格子排版下首行缩进会带来视觉混乱，所以我的方案就是不缩进。</p><p>#标点</p><blockquote><p>##东亚文字标点</p><blockquote><p>我这的东亚指中日韩朝港澳台。</p></blockquote><ul><li>句号<code>。</code></li><li>逗号<code>，</code></li><li>顿号<code>、</code></li><li>冒号<code>：</code></li><li>分号<code>；</code></li><li>叹号<code>！</code></li><li>问号<code>？</code></li><li>括号<code>（</code> <code>）</code></li><li>单引号<code>『</code> <code>』</code></li><li>双引号<code>「</code> <code>」</code></li><li>连接号<code>~</code></li><li>破折号<code>——</code></li><li>省略号<code>…………</code></li><li>人名连接符<code>・</code><blockquote></blockquote>所有标点一律使用半角，中间有争议的一般是引号吧，我不知道为什么，整个东亚文字标点里只有大陆采用了<code>‘’</code> <code>“”</code>这种标点，而且本身还不是完全同于英文的标点，这个标准还是1994年才提出的，这让我非常费解。<br>虽说标点历史没多长，没什么文化渊源可讲，但是在东亚一片<code>『</code> <code>』</code> <code>「</code> <code>」</code>的情况下，我们居在20年前然重新制定了另一套方案，不是一般的猎奇。<br>我坚持在非强制标准的领域（官方证件、文件，语文考试）使用这套标点，在东亚文字里明显比大陆现在的标准引号好看得多得多。<br>不谈这个引号，来说说「癖」。<br>我会在阅读所有非短篇的文章、字幕时都会把里面的标点重新替换一遍，这会花不少时间，但我会不厌其烦的改。在阅读时看到各种不规范的标点时是非常影响心情的，浑身不爽。</li></ul></blockquote><p>PS：由于Markdown 没有表格功能，所以下面看起来有点乱，要是想解决的话又得加入一大坨HTML代码进来，唉，还是算了。这是不是和我的排版癖相抵触呢？其实不然，因为我在码字的时候看得非常舒服~而我打完又不要自己看了。。。所以嘛，辛苦你们了。<br>最后附上我编辑时候看到的样子<br><a href="http://ww2.sinaimg.cn/large/a74ecc4cjw1dyb6baciwuj.jpg" target="_blank" rel="noopener">点我</a></p><hr><p>#iPad上阅读应用</p><p>在之前的<a href="http://yufei.im/understanding-of-the-ipad/">对iPad的理解</a>中提到了iPad是一款非常适合阅读的设备，但设备只是个硬件，还需要阅读类应用作软件，这次来评测几款常见的中文阅读器。</p><ul><li><a href="http://www.apple.com/ipad/built-in-apps/" target="_blank" rel="noopener">iBooks</a></li><li><a href="http://www.duokan.com/" target="_blank" rel="noopener">多看</a></li><li><a href="http://tangcha.tc/" target="_blank" rel="noopener">唐茶</a></li><li><a href="http://read.douban.com/" target="_blank" rel="noopener">豆瓣阅读</a></li><li><a href="http://www.yuncheng.com/" target="_blank" rel="noopener">云中书城</a></li><li><a href="http://www.apabi.cn/" target="_blank" rel="noopener">阿帕比</a></li><li><a href="http://t.qq.com/yueduqi/" target="_blank" rel="noopener">QQ阅读</a></li></ul><p>##第一感觉</p><p>第一感觉非常重要，这里指的第一印象是从官网、iTunes下载页、功能指导到主屏幕为止的印象。满分<code>5</code>分。</p><ul><li>iBooks     4分    非常简约。</li><li>多看         5分    启动有个Logo，新手引导做得很好，暗色背景。</li><li>唐茶         5分    相当清爽，米色背景。</li><li>豆瓣阅读     3分    启动界面，让人看着挺不爽的，而且较模糊。界面整体不怎么样。</li><li>云中书城     2分    介绍自吹自擂、夸大。图标上有个很奇葩的Lite，启动界面模糊。</li><li>阿帕比     2分    启动界面很有感觉，但是模糊，按钮模糊。</li><li>QQ阅读 旧    0分    呵呵，模糊得让我坚信开发者绝逼没用过自己开发的应用。</li><li>QQ阅读 新    5分    窝巢，好棒，碉堡了，全新体验。就是图标上还标版本号。。。</li></ul><p>##书架</p><p>作为放置书本的界面「书架」相当重要。满分<code>5</code>分。</p><ul><li>iBooks     4分    木质书架非常棒，也能够自由排列，就是看救久了容易疲劳。另一个列表模式更棒。</li><li>多看         5分    创新型的文件夹形式，移动删除非常方便舒服。</li><li>唐茶         4分    相当清爽，功能少。</li><li>豆瓣阅读     4分    详细列表式，有作者和阅读进度。</li><li>云中书城     2分    这是神马？难看得跟狗一样。。</li><li>阿帕比     2分    书架难看得一塌糊涂。。</li><li>QQ阅读     3分    背景很好看，也可以自己更换，封面不太清楚。编辑的图标相当囧。</li></ul><p>##阅读</p><p>作为阅读应用，阅读当然是重中之重。满分<code>75</code>分。</p><ul><li>iBooks     72分    非常舒服，排版很棒，底下有阅读进度，还有本章还剩多少页，可以划重点、做笔记、搜索、查字典、百科。翻页是模拟真实翻页效果的。字体比较全。字典功能简直就是碉堡了。</li><li>多看         73分    一切都是这么和谐，商城里的书都是经过精排版的，可以划重点、做笔记、搜索、查字典、百科。当你跳转到某一页，又想回来时还提供返回按钮。双指右划是目录，上下是亮度，翻页提供模拟翻页和滑动平移。字体在古文中表现较差，有不少缺字。</li><li>唐茶         65分    精排版，可以划重点、做笔记、搜索，几个体验较差。字体非常棒。</li><li>豆瓣阅读     55分    功能简单粗暴，排版相对于前两个稍差，功能也少很多。</li><li>云中书城     10分    说实话，再好的文章在这里我都看不下去，这他喵也叫排版？吓死人了，字看着非常累，操作体验也极差，功能缺失。</li><li>阿帕比     15分    作为一个本地阅读器，排版质量基本全靠书本身，功能丰富，但是体验很差。</li><li>QQ阅读     15分    功能缺失，操作不直观，繁琐。居然还内置了一个猎奇的QQ音乐。。。排版也不怎么样。</li></ul><p>##书城</p><p>看书当然要正版，盗版书没见过一个排版好的，当然正版也不一定好。满分<code>10</code>分。</p><ul><li>iBooks     3分    排版非常棒，体验也不错，但是 没中文啊！</li><li>多看         9分    价格便宜，购买方便，还能多平台同步，书不少，就是好书相对于唐茶少得多。</li><li>唐茶         7分    好书非常多，价格也高得离谱。在APP Store中国区上消失3个月了，搞毛？</li><li>豆瓣阅读     5分    价格便宜，好书是不少，但是想看有什么书太麻烦了。</li><li>云中书城     2分    书极其多，但基本没什么好书，言情、穿越等网络小说占绝大多数。</li><li>阿帕比     0分    书城基本打不开，要等很久。打开了发现几乎全部都是盗版，而且完全下载不了，即使是极其稀有的几本正版书。</li><li>QQ阅读     1分    书不多，也不怎么样。</li></ul><p>##客服</p><p>碰到问题反馈，但是，在中国会有人鸟你么？满分<code>5</code>分。</p><ul><li>iBooks     n/a    </li><li>多看         5分    在论坛有问必答，提建议也会积极响应。</li><li>唐茶         0分    无论在Twitter还是新浪微博，都不卵你。</li><li>豆瓣阅读     n/a    </li><li>云中书城     n/a    </li><li>阿帕比     0分    不卵你。</li><li>QQ阅读     0分    不卵你。</li></ul><p>##总分</p><ul><li>iBooks     83分    看英文书、中文离线书会很爽。</li><li>多看         97分    各种意义上都非常棒，强烈推荐。</li><li>唐茶         81分    有很多好书，你想看的话就买吧。</li><li>豆瓣阅读     67分    你要是想当文艺青年就用吧。上面有很多非出版物    。</li><li>云中书城     16分    看盛大系网络小说的上。    </li><li>阿帕比     19分    没有存在意义，pdf用iBooks，epub用多看。除非你下的是方正专用的。</li><li>QQ阅读     24分    腾讯死忠。</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;不知道有没有人注意到过，我对排版和标点有莫名的执着。&lt;/p&gt;
+&lt;p&gt;#排版&lt;br&gt;我始终认为，好的排版能让阅读变成享受，使阅读量、速度都大幅提升，我排版一般分两种：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;层次式&lt;/li&gt;
+&lt;li&gt;层次缩进式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;可能不怎么好理解
+      
+    
+    </summary>
+    
+      <category term="记" scheme="https://yufei.im/categories/%E8%AE%B0/"/>
+    
+    
+      <category term="阅读器" scheme="https://yufei.im/tags/%E9%98%85%E8%AF%BB%E5%99%A8/"/>
+    
+      <category term="排版" scheme="https://yufei.im/tags/%E6%8E%92%E7%89%88/"/>
+    
+      <category term="文字" scheme="https://yufei.im/tags/%E6%96%87%E5%AD%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>哔哩哔哩弹幕屏蔽规则</title>
+    <link href="https://yufei.im/post/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%BC%B9%E5%B9%95%E5%B1%8F%E8%94%BD%E8%A7%84%E5%88%99/"/>
+    <id>https://yufei.im/post/哔哩哔哩弹幕屏蔽规则/</id>
+    <published>2012-10-14T07:56:00.000Z</published>
+    <updated>2018-04-25T15:13:33.684Z</updated>
+    
+    <content type="html"><![CDATA[<p>放到了<a href="https://github.com/Felix2yu/bilibili_block_list" target="_blank" rel="noopener">Github上</a>，第一次玩git，研究了好久。。。详细列表见<code>List.md</code></p><p>为什么会想到写这么一个屏蔽列表呢？引用在<code>ReadMe.md</code>里写的：</p><blockquote><p>为什么会有这个屏蔽列表呢？因为B站弹幕质量每况日下，在2011年年中时基本无法在新番区看番了，就慢慢着手做一个适合自己的屏蔽列表，结果越做越大，也各种混乱，在今年6月份甚至花了好几天把所有不欣赏人全部都拉黑了，这直接导致了我每次看片都需要卡1分钟左右，熬了几天后放弃先前列表，从头开始分类搞，就是现在你看到的这个。</p><p><strong>这个是适合我自己的列表，不可能完全适合你，所以需要自己调整。</strong></p><p>很多在一般人看来属于「吐槽」的弹幕，在我看来就是垃圾，发的人就是傻逼。打个比方：</p><blockquote><p>当一个视频没有BGM或者非常轻的的时候，总有一群自认为「幽默感很强」、「懂得吐槽」的<s>傻逼</s><em>大学生</em>在那刷「BGM好燃」、「求BGM」等。</p></blockquote><p>当发这种弹幕的人比较少时我觉得这是吐槽，但是满屏幕、连绵不绝，就像大姨妈一样充斥整个视频的时候，这就大幅降低了弹幕质量、观看心情。就不得不屏蔽，这个规则里的<code>新番</code>、<code>一般视频</code>的分类里半数都是这类弹幕，在没办法设定显示比例的情况下，我只能将其全部屏蔽。</p><p>认识我的人可能知道我是一个国际主义战士，所以<code>人身攻击</code>列表里出现的<code>广东</code>、<code>粤语</code>、<code>河南</code>、<code>新疆</code>等词必然不是歧视，而是当视频里出现这些地名的时候有很大的机率会出现地域攻击、歧视等，所以眼不见为净，全部屏蔽了。</p><p>因为哔哩哔哩播放器对正则的处理相当奇怪，很多明明符合规则的弹幕，却还是放行了；无法屏蔽单条多行相同的弹幕，更无法处理多条一模一样的弹幕。另外对单条规则貌似有长度限制，所以这个时候你需要把单个屏蔽列表拆成多条，注意不要在屏蔽列表里留下空白的<code>|</code>，否则会全部屏蔽。</p><p>其实本来写个列表不用费什么脑子，但问题是很多人发弹幕不会按照语文考试格式，经常出现错别字、谐音、近型字，当出现很明显的会被屏蔽的词时，中间加空格，或者无意义的干扰词等，采用一行一个字，甚至一条弹幕一个字等恶心办法。。。特别无奈，还有人就是喜欢用繁体字来发，还有些明明就不会繁体，偏要用大陆的输入法打繁体字，各种错。都大大地加重了写屏蔽列表的难度，更何况还得考虑可能会导致正常弹幕误屏蔽的情况，又得细化规则。咱总不能跟GFW一样，采取不管三七二十一一刀切全部屏蔽的办法。</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;放到了&lt;a href=&quot;https://github.com/Felix2yu/bilibili_block_list&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Github上&lt;/a&gt;，第一次玩git，研究了好久。。。详细列表见&lt;code&gt;List.m
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="哔哩哔哩" scheme="https://yufei.im/tags/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9/"/>
+    
+      <category term="正则表达式" scheme="https://yufei.im/tags/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Firefox or Chrome</title>
+    <link href="https://yufei.im/post/firefox-or-chrome/"/>
+    <id>https://yufei.im/post/firefox-or-chrome/</id>
+    <published>2012-09-20T17:00:00.000Z</published>
+    <updated>2018-04-25T15:21:06.865Z</updated>
+    
+    <content type="html"><![CDATA[<p>这个问题困扰了我两年，到底是选择 Firefox 还是 Chrome。</p><p>##Firefox</p><p>####优势<br>Firefox 的优势在于，扩展性、可制定性强。</p><p>基于强大的 XUL ，Firefox 可以开发出强大的功能，基本是只有你想不到的没有实现不了的。</p><p>火狐界面可制定性极高，可以改得你完全不知道这是什么软件。</p><p>拥有数量非常大、质量很高的扩展。</p><p>Android 版可以把手机上的标签页直接推送到其他设备。</p><p>####劣势<br>但强大的功能同时带来了臃肿、效率低等问题。</p><p>开发较慢，而且经常会做一些匪夷所思的决定。</p><p>由于这两年 Chrome 极其强势，大量 Firefox 用户和扩展开发者都投奔 Chrome ，导致近 2 年，扩展质量大幅下降，很多 4.0 之前的经典、好用扩展都没人维护。</p><p>不支持iOS 平台。</p><p>###Chrome</p><p>####优势<br>有谷歌这个有钱的好爸爸，开发相当给力。</p><p>速度快、安全、有各种新奇的功能。</p><p>有完善的谷歌系统支持，对于我这种谷歌服务重度用户来说非常方便。</p><p>多设备云同步，对于我这种多平台用户来说相当赞。</p><p>现在扩展非常多，优秀扩展也越来越多。</p><p>很多 Android 应用的 PC 端的扩展都只支持 Chrome。</p><p>####劣势<br>基础功能缺失，比如：</p><ul><li>标签页设置（自定义打开标签页逻辑等）</li><li>没有像样的恢复已关闭标签页的扩展</li><li>可制定性极低</li><li>对 UserScript 支持很差</li><li>页面放大效果差</li></ul><p>其实吧，只要能有个好用的标签页设置（类似于 Firefox 的 TU &amp; TMP这种），再不济只要有个允许单击连接后台打开、新打开标签页紧临当前标签页这俩我说不定就转投 Chrome 门下了。</p><hr><p>在上个月我换了两天的 Ubuntu，软件缺失很严重，但是因为我 Firefox 这一套扩展都在，所以跟网络相关的工具（文件、图片、视频下载）都不需要太担心。</p><p>目前在强大的功能和速度上我选择了火狐，但要是明年火狐还这样，那 Chrome 的优势，特别是谷歌帐户系统会最终会让我叛逃。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这个问题困扰了我两年，到底是选择 Firefox 还是 Chrome。&lt;/p&gt;
+&lt;p&gt;##Firefox&lt;/p&gt;
+&lt;p&gt;####优势&lt;br&gt;Firefox 的优势在于，扩展性、可制定性强。&lt;/p&gt;
+&lt;p&gt;基于强大的 XUL ，Firefox 可以开发出强大的功能，基本是只有
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="浏览器" scheme="https://yufei.im/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>朝鲜战争到底是怎么一回事</title>
+    <link href="https://yufei.im/post/%E6%9C%9D%E9%B2%9C%E6%88%98%E4%BA%89%E5%88%B0%E5%BA%95%E6%98%AF%E6%80%8E%E4%B9%88%E4%B8%80%E5%9B%9E%E4%BA%8B/"/>
+    <id>https://yufei.im/post/朝鲜战争到底是怎么一回事/</id>
+    <published>2012-09-09T09:28:00.000Z</published>
+    <updated>2018-04-25T14:31:47.023Z</updated>
+    
+    <content type="html"><![CDATA[<p>发这篇，源起最近微博上说了一句</p><blockquote><p>韩国人讨厌中国可以理解，毕竟曾经被中国侵略过，但中国人这么讨厌韩国人就完全不理解了。</p></blockquote><p>于是乎，就有一帮傻逼跳了出来，说卖国贼、汉奸、傻逼、老母被XX之类的话，倒也习惯了，以前经常被骂。<br>我的确认为我不是一个聪明人，但是比某些人多了点脑子，会自己思考问题，而不是别人告诉你什么就是什么，不经自己大脑思考，甚至还要誓死保卫。</p><p>我对历史比较感兴趣，但是也并不是很了解，这里只是谈谈我所知道朝鲜战争。</p><hr><p>朝鲜战争在中国一般称之为「抗美援朝」，这是非常傻逼的一种说法。为什么？因为朝鲜战争是一场由朝鲜单方面挑起，对韩国的侵略战争。</p><p>这事情原因有点远，要说到中国还是帝国制的时代（即所谓「封建时代」），朝鲜半岛一直是臣属于中国中央王朝的，虽然是一个独立国家但是却对中国中央王朝称臣。在清末，大清帝国这个宗主国已经自顾不暇，没空照顾小弟了，但依然参与了甲午战争，战败后不就朝鲜就与清朝脱离了宗藩关系，成为一个完全独立的国家，在1910年日韩合并，朝鲜半岛成为大日本帝国的一部分，后来日本在二战中战败，之前割据的土地纷纷归还，比如像台湾和朝鲜。</p><p>朝鲜和另一个战败国——德国一样，被联合国分治，北面的是朝鲜，南面的是韩国。</p><p>1949年金日成奔走于中国和苏联，要求支持朝鲜的民族解放。在金日成的再三要求下，中国人民解放军四野林彪所部中国籍朝鲜族的三个精锐师在1949和1950年初调入朝鲜，编入朝鲜人民军，供金日成调遣，成为金日成进攻韩国的主力部队。</p><p>在1950年6月25日金正日领导下的朝鲜军队在毫无警告也没宣战的情况下大举南下入侵朝鲜。到这就可以直接看出中国是从一开始就直接参与朝鲜侵略韩国战争的。</p><p>拥有大量精锐士兵和武器在准备充分下的20万朝鲜军队对12万完全没准备的韩国军队的攻势是势如破竹的，很快就侵占了韩国绝大部分领土，并将韩国国军及少数美军击退至釜山环形防御圈内。7月7日，联合国安理会通过第84号决议，派遣联合国军支援韩国抵御朝鲜的进攻，联合国军司令由美国指派。9月15日，联合国军在当时战线的后方仁川登陆，扭转了战争的局势，迫使朝鲜人民军北撤。</p><p>注意这里，对方是联合国军，不是美军。当然教科书里说美帝劫持的联合国，这纯粹扯淡，虽然当时联合国共5个常任理事国里4个是资本主义国家，但是社会主义老大哥苏联还是拥有一片否决权的，但就在这个关键的决定是否以联合国军支持韩国反侵略战争的投票里，这个有否决权的老大哥苏联却缺席了。战前老大哥答应帮助朝鲜「解放战争」的，却又放弃会对朝鲜的「解放战争」产生极其不利影响的投票的否决权。这是为什么呢？我只能想到这一条：</p><blockquote><p>苏联想利用中国和朝鲜来拖延美国，好放手安心处理欧洲方面。</p></blockquote><p>苏联果然是历史上最最最恶心、流氓的国家，只想利己，完全不管他人死活。在二战中和日军有的一拼的就是苏联红军，所到之处烧杀抢掠奸，无恶不作。「爱国贼」们，苏联红军在东北时候搞得比日本还猖狂，你们不知道了吧~</p><p>在以美国为主的联合国军的攻势下，很快就夺回了被侵略部分。</p><p>这里要提一下，朝鲜在从韩国撤退的时候也是烧杀抢掠，还有过对平民屠杀。<br>韩国也是，在夺回领土后，也进行过对平民的屠杀，官方数字是10-100万，其中多数只与共产党有极少关系，甚至是毫无瓜葛。<br>美国也宣布曾经屠杀过平民，约400多名。<br>中国虽然并没有直接屠杀平民，但是战俘受到大规模饥荒。</p><p>韩朝双方的边境又重回38线，这时中国政府警告若美国跨过38线，即认定为侵略朝鲜，中方会出战。当时美国认为中国百废待兴不会出战，并且这个申明属于口头说说而已，于是跨国38线。中方以美帝侵略朝鲜为由出兵朝鲜，并且和之前朝鲜一样并未宣战。</p><p>中国这里的申明是非常可笑的，我举个例子吧</p><blockquote><p>二战日本入侵中国，后来在中美努力下把日军打到鸭路江，苏联宣布中美军不能过鸭路江，否则就是侵略日本。中美过江，苏联宣战。</p></blockquote><p>你觉得这个扯不扯？侵略者侵略别人，然后被打回去，居然第三方宣布点到为止，否则你们就是侵略。<br>你见过谁抢了银行警察来追，劫匪扔了钱，警察就不抓劫匪的？警察抓到了以后居然说是警察抢银行的？<br>这他妈的算哪门子混账理由？</p><p>对于出兵还有一个理由，美帝打了朝鲜后会继续打中国，从美国的文件来看美国无论是总统、国会、将军、士兵都完全没有想过入侵中国，并且还再三警告士兵不要过鸭路江，即使是后来战争打到白热化，总统依然不同意炸鸭路江大桥，在麦克阿瑟再三要求下才同意了。</p><p>这场战争结局大家都知道，边界又回到了38线。光从领土上来说，这场战争是白打了。<br>死伤情况<br>中方伤亡39万 阵亡病故18.3108万人 负伤22万人<br>美方伤亡14万 阵亡病故3.65700万人 负伤10万人次<br>韩朝双方伤亡更是不计其数<br>苏联伤亡0</p><p>苏联大获全胜，把美国拖入泥潭，在欧洲势力扩张，国内大力发展经济、军事。<br>中国、朝鲜彻底跌入深渊。<br>韩国进入集权统治时期。<br>日本经济得到了发展。<br>美国认识到台湾的重要性，援助日韩台。<br>台湾统治巩固。</p><p>「朝鲜战争」和「抗美援朝」有区别吗？<br>区别就是「共建大东亚共荣圈」和「抗日战争」和「侵华战争」的区别。<br>我说了这句话，居然有人专章取义，说我忘祖，是禽兽。我他喵的说你什么好？看不懂语境吗？我当然反对第一种说法，当然也就目前是傻逼的人会赞同「抗美援朝」这个说法，和第一种无耻说法没区别。</p><p>在中国依然有大量的人认为这场战争是反侵略战争，是正义的。<br>很多人看到日本右翼参拜靖国神社跟癫痫发作了一样，但是参拜是个人行为。中国官方至今依然还有纪念「抗美援朝」的活动，但是这帮孙子一点都不觉得不妥。</p><p>有人说人为分裂一个国家，兄弟打架，别人掺和算什么。<br>分治是国际公认的，并不是美国单方面决定的。这是兄弟打架么？这是入侵，还有屠杀，还能不管？你见过谁兄弟打架一个把另一个打的就剩一口气了，警察看着不管的？当然在神奇的国度可能有。我没说美国是国际警察。</p><p>什么是侵略？国际通用定义——侵略战争是一场缺乏自卫理由的军事冲突。<br>朝鲜的行为完全符合侵略。</p><p>战后，特别是韩国民主化后韩国人民感谢美国拯救了他们。不然现在的韩国就跟朝鲜一样，是地狱。<br>战后，朝鲜完全不认为有中国的功劳，认为这都是伟大的金日成将军带领英勇的朝鲜军队和人民战胜了美帝这个纸老虎。</p><p>什么是正义？<br>短期内，胜者为正义，长期，谁是正义无争议。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;发这篇，源起最近微博上说了一句&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;韩国人讨厌中国可以理解，毕竟曾经被中国侵略过，但中国人这么讨厌韩国人就完全不理解了。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;于是乎，就有一帮傻逼跳了出来，说卖国贼、汉奸、傻逼、老母被XX之类的话，倒
+      
+    
+    </summary>
+    
+      <category term="史政" scheme="https://yufei.im/categories/%E5%8F%B2%E6%94%BF/"/>
+    
+    
+      <category term="战争" scheme="https://yufei.im/tags/%E6%88%98%E4%BA%89/"/>
+    
+      <category term="历史" scheme="https://yufei.im/tags/%E5%8E%86%E5%8F%B2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows 8是个烂到渣的系统</title>
+    <link href="https://yufei.im/post/windows-8%E6%98%AF%E4%B8%AA%E7%83%82%E5%88%B0%E6%B8%A3%E7%9A%84%E7%B3%BB%E7%BB%9F/"/>
+    <id>https://yufei.im/post/windows-8是个烂到渣的系统/</id>
+    <published>2012-08-29T16:21:00.000Z</published>
+    <updated>2018-04-25T14:59:04.600Z</updated>
+    
+    <content type="html"><![CDATA[<p>拖了2个多礼拜，没人看嘛~就一点打字的欲望都没有 唉。。</p><p>这是我第一篇完全用Markdown写的，比用富文本编辑器舒服多了。</p><p>从Windows8的泄漏版开始就一直断断续续的在用，到目前为止所有泄漏、公开版本都用过了，终于在用Windows 8 RTM版后2天忍不住了，换回Windows 7。其实这算半个标题党，相比较Windows XP，Windows 8是天 Windows XP是地，相比较Windows 7 Windows 8就是渣。还是先夸上两句吧。</p><h1 id="优点"><a href="#优点" class="headerlink" title="优点"></a>优点</h1><blockquote><h2 id="任务管理器"><a href="#任务管理器" class="headerlink" title="任务管理器"></a>任务管理器</h2><blockquote><p>就是那个Ctrl+Shift+ESC的那个东西，在Windows 8中明显得到了改善，简洁模式更方便使用，详细模式功能更加强大，分类清晰。</p></blockquote><h2 id="资源管理器"><a href="#资源管理器" class="headerlink" title="资源管理器"></a>资源管理器</h2><blockquote><p>就是Windows XP-的「我的电脑」或者是Windows Vista+的「计算机」。新界面功能更强大，复制粘贴的那个框非常直观好用,过程中的那个进度也是。</p></blockquote><h2 id="输入法"><a href="#输入法" class="headerlink" title="输入法"></a>输入法</h2><blockquote><p>Windows 8内置的输入法相当赞，无论是中文和英文，特别是英文，完全可以用惊艳来形容，几乎所有你能想到的非自创非完全小众的都能识别，而且还有自动大小写，非常棒。就是功能太少，无法自定义标点、词句等。总之词句识别是我用过的输入法中最好的，功能略薄弱。<s>不愧微软收集了什么多年的用户操作习惯和隐私。</s></p></blockquote><h2 id="登陆密码"><a href="#登陆密码" class="headerlink" title="登陆密码"></a>登陆密码</h2><blockquote><p>登录密码可以用图片来替代，即选择一张图，在图上标记几个手势，就能完成密码设定。很好用。</p></blockquote><h2 id="主题"><a href="#主题" class="headerlink" title="主题"></a>主题</h2><blockquote><p>从Windows Vista时代出现，到Windows 7时代到达巅峰的透明风格（AERO）终结了，虽然一大票人在骂，但是在体验Windows 8 RTM后发现比Windows 7的透明主题好看多了。Modern风格也非常棒，Windows 8 RTM下磁铁好看多了。</p></blockquote><h1 id="各平台统一"><a href="#各平台统一" class="headerlink" title="各平台统一"></a>各平台统一</h1><blockquote><p>现在PC、笔记本、平板、手机风格、应用都统一了。平板和手机上的应用会爆发性增长，说不定能和App Store有的一拼。</p></blockquote><p>优点基本也就这几个了，下面就是喷。</p></blockquote><h1 id="缺点"><a href="#缺点" class="headerlink" title="缺点"></a>缺点</h1><blockquote><h2 id="性能"><a href="#性能" class="headerlink" title="性能"></a>性能</h2><blockquote><p>从Windows泄漏开始就有一大帮「专家」在那说：</p><blockquote><p>Windows 8会是下一个Windows Vista，因为颠覆了用户使用习惯。</p></blockquote><p>Windows Vista是因为颠覆用户习惯才「失败」的么？先不论Windows Vista到底有没有失败。Windows Vista为什么「失败」？是因为发布前期硬件配置普遍低下，外加使用了全新的内核导致不少软件都出现了兼容性问题，发布间隔太长，在某些落后的国家用户无法习惯除了XP以外的系统。</p><p>我觉得Windows 8第<strong>二</strong>大缺点就是性能更差了。</p><p>我不知道微软养了这么多工程师为什么会导致新版反而性能更低下，微软官方给了一张列表，说明Windows 8性能有多大的提升，但是，我真的感觉不到。</p><p>打开一个我放置安装文件的目录，系统会卡上那么几秒，过这段时间每个文件的图标才会慢慢显示出来，这个问题在Windows 7下只有第一次打开才会出现，但是在Windows 8下是每次都会有的，即使你打开了，往下拖动，会继续卡，我不知道微软在干吗。（这个可能是权限的问题，把UAC关闭，即等于Windows7下UAC最低的时候，是不会卡的）</p><p>删除/更改文件<strong>后</strong>，地址栏的会有一条进度，重新刷新缓存，过了进10秒钟才会刷新列表，这个现象不是每次都会有，但是在频繁的更改、删除文件时出现频率较高。-</p></blockquote><h2 id="易用性"><a href="#易用性" class="headerlink" title="易用性"></a>易用性</h2><blockquote><p>如果要用一句话说明为什么Windows 8是个渣，那就是</p><blockquote><p><strong>把本来一步就能完成的事情用三步去做。</strong></p></blockquote><p>如果你不能理解的话，以关机为例</p><blockquote><h5 id="Windows-7"><a href="#Windows-7" class="headerlink" title="Windows 7"></a>Windows 7</h5><blockquote><ol><li>按Win键</li><li>移动鼠标</li><li>点击关机键</li></ol></blockquote><h5 id="Windows-8"><a href="#Windows-8" class="headerlink" title="Windows 8"></a>Windows 8</h5><blockquote><ol><li>鼠标移动到右下角</li><li>等待侧边出现</li><li>向上移动鼠标</li><li>点击选项</li><li>移动鼠标到电源按钮</li><li>单击</li><li>向上移动鼠标</li><li>点击关机键</li></ol></blockquote></blockquote><p>别跟我钻牛角尖说按电源键，这里是不用快捷键的情况下关机动作。下面几条基本还是属于易用性和性能的。</p><h3 id="权限混乱"><a href="#权限混乱" class="headerlink" title="权限混乱"></a>权限混乱</h3><blockquote><p>UAC关不掉。自己新建的文件夹无法重命名、无法删除，这里是有较多我个人因素在里面，我在Windows Vista的时候就有的遗留问题，给好几个文件夹所有者赋权限最终导致什么都删不掉，Windows 7下因为UAC可以完全关闭就没有这个问题。主要是这几个：</p><blockquote><p>Administrator、Pc Administrator、PC USER、System、Windows Live。</p></blockquote></blockquote><h3 id="格式关联混乱"><a href="#格式关联混乱" class="headerlink" title="格式关联混乱"></a>格式关联混乱</h3><blockquote><p>常见格式默认都是用Modern APP打开的，好几个视频格式会用自带的图片工具打开，关联以后经常会有关联图标丢失、关联丢失的问题。</p></blockquote><h3 id="自带的那些App不给力"><a href="#自带的那些App不给力" class="headerlink" title="自带的那些App不给力"></a>自带的那些App不给力</h3><blockquote><p>比如照片、影片等App并不好用，功能非常少，甚至比之前的WMP更少。而且经常会有一些莫名其妙的问题，我在照片里进去访问「我的图片」文件夹，很多文件夹明明有图片，缩略图却显示没图片，点进去有的能检测到有的没有，还经常会缺图，明明有100张，却提示你几张等。</p></blockquote><h3 id="取消开始按钮"><a href="#取消开始按钮" class="headerlink" title="取消开始按钮"></a>取消开始按钮</h3><blockquote><p>全部加到Modern屏幕的磁贴里（就是那个颜色方块）</p><p>也不是全部复杂化了，还是有优点的，比如原先开始列表的列表有10个，你需要点超过这10个程序的时候就得深入列表。现在按Win键就能直接点，但是本来开始菜单中这么多快捷方式一股脑全都放到这个磁块里就会有很大问题，很多无用内容也被加进来了，比如程序主页、卸载程序。如果你跟我一样喜欢装各种软件，就会发现每两天Modern屏幕上都是密密麻麻的磁贴了，想找个自己想要的并不容易。</p><p>取消开始按钮带来个很麻烦的问题就是本来Windows 7开始菜单右侧有一排功能按钮，程序里也有附件之类的，现在全部去除后点击超麻烦，要使用各种曲线救国。</p><blockquote><p>原来进控制面板很简单，现在则需要先打开一个资源管理器在从地址栏进去。</p><p>打开系统更新窗口，本来开始菜单进去很简单的，现在需要比上面关机还要复杂的步骤才行。</p><p>还有管理工具等，太多了，当然你要是背出来，直接在运行里输入我也没办法。</p></blockquote></blockquote><p>在Windows Phone 7开始出现的磁铁在非触摸设备上是很不方便的，微软为了要统一各平台<strong>执意要牺牲现有的最大用户群——PC用户的体验，再加上Windows 8拙劣的设计，所以Windows 8在PC平台上会失败。</strong></p></blockquote></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;拖了2个多礼拜，没人看嘛~就一点打字的欲望都没有 唉。。&lt;/p&gt;
+&lt;p&gt;这是我第一篇完全用Markdown写的，比用富文本编辑器舒服多了。&lt;/p&gt;
+&lt;p&gt;从Windows8的泄漏版开始就一直断断续续的在用，到目前为止所有泄漏、公开版本都用过了，终于在用Windows 8 R
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="Windows" scheme="https://yufei.im/tags/Windows/"/>
+    
+      <category term="微软" scheme="https://yufei.im/tags/%E5%BE%AE%E8%BD%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>对iPad的理解</title>
+    <link href="https://yufei.im/post/%E5%AF%B9ipad%E7%9A%84%E7%90%86%E8%A7%A3/"/>
+    <id>https://yufei.im/post/对ipad的理解/</id>
+    <published>2012-07-24T13:41:00.000Z</published>
+    <updated>2018-04-25T15:01:20.806Z</updated>
+    
+    <content type="html"><![CDATA[<p>入手牛排也有进3个月了，自认为作为一般使用者对iPad有了较为全面的认识。毫不谦虚地说，我对于这种高科技产品还是很容易上手的，至少比我现实生活中所认识的所有人都强。  </p><p>先给iPad一个定位吧——<strong>主要用于阅读，附带游戏、上网和多媒体功能的一款电子设备。</strong></p><hr><p>#阅读</p><blockquote><p><strong>iPad天生就带有强大的阅读天赋，无论是电子书、报刊还是杂志。</strong></p></blockquote><blockquote><p>##书籍</p></blockquote><blockquote><blockquote><p>说到电子书就不得不提Kindle，诚然Kindle的文字显示是iPad所无法比拟的，而且在很长的时间内都无法超越，这是产品定位和屏幕所决定的。但是同样原因iPad在不少方面也是Kindle比不上的：</p></blockquote></blockquote><blockquote><blockquote><ul><li>iPad是彩屏，可以自由更换背景、颜色。</li><li>iPad天生便是全球性产品，完美支持多国语言，而Kindle在非英文下的支持还是比较糟糕的</li><li>Kindle没有中文书，虽然iBooks商店里也没有中文书，但是第三方商店解决了这一问题，比如多看、唐茶。</li><li>Kindle屏幕太小，PDF非常吃力。</li><li>Kindle搜索批注非常麻烦。<br>例子还有很多，就不再一一举例了。</li></ul></blockquote></blockquote><blockquote><blockquote><p>甚至可以这么说有iPad以后，完全不再想看任何纸质书了，某种程度上来说纸质书相对于电子书来说除了可以垫桌脚以外完全没有任何优势。  </p></blockquote></blockquote><blockquote><blockquote><p><strong>iPad非常适合阅读文字。</strong>  </p></blockquote></blockquote><blockquote><p>##报刊杂志</p></blockquote><blockquote><blockquote><p>我这个人几乎不看杂志，但有了iPad后，报刊杂志阅读也多了不少，这归功于报刊杂志在iPad上优越的体验：</p></blockquote></blockquote><blockquote><blockquote><ul><li>在iPad上看东西，遇到不懂的东西，谁是可以选中搜索谷歌或者维基等，这在纸质书年代是完全不可想像的事情，看到不会的东西时先是要夹书签，然后找新华词典甚至是辞海，花上好几分钟来找到需要的一页，如果只是汉字还算好办，遇上外文就更麻烦了，绝大多数时候都意味着无解。这其实也是阅读书籍时候的优势，一并放在这说了。</li><li>在看图片类的杂志时可以随意放大图片，不再局限于纸上的豆腐块了。</li><li>还可以随时保存，不再需要找剪刀破坏杂志、报纸了。</li><li>随时参与互动，也可以把你正在看的部分分享给好友。</li><li>纸质杂志报刊除了可以拍苍蝇以外相对于电子杂志毫无优势。</li></ul></blockquote></blockquote><blockquote><blockquote><p><strong>iPad非常适合阅读杂志、报刊。</strong></p></blockquote></blockquote><blockquote><p>##漫画</p></blockquote><blockquote><blockquote><p>众所周知，漫画一般刊登在杂志或者书本上，这也决定了绝大多数漫画都是宽窄高长的样子，这种图片形式在电脑上是非常悲剧的，特别是宽屏显示器上。iPad的可随意改变方向这一特性决定了竖版时看漫画非常爽，特别是在牛排的逆天的分辨率下。</p></blockquote></blockquote><blockquote><blockquote><p>非漫画形式的图片则一般都是4：3或者16：9的，在iPad横版时又能完美契合。只是目前极少有正版漫画在网络上销售，再加上漫画中的文字导致语言障碍，买了正版也看不懂内容。</p></blockquote></blockquote><blockquote><blockquote><p>纸质漫画除了能对着撸以外相对于iPad看漫画毫无优势可言。</p></blockquote></blockquote><blockquote><blockquote><p><strong>iPad绝对是看漫画神器。</strong></p></blockquote></blockquote><blockquote><p><strong>总而言之，iPad是在各个方面都及其适合阅读的产品。</strong></p></blockquote><p>#游戏</p><blockquote><p>iPad上游戏基本能分为两大类——<em>触屏</em> 和 <em>重力感应</em>。</p></blockquote><blockquote><p>##触屏</p></blockquote><blockquote><blockquote><p>触屏游戏是现代职能移动设备的特色了，利用移动设备的触屏特性，特别是多指触屏完成各类游戏操作。其实就那么几种类型的，万变不离其宗，玩多了慢慢有些反感了，到处去找新游戏。</p></blockquote></blockquote><blockquote><p>##重力感应</p></blockquote><blockquote><blockquote><p>重力感应基本可以分为两种，一种是只有左右双向的重力感应游戏，相对简单易操作。</p></blockquote></blockquote><blockquote><blockquote><p>另一种则是完美利用重力感应以及三轴陀螺仪等硬件优势，可以完成非常精准地操作。但是这类游戏只适合手机，在iPad等平板上操作是极其蛋疼的一件事，你能想像么，举着一块一斤多的近10寸板砖晃来晃去做着精准操作的情况么?总之及其蛋疼，所以iPad上的重力感应游戏还是只需要保留左右两个方向操作就足够了，并且要求并不需要类似滚钢珠这种要求极其精准操作的程度。</p></blockquote></blockquote><blockquote><p>没有手柄玩动作游戏还是很蛋疼的话，操作不方便又没手感再加上会遮挡画面。</p></blockquote><blockquote><p><strong>总之iPad并不是一个很适合玩非纯娱乐性游戏的设备。</strong></p></blockquote><p>#上网</p><blockquote><p>乔布斯在宣传iPad的一大重点就是上网，说实话iPad上网体验不咋样，甚至可以说挺烂的。移动版浏览器性能远远低于电脑，再加上大量的网页都是专为鼠标设计的，触屏体验不好。还有苹果对iOS的种种限制。</p></blockquote><blockquote><p><strong>总之除非不得已，否则我不会考虑用iPad上没有专门为iPad适配的网站。</strong></p></blockquote><p>#多媒体</p><blockquote><p>##视频</p></blockquote><blockquote><blockquote><p>iPad虽然拥有超高的分辨率与优质屏幕，但是4：3的长宽比注定了iPad并不是一个很适合看视频的设备。现在高清片子都是16：9甚至更窄，上下两个黑条看着很不爽。老片子倒是4：3的，但是画质就很渣了，特别是在牛排的视网膜屏幕上。不知是何原因，iOS平台上竟没有一个让我有一丁点满意的视频播放器，我不要求跟电脑上的播放器比，连跟Android上的MX Player相比都能差上十万八千里–鼠标手势极其不好用，要么不快进退，要么就是一大截。。字幕显示非常烂，就不说原来字幕的格式了，竟然同时只能显示一条字幕，我勒个去，一部片子看下来，至少有10%部分的字幕是无法显示的。声音调节幅度过大等。硬解就不去说它了，理解。</p></blockquote></blockquote><blockquote><blockquote><p><strong>iPad并不适合用来看片，即使它的屏幕是这么好(长宽比除外)。</strong></p></blockquote></blockquote><blockquote><p>##音乐</p></blockquote><blockquote><blockquote><p>音乐有iPod底子，不至于太差，中规中矩。如果不考虑iTunes内购买正版音乐的话，用iPad听音乐并不是一件很舒服的事。格式貌似只支持AAC和MP3这俩格式，居然不支持开源并且被广泛支持的FLAC格式!!!听歌之前还得单独转格式，麻烦。</p></blockquote></blockquote><blockquote><blockquote><p><strong>不买iTunes的正版音乐的话，用iPad听歌并不是一件令人愉悦的事，当然除非你听的歌都是MP3的，那就没什么影响了。</strong></p></blockquote></blockquote><blockquote><p>##图片</p></blockquote><blockquote><blockquote><p>基本同漫画部分说的，iPad，特别是牛排非常适合用来看图，也能完成普通的编辑照片功能。iPad上还有不少画图应用，最出彩的当属Paper，画图神器啊，非常有感觉，但是略贵。</p></blockquote></blockquote><blockquote><blockquote><p>牛排配备了500万后置摄像头，拍照片还算挺满意的，之前的iPad就算了吧。。。</p></blockquote></blockquote><blockquote><blockquote><p><strong>无论看图片还是轻量级编辑图片，iPad都表现得很好。</strong></p></blockquote></blockquote><hr><p>总之iPad在拍照片、看图、简单编辑图片、画简单图方面都挺有优势的。</p><p>爱折腾的人，推荐至少32GB容量的，一般人或许16GB就够了，但还是推荐32GB，到时候后悔就来不及了。</p><p>这里基本是我对iPad本身的理解，以后再说iOS这个系统吧。</p><hr><p>PS1 现在已经挺晚了，从1点多码字到现在快2个钟头了，但这同时是我效率最高的一篇文章，没有干扰专心码字，再加上本身没有需要查阅资料的东西，完全是自己的感受，还是很流畅的。</p><p>PS2 全篇都是我在牛排 iOS6系统里利用自带的拼音输入法完成的。睡觉去，困了。</p><p>PS3 我在最后时刻想试试能不能给小标题加上属性，却错按成粘贴，然而又没有撤销，只能一个个删除，删了我至少3分钟。。。</p><p>PS4 2012-08-30用Markdown重新排版，并且修改、润色若干语句</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;入手牛排也有进3个月了，自认为作为一般使用者对iPad有了较为全面的认识。毫不谦虚地说，我对于这种高科技产品还是很容易上手的，至少比我现实生活中所认识的所有人都强。  &lt;/p&gt;
+&lt;p&gt;先给iPad一个定位吧——&lt;strong&gt;主要用于阅读，附带游戏、上网和多媒体功能的一款电
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="iOS" scheme="https://yufei.im/tags/iOS/"/>
+    
+      <category term="苹果" scheme="https://yufei.im/tags/%E8%8B%B9%E6%9E%9C/"/>
+    
+      <category term="iPad" scheme="https://yufei.im/tags/iPad/"/>
+    
+  </entry>
+  
+  <entry>
     <title>感</title>
-    <link href="https://yufei.im/2012/07/14/%E6%84%9F/"/>
-    <id>https://yufei.im/2012/07/14/感/</id>
+    <link href="https://yufei.im/post/%E6%84%9F/"/>
+    <id>https://yufei.im/post/感/</id>
     <published>2012-07-14T15:22:00.000Z</published>
     <updated>2018-03-20T11:23:06.172Z</updated>
     
@@ -159,9 +1272,35 @@
   </entry>
   
   <entry>
+    <title>我的政治观</title>
+    <link href="https://yufei.im/post/%E6%88%91%E7%9A%84%E6%94%BF%E6%B2%BB%E8%A7%82/"/>
+    <id>https://yufei.im/post/我的政治观/</id>
+    <published>2012-06-04T11:21:00.000Z</published>
+    <updated>2018-04-25T14:36:01.458Z</updated>
+    
+    <content type="html"><![CDATA[<p>这文章已经是连续第三年写了，之前有有10年的这篇（换主机时丢失）还有<a href="&quot; href=&quot;http://yufei.im/20110604/&quot;">念</a>（11年的）</p><p>很久很久不写东西了，原因很简单——没人看。如果自己辛辛苦苦构思很久，在找资料+码字+排版共4小时左右出一篇没人看，踊跃性很受打击的。</p><hr><p>曾几何时，我跟大多数血气方刚的青年一样都是一个爱国（党、政府）者。从小就灌输我们，以前中国是多么凄惨，人人都来欺负我们，赔了多少钱、割了多少地……外国人都是坏人，就算新中国成立后，一美帝为首的反动势力企图搞死中国，即使是改革开放以后，亡我之心不死……</p><p>我从小到六年级为止，都是一个狂热的爱国者，因为当时分辨不清是非+获取消息渠道有限，很容易被鼓动，黄继光、邱少云，他们的事迹常常是我热泪盈眶，多么伟大的人啊~为兄弟国家和美帝这只纸老虎斗争！！后来才知道，这就是一场单纯的侵略战争。所谓志愿军和当年侵华日军一样，并无什么区别。</p><p>从六年级开始接触到一个软件目田门，打开自带阿波罗、X纪元等等，让我觉得共党有多么丑恶，我的政治观一下子180°大转弯，变成了一个盲目的，极右派。与之前的区别仅仅是从极左到极右，从凡是共党都是对了到凡是共党都是错的。就认识上毫无进步。从一个极端到另一个极端罢了。</p><p>这几个网站都是轮子支持者建立的，秉承着凡是共党都是错的的理念搞了那么久也算是奇葩，另一个人民网罢了。可笑的是口口声声喊民主，结果评论都要经过审核，一切不坚决认为共党都是错的的评论都会被神隐。说到轮子，之前在推上 藤彪律师的总结很到位。轮子就是一样本身不咋样的人受到迫害后，犯失心疯，神经错乱、脑子不正常。所作所为跟自己所痛恨的共党毫无区别。要是让这帮人上台，可能会文革重现。</p><p>再后来，我慢慢学会了理性思考、对待问题，特别是10年暑假以后。在那之前我加入了一个群，和别人讨论了很多东西，让我受益颇多。随着思考越多，越觉得中国没救了，特别是到了11年温州事件以后，这个政权的毫无人性、惨无人道等面目彻底暴露出来了。当我觉得这国家完全没救的时候，今年这国家的变化居然朝着好的一面发展，虽然还是很慢，但至少有这个趋势了。</p><p>其实大家都知道中国已经在一个大变革的边缘了，很快就会出大事。目前能想到最可怕的就是文革再现，文革是人类史上最黑暗的时间、事件，没有之一。别人都是折磨身体，而文革是把整个民族整个毁掉了，不知廉耻、价值观扭曲，毫无敬畏之心……第二可怕的就是内战，中国目前–发生内战的可能性几乎为零，军队是党军而不是人民的军队。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这文章已经是连续第三年写了，之前有有10年的这篇（换主机时丢失）还有&lt;a href=&quot;&amp;quot; href=&amp;quot;http://yufei.im/20110604/&amp;quot;&quot;&gt;念&lt;/a&gt;（11年的）&lt;/p&gt;
+&lt;p&gt;很久很久不写东西了，原因很简单——没人看。如果自
+      
+    
+    </summary>
+    
+      <category term="史政" scheme="https://yufei.im/categories/%E5%8F%B2%E6%94%BF/"/>
+    
+    
+      <category term="政治" scheme="https://yufei.im/tags/%E6%94%BF%E6%B2%BB/"/>
+    
+  </entry>
+  
+  <entry>
     <title>骂人、人身攻击</title>
-    <link href="https://yufei.im/2012/04/21/%E9%AA%82%E4%BA%BA%E3%80%81%E4%BA%BA%E8%BA%AB%E6%94%BB%E5%87%BB/"/>
-    <id>https://yufei.im/2012/04/21/骂人、人身攻击/</id>
+    <link href="https://yufei.im/post/%E9%AA%82%E4%BA%BA%E3%80%81%E4%BA%BA%E8%BA%AB%E6%94%BB%E5%87%BB/"/>
+    <id>https://yufei.im/post/骂人、人身攻击/</id>
     <published>2012-04-21T15:42:00.000Z</published>
     <updated>2018-03-15T15:19:11.640Z</updated>
     
@@ -187,9 +1326,37 @@
   </entry>
   
   <entry>
+    <title>安卓应用推荐</title>
+    <link href="https://yufei.im/post/%E5%AE%89%E5%8D%93%E5%BA%94%E7%94%A8%E6%8E%A8%E8%8D%90/"/>
+    <id>https://yufei.im/post/安卓应用推荐/</id>
+    <published>2012-03-24T06:12:00.000Z</published>
+    <updated>2018-04-25T15:16:39.709Z</updated>
+    
+    <content type="html"><![CDATA[<p>用上4个月的安卓了，依然延续着Windows上不折腾会死星人的态度，对底层神马的完全不懂，但就应用上基本确定了，所以记录下。没空加链接，自己在Play商店和网易应用中心里找。</p><h3 id="谷歌类"><a href="#谷歌类" class="headerlink" title="谷歌类"></a>谷歌类</h3><blockquote><h4 id="Play商店"><a href="#Play商店" class="headerlink" title="Play商店"></a>Play商店</h4><blockquote><p>官方市场，没什么好说的，必装。</p></blockquote><h4 id="谷歌地图"><a href="#谷歌地图" class="headerlink" title="谷歌地图"></a>谷歌地图</h4><blockquote><p>一般来说是自带的，你想删还是有点难度的，再说比百度、搜搜的要好不少，建议使用。</p></blockquote><h4 id="GAE代理"><a href="#GAE代理" class="headerlink" title="GAE代理"></a>GAE代理</h4><blockquote><p>这个虽说不是谷歌自家的，但是它是利用了谷歌的GAE，谁用谁知道，看世界必备，强烈推荐。</p></blockquote><h4 id="Google-Reader"><a href="#Google-Reader" class="headerlink" title="Google Reader"></a>Google Reader</h4><blockquote><p>阅读信息神器，但是本身做得很烂，不 是非常烂。</p></blockquote><h4 id="GReader"><a href="#GReader" class="headerlink" title="GReader"></a>GReader</h4><blockquote><p>和上面一样，但是不是谷歌官方出的，优点就是好用，缺点是耗流量，不实时同步。这两个二选一。</p></blockquote><h4 id="谷歌日历"><a href="#谷歌日历" class="headerlink" title="谷歌日历"></a>谷歌日历</h4><blockquote><p>呃 安排日期用，比较繁琐，不怎么适合国人习惯。</p></blockquote><h4 id="身份验证"><a href="#身份验证" class="headerlink" title="身份验证"></a>身份验证</h4><blockquote><p>对于安全有要求的推荐，没要求的就不要用了。</p></blockquote><h4 id="GMail"><a href="#GMail" class="headerlink" title="GMail"></a>GMail</h4><blockquote><p>4.0下应用做得非常好，但是我个人向来不喜Gmail，所以嘛，看个人。</p></blockquote></blockquote><h3 id="腾讯类"><a href="#腾讯类" class="headerlink" title="腾讯类"></a>腾讯类</h3><blockquote><h4 id="手机QQ"><a href="#手机QQ" class="headerlink" title="手机QQ"></a>手机QQ</h4><blockquote><p>做得很好的一个聊天工具,再加上QQ嘛,所以用QQ的人必装,没什么好说的.</p></blockquote><h4 id="腾讯微博"><a href="#腾讯微博" class="headerlink" title="腾讯微博"></a>腾讯微博</h4><blockquote><p>我个人是用腾讯微博的，所以就装了。</p></blockquote><h4 id="微信"><a href="#微信" class="headerlink" title="微信"></a>微信</h4><blockquote><p>腾讯当红应用，我个人是用来当QQ邮箱的客户端用的，看个人吧，还是推荐装的。</p></blockquote><h4 id="QQ慧眼"><a href="#QQ慧眼" class="headerlink" title="QQ慧眼"></a>QQ慧眼</h4><blockquote><p>腾讯出的利用摄像头翻译的应用，很不错，但是一直都不更新。残念啊</p></blockquote></blockquote><h3 id="网易系"><a href="#网易系" class="headerlink" title="网易系"></a>网易系</h3><blockquote><h4 id="网易应用中心"><a href="#网易应用中心" class="headerlink" title="网易应用中心"></a>网易应用中心</h4><blockquote><p>昨天刚用上，做的还行。</p></blockquote><h4 id="网易新闻"><a href="#网易新闻" class="headerlink" title="网易新闻"></a>网易新闻</h4><blockquote><p>网易是中文门户的第一良心啊。</p></blockquote><h4 id="网易公开课"><a href="#网易公开课" class="headerlink" title="网易公开课"></a>网易公开课</h4><blockquote><p>看公开课的利器</p></blockquote></blockquote><p>系统工具类</p><blockquote><h4 id="点心省点"><a href="#点心省点" class="headerlink" title="点心省点"></a>点心省点</h4><blockquote><p>安卓好点，世人皆知。如何在有限的点亮下使用更长时间成为一个严峻的问题。我觉得点心省点完胜金山。</p></blockquote><h4 id="钛备份"><a href="#钛备份" class="headerlink" title="钛备份"></a>钛备份</h4><blockquote><p>备份类一哥，就是使用繁琐+本身是收费的，收费倒不是什么问题，关键是你想买买不了。没有用MIUI的话就它了。</p></blockquote><h4 id="Double-Mount-SD"><a href="#Double-Mount-SD" class="headerlink" title="Double Mount SD"></a>Double Mount SD</h4><blockquote><p>能在电脑上用USB储存的同时，手机正常使用。</p></blockquote><h4 id="豌豆荚"><a href="#豌豆荚" class="headerlink" title="豌豆荚"></a>豌豆荚</h4><blockquote><p>如果用豌豆荚的话必装，其实想不装都不行，因为它是强制安装的。。所以说恶心啊</p></blockquote><h4 id="墨迹天气"><a href="#墨迹天气" class="headerlink" title="墨迹天气"></a>墨迹天气</h4><blockquote><p>天气类做得最好的，功能强大。</p></blockquote><h4 id="Flash-Player"><a href="#Flash-Player" class="headerlink" title="Flash Player"></a>Flash Player</h4><blockquote><p>想看Flash就装吧。</p></blockquote><h4 id="讯飞输入法"><a href="#讯飞输入法" class="headerlink" title="讯飞输入法"></a>讯飞输入法</h4><blockquote><p>输入法中最好用的。能语音输入，最关键的是不需要切换模式就能手写。</p></blockquote><h4 id="QR-Droid"><a href="#QR-Droid" class="headerlink" title="QR Droid"></a>QR Droid</h4><blockquote><p>Android上最牛逼的二维码工具。</p></blockquote><h4 id="手电筒"><a href="#手电筒" class="headerlink" title="手电筒"></a>手电筒</h4><blockquote><p>强大的手电筒功能</p></blockquote><h4 id="萌闹钟"><a href="#萌闹钟" class="headerlink" title="萌闹钟"></a>萌闹钟</h4><blockquote><p>闹钟中最萌的，但是功能实在是太单一了，甚至每次都需要自己手动设定。</p></blockquote><h4 id="Busy-Box"><a href="#Busy-Box" class="headerlink" title="Busy Box"></a>Busy Box</h4><blockquote><p>呃 不少高级功能都需要装这个。</p></blockquote><h4 id="幸运破解器"><a href="#幸运破解器" class="headerlink" title="幸运破解器"></a>幸运破解器</h4><blockquote><p>呃 不少收费（试用版）应用、应用自带的广告 你懂的。其实我不怎么用得到，给人留一口饭吃嘛~</p></blockquote><h4 id="系统软件清道夫"><a href="#系统软件清道夫" class="headerlink" title="系统软件清道夫"></a>系统软件清道夫</h4><blockquote><p>清除系统自带软件的，特别是刚买来的时候，有不少垃圾甚至是陷阱，其实刚买来还是直接刷系统。</p></blockquote></blockquote><h3 id="文件管理类"><a href="#文件管理类" class="headerlink" title="文件管理类"></a>文件管理类</h3><p>基本这些里只选一个</p><blockquote><h4 id="Total-Commander"><a href="#Total-Commander" class="headerlink" title="Total Commander"></a>Total Commander</h4><blockquote><p>Windows上老牌文件管理器，做得很好。</p></blockquote><h4 id="ES文件浏览器"><a href="#ES文件浏览器" class="headerlink" title="ES文件浏览器"></a>ES文件浏览器</h4><blockquote><p>带有网盘等功能的文件管理器，就是做得实在是太难看，也太不好用了。</p></blockquote><h4 id="RE管理器"><a href="#RE管理器" class="headerlink" title="RE管理器"></a>RE管理器</h4><blockquote><p>搞系统文件的</p></blockquote><h4 id="星空高速文件管理器"><a href="#星空高速文件管理器" class="headerlink" title="星空高速文件管理器"></a>星空高速文件管理器</h4><blockquote><p>盛大出的，功能非常强大，但是用不惯。</p></blockquote></blockquote><p>网络类</p><blockquote><h4 id="海豚浏览器"><a href="#海豚浏览器" class="headerlink" title="海豚浏览器"></a>海豚浏览器</h4><blockquote><p>做得最好的浏览器，最关键的是有各种插件</p></blockquote><h4 id="淘宝"><a href="#淘宝" class="headerlink" title="淘宝"></a>淘宝</h4><blockquote><p>呃 如果想买点东西，亦或人在外面看买的东西的快递进度，嗯。</p></blockquote><h4 id="讯飞语点"><a href="#讯飞语点" class="headerlink" title="讯飞语点"></a>讯飞语点</h4><blockquote><p>中文版SIRI，不过还是挺傻的。</p></blockquote><h4 id="LastPass"><a href="#LastPass" class="headerlink" title="LastPass"></a>LastPass</h4><blockquote><p>我的密码管理器，非常好用，12美元/年。</p></blockquote><h4 id="坚果云"><a href="#坚果云" class="headerlink" title="坚果云"></a>坚果云</h4><blockquote><p>云同步还是坚果云好点。因为它可以多位置文件夹同步。</p></blockquote><h4 id="我查查"><a href="#我查查" class="headerlink" title="我查查"></a>我查查</h4><blockquote><p>快速查找各种商品、快递神马的。</p></blockquote><h4 id="汇率"><a href="#汇率" class="headerlink" title="汇率"></a>汇率</h4><blockquote><p>英文名忘了，反正这个特别好用，秒杀同类应用。</p></blockquote><h4 id="金山共享精灵"><a href="#金山共享精灵" class="headerlink" title="金山共享精灵"></a>金山共享精灵</h4><blockquote><p>手边没有数据线，又想传文件怎么办？不怎么好用，而且金山也不开发了，找替代品中。</p></blockquote><h4 id="BOX"><a href="#BOX" class="headerlink" title="BOX"></a>BOX</h4><blockquote><p>网盘</p></blockquote><h4 id="Twitter"><a href="#Twitter" class="headerlink" title="Twitter"></a>Twitter</h4><blockquote><p>Twitter嘛，你懂的。</p></blockquote><h4 id="TabCloud"><a href="#TabCloud" class="headerlink" title="TabCloud"></a>TabCloud</h4><blockquote><p>云同步标签，基本用不上。。因为手机看不了什么。</p></blockquote></blockquote><h3 id="多媒体类"><a href="#多媒体类" class="headerlink" title="多媒体类"></a>多媒体类</h3><blockquote><h4 id="MX-Video-Player"><a href="#MX-Video-Player" class="headerlink" title="MX Video Player"></a>MX Video Player</h4><blockquote><p>用过的最牛逼、最实用的本地视频播放器。</p></blockquote><h4 id="MoboPlayer"><a href="#MoboPlayer" class="headerlink" title="MoboPlayer"></a>MoboPlayer</h4><blockquote><p>备胎，除非MX Video Player有问题，否则完全不用。功能少，问题多。</p></blockquote><h4 id="PowerAMP"><a href="#PowerAMP" class="headerlink" title="PowerAMP"></a>PowerAMP</h4><blockquote><p>Android上最牛逼的音乐播放器，没有之一。我见过的惟一一个支持Cue分轨的。</p></blockquote><h4 id="虾米音乐"><a href="#虾米音乐" class="headerlink" title="虾米音乐"></a>虾米音乐</h4><blockquote><p>做得很烂，但是因为用虾米，所以就装了。</p></blockquote><h4 id="Last-fm"><a href="#Last-fm" class="headerlink" title="Last.fm"></a>Last.fm</h4><blockquote><p>音乐电台+社区，配合电脑上的。</p></blockquote><h4 id="豆瓣电台"><a href="#豆瓣电台" class="headerlink" title="豆瓣电台"></a>豆瓣电台</h4><blockquote><p>豆瓣上听音乐的</p></blockquote><h4 id="AipPlayer精选"><a href="#AipPlayer精选" class="headerlink" title="AipPlayer精选"></a>AipPlayer精选</h4><blockquote><p>听音乐电台</p></blockquote><h4 id="YouTube"><a href="#YouTube" class="headerlink" title="YouTube"></a>YouTube</h4><blockquote><p>你懂的</p></blockquote><h4 id="哔哩哔哩"><a href="#哔哩哔哩" class="headerlink" title="哔哩哔哩"></a>哔哩哔哩</h4><blockquote><p>哔哩哔哩官方播放器，做得很不错。</p></blockquote><h4 id="AcFun"><a href="#AcFun" class="headerlink" title="AcFun"></a>AcFun</h4><blockquote><p>AcFun播放器，做得有点丑。</p></blockquote><h4 id="音悦TV-AirPlay"><a href="#音悦TV-AirPlay" class="headerlink" title="音悦TV AirPlay"></a>音悦TV AirPlay</h4><blockquote><p>看MV的。</p></blockquote><h4 id="天天动听"><a href="#天天动听" class="headerlink" title="天天动听"></a>天天动听</h4><blockquote><p>国内大热播放器，其实做的挺烂的。</p></blockquote></blockquote><h3 id="阅读-amp-知识管理"><a href="#阅读-amp-知识管理" class="headerlink" title="阅读&amp;知识管理"></a>阅读&amp;知识管理</h3><blockquote><h4 id="Read-It-Later"><a href="#Read-It-Later" class="headerlink" title="Read It Later"></a>Read It Later</h4><blockquote><p>保存为阅读完的网页，但有时候Read Later 会变成Read Never。。。</p></blockquote><h4 id="iPaper"><a href="#iPaper" class="headerlink" title="iPaper"></a>iPaper</h4><blockquote><p>另一个Read Later 应用，非官方，和Read It Later 相比差很多。</p></blockquote><h4 id="Read-Later"><a href="#Read-Later" class="headerlink" title="Read Later"></a>Read Later</h4><blockquote><p>呃 标记Read Later 的</p></blockquote><h4 id="维基百科"><a href="#维基百科" class="headerlink" title="维基百科"></a>维基百科</h4><blockquote><p>你懂的，用百度百科的都是M</p></blockquote><h4 id="WikiDroyd"><a href="#WikiDroyd" class="headerlink" title="WikiDroyd"></a>WikiDroyd</h4><blockquote><p>离线维基百科</p></blockquote><h4 id="布卡漫画"><a href="#布卡漫画" class="headerlink" title="布卡漫画"></a>布卡漫画</h4><blockquote><p>国产看漫画神器，能在线看也能离线看，看着非常舒服，并且一直都在更新中。</p></blockquote><h4 id="多看"><a href="#多看" class="headerlink" title="多看"></a>多看</h4><blockquote><p>看文字类用，非常好用。</p></blockquote><h4 id="Perfect-Viewer"><a href="#Perfect-Viewer" class="headerlink" title="Perfect Viewer"></a>Perfect Viewer</h4><blockquote><p>看漫画、小说、图片用 只能看离线，功能实在太强大，导致不会使用 囧。。。</p></blockquote><h4 id="Wiz"><a href="#Wiz" class="headerlink" title="Wiz"></a>Wiz</h4><blockquote><p>知识管理，配合电脑。</p></blockquote><h4 id="Doit-im"><a href="#Doit-im" class="headerlink" title="Doit.im"></a>Doit.im</h4><blockquote><p>知识管理，但是不会用。。</p></blockquote><h4 id="Any-Do"><a href="#Any-Do" class="headerlink" title="Any.Do"></a>Any.Do</h4><blockquote><p>日程安排，不会用。。</p></blockquote><h4 id="Mindjet"><a href="#Mindjet" class="headerlink" title="Mindjet"></a>Mindjet</h4><blockquote><p>思维导图，同样不会用。。。</p></blockquote><h4 id="AnkiDroid"><a href="#AnkiDroid" class="headerlink" title="AnkiDroid"></a>AnkiDroid</h4><blockquote><p>背单词用，但是没空用，也不会用。。。。</p></blockquote><h4 id="WPS"><a href="#WPS" class="headerlink" title="WPS"></a>WPS</h4><blockquote><p>阅读、编辑文档用。</p></blockquote><h4 id="豆瓣购书单"><a href="#豆瓣购书单" class="headerlink" title="豆瓣购书单"></a>豆瓣购书单</h4><blockquote><p>我是一个爱买书的人，但是买了不看。。</p></blockquote><h4 id="随手记"><a href="#随手记" class="headerlink" title="随手记"></a>随手记</h4><blockquote><p>记账用，很好用，但是界面太丑。</p></blockquote><h4 id="有道词典"><a href="#有道词典" class="headerlink" title="有道词典"></a>有道词典</h4><blockquote><p>词典，并且有QQ慧眼的摄像头识别功能。</p></blockquote><h4 id="用药助手"><a href="#用药助手" class="headerlink" title="用药助手"></a>用药助手</h4><blockquote><p>呃 关于医药的</p></blockquote><h4 id="便签"><a href="#便签" class="headerlink" title="便签"></a>便签</h4><blockquote><p>正如其名 便签</p></blockquote></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;用上4个月的安卓了，依然延续着Windows上不折腾会死星人的态度，对底层神马的完全不懂，但就应用上基本确定了，所以记录下。没空加链接，自己在Play商店和网易应用中心里找。&lt;/p&gt;
+&lt;h3 id=&quot;谷歌类&quot;&gt;&lt;a href=&quot;#谷歌类&quot; class=&quot;headerlink
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="安卓" scheme="https://yufei.im/tags/%E5%AE%89%E5%8D%93/"/>
+    
+      <category term="应用" scheme="https://yufei.im/tags/%E5%BA%94%E7%94%A8/"/>
+    
+  </entry>
+  
+  <entry>
     <title>诛心</title>
-    <link href="https://yufei.im/2012/01/30/%E8%AF%9B%E5%BF%83/"/>
-    <id>https://yufei.im/2012/01/30/诛心/</id>
+    <link href="https://yufei.im/post/%E8%AF%9B%E5%BF%83/"/>
+    <id>https://yufei.im/post/诛心/</id>
     <published>2012-01-30T13:20:00.000Z</published>
     <updated>2018-03-20T11:24:38.854Z</updated>
     
@@ -214,9 +1381,69 @@
   </entry>
   
   <entry>
+    <title>选举 &amp; 台湾大选</title>
+    <link href="https://yufei.im/post/%E9%80%89%E4%B8%BE-%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89/"/>
+    <id>https://yufei.im/post/选举-台湾大选/</id>
+    <published>2012-01-16T05:14:00.000Z</published>
+    <updated>2018-04-25T14:34:32.675Z</updated>
+    
+    <content type="html"><![CDATA[<p>前天，台湾举行了大选，虽然最后的结局并不如我所愿（我是支持蔡英文的），但还是谈谈吧。</p><p>#选举</p><blockquote><p>对于我们这帮从小都长在大陆的人来说，选举是陌生的甚至可以说压根就是不存在的。为了写这篇，好好地补了一下选举的知识。<br>选举一般可以分成</p></blockquote><blockquote><ul><li>间接选举<ul><li>选举人团</li><li>威斯敏斯特体系</li><li>议会选举</li><li>人民代表大会</li></ul></li><li>直接选举<ul><li>全民公投</li></ul></li></ul></blockquote><blockquote><p>##间接选举</p></blockquote><blockquote><blockquote><p>一般来说大国都会选择间接选举，原因是幅员辽阔、人口众多、交通不便、花费过大、不能所有人都了解候选人并且容易被操控等。</p></blockquote></blockquote><blockquote><blockquote><p>###选举人团</p></blockquote></blockquote><blockquote><blockquote><blockquote><p>美国在立国时，针对国家首脑如何产生有过比较深入的探讨。</p></blockquote></blockquote></blockquote><blockquote><blockquote><blockquote><ul><li>直接选举不适合　　就是上面提到的幅员辽阔、人口众多等。</li><li>议会选举不适合　　立法、行政、司法三权应该相互独立，相互制约，所以总统不应受到国会的控制，不应由国会选举产生。</li></ul></blockquote></blockquote></blockquote><blockquote><blockquote><blockquote><p>实施时概括来说就是——选举人事先表明会投票给哪一总统、副总统（一般一个政党最后只有一位参选的总统和副总统，所以可以说命中是在选政党），民众投票给选举人，得票多的选举人团得到该州的所有选票（内布拉斯加和缅因除外），获胜的选举人团代表州选总统。<br>好处是方便、快捷、照顾弱小、偏远地方。<br>缺点就多的去了——不民主（全国总票数多的人不一定能当总统、各州票数不等，最多甚至会相差10.1倍）、选举人违背承诺（即没有投给民众投票前自己宣布支持的党）、固化两党制等。<br>可见美国总统选举的制度本身并不很民主，但由于种种原因，一直都没有改变。  </p></blockquote></blockquote></blockquote><blockquote><blockquote><p>###人民代表大会</p><blockquote><p>中国（大陆）实行人民代表大会制，即人民选出人民代表，人民代表代表人民选举上一级人民代表（就是绕口令）。全国人民代表大会由省、自治区、直辖市、特别行政区和军队选出的代表组成，各少数民族都有一定名额的代表。<br>某种程度上中国的人民代表大会制和美国的选举团制有非常相似的地方。<br>专制政体经常举行做戏的选举——单一选举人、固定投票。在两种情况里，政府都会使用恐吓或作票的方式来确保只有政府认可的候选人能够当选。</p></blockquote></blockquote></blockquote><blockquote><blockquote><p>###议会制</p><blockquote><p>议会制总的来说会更加稳定，政府首脑由最大政党的党魁出任，使政策得到支持，任期不限，但可随时罢免。<br>反对党被边缘化，起不了应有的作用，容易形成一党独裁。但一旦反对党占多数很可能导致宪政危机，国家政策不连贯。容易产生政党危机。<br>总的来说平时安安稳稳，没啥事；一旦出事就是出大事。<br>诶怎么觉我这这议会制不是在说选举了==</p></blockquote></blockquote></blockquote><blockquote><p>##直接选举  </p><blockquote><p>直接选举可明确表现出民众的意志，避免代议制对民意的扭曲，可决定重大事件。<br>但是必须具备公民社会、资讯的真正自由、容易形成多数暴力、社会分裂、政客推卸责任等。所以现在鲜有国家使用直接选举。</p></blockquote></blockquote><p>#台湾大选</p><blockquote><p>扯了这么一大段，总算回到了这次台湾大选。不知道谁说的中国实行民主会乱、中国人不适合民主等等一系列狗屁。至今台湾大选已经举办了整整五届选举，既然台湾可以，那为什么其他华人地区不可以？整整1300万人次的普选，从选票、唱票统计，得出最后结果仅仅在10小时内完成。</p></blockquote><blockquote><p>蔡英文这一代表台湾的人落选还是挺惋惜的。我本来还是挺看好马英九的，但他这几天的部分言论实在不敢恭维啊。我爸知道马英九当选了还挺高兴的，因为他非常反台独、陈水扁、民进党……还非常高兴，其实差不多，马英九在没有连任压力后对大陆肯定也是采取强硬手段，当然不统，不独，不武，其实说了也白说。实力不够明显不可能，再加上他骨子里是国民党的。从民调上，认为自己是台湾人而不是中国人的比例越来越高，民进党的优势也越来越大，国民党要是再没有一些实际的作为总会被压得喘不上气。台湾人加油-(゜-゜)つロ</p></blockquote><blockquote><p>说到这场选举的赢家、输家，赢甲是台湾、台湾人民、国民党的，输家是大陆、共x党、大陆人民。</p></blockquote><blockquote><p>中华民国是亚洲第一个民主共和国，虽然有种种不足，101年前中国已经走到了亚洲前列，再看看101年后的大陆，在东亚已经被甩到尾巴上了，连缅甸这一个军统50余年的国家都已经慢慢开放，释放昂山素季，解除网络封锁，举行选举，前两天还特赦651名在押人员（政治犯居多）。去年年底，隔壁北朝鲜的『光荣、伟大、正确、神圣』的领袖金正日挂了。一开始我还真有那种全班倒数第二的看倒数第一那娃转学的感觉，还好正淫没辜负他爹、我裆的厚望，嗯。</p></blockquote><p>其实快了，一次次在突破人民的下限，很快就能触底，除非愿意改变就像蒋经国先生一样。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;前天，台湾举行了大选，虽然最后的结局并不如我所愿（我是支持蔡英文的），但还是谈谈吧。&lt;/p&gt;
+&lt;p&gt;#选举&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;对于我们这帮从小都长在大陆的人来说，选举是陌生的甚至可以说压根就是不存在的。为了写这篇，好好地补了一下选举的知识。&lt;br&gt;选举
+      
+    
+    </summary>
+    
+      <category term="史政" scheme="https://yufei.im/categories/%E5%8F%B2%E6%94%BF/"/>
+    
+    
+      <category term="政治" scheme="https://yufei.im/tags/%E6%94%BF%E6%B2%BB/"/>
+    
+      <category term="台湾" scheme="https://yufei.im/tags/%E5%8F%B0%E6%B9%BE/"/>
+    
+      <category term="选举" scheme="https://yufei.im/tags/%E9%80%89%E4%B8%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小米手机1初体验</title>
+    <link href="https://yufei.im/post/%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA1%E5%88%9D%E4%BD%93%E9%AA%8C/"/>
+    <id>https://yufei.im/post/小米手机1初体验/</id>
+    <published>2011-12-17T14:48:00.000Z</published>
+    <updated>2018-04-25T14:55:03.835Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="前言（就是废话-可跳过）"><a href="#前言（就是废话-可跳过）" class="headerlink" title="前言（就是废话 可跳过）"></a>前言（就是废话 可跳过）</h3><blockquote><p>我过着没手机的日子已经18年了，其实对生活并没有多大的影响，也就这么过来了。但最近发现使用很多网站、服务都需要填写手机号+网购东西没手机也挺麻烦+家人一直在催。于是乎就想入手一台，一开始看中G1（喂 这是哪个年代的东西了啊），可惜当时价格很高就作罢了。之后看中G7想买，快决定时又发现HD2能刷双系统，于是又纠结了。。Google另一个亲生儿子Google Nexus S出来时，又决定入手，但价格还是太贵，决定再等等，于是就等到了小米，看了发布会的直播，当时决定就买它了，等啊等，等到下单了，才知道小米不支持电信的CDMA2000，又纠结买不买，最后还是入手了。这篇是使用5天的体验。</p></blockquote><h3 id="评价"><a href="#评价" class="headerlink" title="评价"></a>评价</h3><blockquote><p>我买这个手机原因就是<strong>手机便宜+活力的系统。</strong></p></blockquote><blockquote><p>我这人不喜欢拐弯抹角、吊胃口啥的，先直接打个分吧（各单项满分100）。</p></blockquote><blockquote><ul><li>购物体验　　　0分</li><li>客服　　　　　10分</li><li>物流　　　　　0分</li><li>论坛　　　　　0分</li><li>手机　　　　　90分</li><li>配件　　　　　10分</li><li>系统　　　　　95分</li></ul></blockquote><blockquote><p>是不是觉得这分数有点奇葩了？容我一一道来。</p></blockquote><h3 id="购物体验"><a href="#购物体验" class="headerlink" title="购物体验"></a>购物体验</h3><blockquote><p>这手机在8月底发布，正式开售是10月中旬，11月又减产好久，12月买到。等了很久，而且我很费解预定那天9月5日，为什么选在周一？为什么还是下午一点？对于工作的人是上班时间，对于学生来说是上课时间。</p></blockquote><blockquote><p>到轮到我排名是12月5日，凌晨我登上去购买，官方是有套装的，但是居然说缺货，你没货卖什么啊？更恶心的是按照官方的配件单卖都是有货的，呵呵，你狠。说缺货的话那我就单卖呗，一个个凑起来，下单，然后显示需要确认，好吧我等，整个5号没等到，6号直到下午7点也没有等到。我实在是hold不住了，真巧之前想买的一个配件有货了（这件配件我5号买的时候是缺货的，但是有这个配件的套装是显示有货的 呵呵 我还能说什么好？）。于是取消订单，买了这个配件。因为同学要我顺带带一个配件，于是找哪里可以添加的，可惜没有，于是第二次取消订单。</p></blockquote><blockquote><p>购物体验之差令人发指，购物流程设计垃圾、等了2天都等不到的确认不说，还欺骗消费者。</p></blockquote><h3 id="客服"><a href="#客服" class="headerlink" title="客服"></a>客服</h3><blockquote><p>因为等了1天都没任何人来确认，于是发邮件给客服，出乎意料的是，5分钟之内客服就回了，来回8封邮件，除了最后一次是隔了15小时才回的以外，别的都能保持5分钟内能回，这点很好。但除了速度以外，客服可以讲毫无优点，因为这么多邮件里，始终没有解决问题。这10分是给这回复速度的。</p></blockquote><h3 id="物流"><a href="#物流" class="headerlink" title="物流"></a>物流</h3><blockquote><p>为什么给0分？其实这张图能解释一切。<br><img src="http://yufei.im/blog/wp-content/uploads/2011/12/xiaomidindan.jpg" alt="小米物流"></p></blockquote><blockquote><p>下单到确认短信差了15小时（还有之前那个2天没收到的），确认到开始配货1天，配货到开始发货1天，发货到收货用了4天。为什么量这么大的一款手机，都是从北京发货的？不能多设几个？反正是现成的物流，不存在仓库投入的问题。而且这手机产地不是北京，先从厂里运到北京再从北京运到全国？我去，这方案是谁设计的？还有从北京到上海运了几乎2整天，请问用啥交通工具的？0分不解释。还有我记住了，如风达，嗯 凡客的物流。本来其实还有考虑过在凡客买东西的说。呵呵</p></blockquote><p>###论坛</p><blockquote><p>买手机时有些疑问、问题，想去看看论坛上有解决没。嗯 这论坛估计95~98%的帖子全部都是毫无意义的。这可以说是我这5年来看到的最垃圾、最没有营养的论坛。0分 不解释。</p></blockquote><p>###手机</p><blockquote><p>既然买手机，手机当然是重点。这手机可以说除了没有前置摄像头，并且提出过需求，但是杳无音讯外，还是很满意的。做工不错，后盖有点紧，背壳不好看。这方面网上有很多图文并茂的文章，甚至是视频，自己看去吧。</p></blockquote><p>###配件</p><blockquote><p>两个字形容——坑爹</p></blockquote><blockquote><ul><li>膜：贵</li><li>耳机：渣+贵</li><li>支架：渣+极其垃圾+不实用+贵到坑爹</li><li>SD卡：贵</li><li>保护壳：贵+做工有问题</li></ul></blockquote><p>###系统</p><blockquote><p>传说中的MIUI，美观+可制定性强+升级快。稳定版是很稳定，开发版稳定差点，问题也不大。除了有些应用打不开+WIFI经常会无故断开。真没啥缺点了。我买这手机一个很大的原因就是每周一个新版本，不会像有些手机，发布以后不再会更新。</p></blockquote><p>###总结</p><blockquote><p>如果你没钱买iPhone、盖世兔等，又期待价廉物美，并且竟然有一颗能容忍这操蛋的过程的心的人，强烈推荐小米手机。但是不推荐买除膜+SD卡以外的配件。</p></blockquote><blockquote><p>经过这操蛋的折腾，我完全不会考虑买小米手机二代了。我准备这手机用2年，然后换老罗手机，我估计2年老罗能把这手机做出来了，上市第一天就买。</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;前言（就是废话-可跳过）&quot;&gt;&lt;a href=&quot;#前言（就是废话-可跳过）&quot; class=&quot;headerlink&quot; title=&quot;前言（就是废话 可跳过）&quot;&gt;&lt;/a&gt;前言（就是废话 可跳过）&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;我过着没手机的日子已经18年了，其
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="手机" scheme="https://yufei.im/tags/%E6%89%8B%E6%9C%BA/"/>
+    
+      <category term="小米" scheme="https://yufei.im/tags/%E5%B0%8F%E7%B1%B3/"/>
+    
+  </entry>
+  
+  <entry>
     <title>拖延</title>
-    <link href="https://yufei.im/2011/12/12/%E6%8B%96%E5%BB%B6/"/>
-    <id>https://yufei.im/2011/12/12/拖延/</id>
+    <link href="https://yufei.im/post/%E6%8B%96%E5%BB%B6/"/>
+    <id>https://yufei.im/post/拖延/</id>
     <published>2011-12-11T16:44:00.000Z</published>
     <updated>2018-03-20T11:23:00.822Z</updated>
     
@@ -243,8 +1470,8 @@
   
   <entry>
     <title>我为什么反对中医、中药</title>
-    <link href="https://yufei.im/2011/10/05/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%8D%E5%AF%B9%E4%B8%AD%E5%8C%BB%E3%80%81%E4%B8%AD%E8%8D%AF/"/>
-    <id>https://yufei.im/2011/10/05/我为什么反对中医、中药/</id>
+    <link href="https://yufei.im/post/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%8D%E5%AF%B9%E4%B8%AD%E5%8C%BB%E3%80%81%E4%B8%AD%E8%8D%AF/"/>
+    <id>https://yufei.im/post/我为什么反对中医、中药/</id>
     <published>2011-10-05T11:00:00.000Z</published>
     <updated>2018-03-20T11:23:04.501Z</updated>
     
@@ -272,9 +1499,32 @@
   </entry>
   
   <entry>
+    <title>中国互联网的大佬们</title>
+    <link href="https://yufei.im/post/%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E5%A4%A7%E4%BD%AC%E4%BB%AC/"/>
+    <id>https://yufei.im/post/中国互联网的大佬们/</id>
+    <published>2011-08-21T15:17:00.000Z</published>
+    <updated>2018-04-25T14:57:55.703Z</updated>
+    
+    <content type="html"><![CDATA[<p>嘛~其实2个礼拜前就像写个360的，但发现挺难写的，今天干脆把大佬们都说说。<br>中国这个互联网巨头们之前有个称呼——<code>战国七雄</code>——<code>百度、网易、腾讯、搜狐、盛大、阿里巴巴、新浪</code>，加上今年上市的360和老牌弱旅金山凑满8个。<br>从我这个喜好，或者说欣赏、认可程度上来说是这么排的：</p><ol><li>网易</li><li>腾讯</li><li>金山</li><li>阿里巴巴</li><li>搜狐</li><li>百度</li><li>盛大</li><li>360</li><li>新浪</li></ol><hr><p>###网易<br>网易的盈利基本靠网游，所以可以说网易是个网游公司，旗下有不少暴雪的游戏，可惜我不玩也不能玩WOW，天生晕3D，所以主要印象不是网游而是门户。以前据说网易历史很敢说实话，所以被关了，我个人没有经历那个时期，所以也不多加评论。但是网易新闻评论是我一直看着的，特别是<a href="http://news.163.com/special/163theotherside" target="_blank" rel="noopener">网易新闻另一面</a>，我基本可以说是国内同类网站里最敢说实话的了，称之为新闻界的良心也不为过啊！网易旗下的有道也很富有创新特别像有道词典、购物助手等。</p><p>###腾讯<br>这是一家在国内名声并不怎么样的公司，因为腾讯的微创新理念，所以腾讯基本不会出一款划时代意义的产品，基本就是别人先尝试，看看要是走得通的话就也开始走，导致一直背上抄袭的恶名。<a href="http://zh.wikipedia.org/wiki/%E6%8A%84%E8%A2%AD" target="_blank" rel="noopener">抄袭</a>和<a href="http://zh.wikipedia.org/wiki/%E6%A8%A1%E4%BB%BF" target="_blank" rel="noopener">模仿</a>这俩词应该不需要解释了吧，分不清楚的自己去查词典或者是维基百科。模仿得多了，就有些傻逼开始失去理智只要腾讯出一款新产品重要想方设法地扣上抄袭这顶帽子。比如说QQ音速抄袭劲舞团，等QQ炫舞出来也是抄袭劲舞团，地下城与勇士抄拳皇，CF抄CS，AVA也抄CS，QQ农场抄开心农场，LOL抄DotA……音速我个人觉得和劲舞完全不是一码事，也就只有同样是音乐类、需要连续按方向键、都是韩国出的，除此以外我真找不出相似的了。炫舞和劲舞到时一码事，但问题腾讯是运营商，开发商另有其人，说腾讯抄似乎不怎么准确。DNF和拳皇…同是格斗类、都是横版2D，嘛要说的确可以说出一大推来，但是玩过的都知道完全不是一码事。CF、AVA这类FPS游戏难道都算抄袭么…同样类型的游戏偏要找出个老大然后说别的都抄它，有意思么。QQ农场是从5分钟公司买下来的，不存在抄袭问题。LOL是DotA原版人马打造的也没有抄袭。当然还有很多，网上有很多列表，列举所有腾讯的产品“抄袭”对象。  </p><p>说到腾讯还得提他的老本QQ，至于当年OICQ和ICQ到底是什么情况，我没用过也不谈了。至少腾讯QQ是我用过的最好用的聊天工具，也是功能最强，包括聊天功能，QQ很多创新功能甚至是UI都是别的IM争相磨坊/抄袭的对象。至于去年3Q时的隐私问题，至于腾讯到底有没有泄漏隐私，这我不知道，至少到目前为止没有任何直接证据表明腾讯泄漏了用户隐私。当然从某些记者的笔下有意无意露出腾讯协助有关部门的痕迹，是否真是存在，这我不知道。但从国、党、政领导频繁访问腾讯来看也不是无中生有，更何况我们这社会主义优越性，啧啧。。  </p><p>腾讯出的所有软件都挺不错的（QQ浏览器除外），设计、用户体验都做的很好，还有很多贴心功能……我个人觉得腾讯最好的产品就是QQ邮箱，这个产品几乎挑不出毛病来，相比之下已经被神话的GMail稍逊于QQMail。</p><p>###金山<br>非常老的一个公司但总是做不大，挺奇怪的。之前有过WPS、金山毒霸、词霸、影霸、打字通等等。WPS半死不活，毒霸还算凑活，得靠网游存活，挺悲催的。我觉得金山战略明显有问题，不知道怎么搞的。在我电脑里有金山很多软件，但是金山通行证真是一个很奇葩的存在啊，我到现在从来不知道我金山帐号是啥。。</p><p>###阿里巴巴<br>做的挺大的，以前对阿里巴巴以及马云很有好感，但是前段时间支付宝那事，马云的丑恶嘴脸唉。淘宝的假货我也不说什么了，有人说几十块钱的耐克可能是真的么？买卖双方都心知肚明，但问题是要是假的耐克卖500块，又能这么容易确定？阿里巴巴这么多年都不管，还大言不惭…</p><p>###搜狐<br>本来一向对搜狐本体没啥印象，中规中矩的一家公司，但是前段时间看到了<a href="http://business.sohu.com/s2010/others/index.shtml" target="_blank" rel="noopener">搜狐第三方</a>，也挺不错的，就是页面设计做的太渣了。搜狐旗下的搜狗一直挺不错的，之前有搜狗拼音，后来又有了搜狗浏览器。搜狗拼音一开始做的是真好，后来越来越卡，弹窗、广告，于是放弃了。搜狗浏览器可以说是国内做的最好的一款浏览器，凡是不喜欢折腾的人，我基本都推荐搜狗浏览器。</p><p>###百度<br>在过去的4年里一直占据着我胸中最恶心的互联网巨头的位置，直到上个月。百度是如此的恶心，以至于我几乎不用百度的任何产品——平均下来一个月1~2分钟。其中博客与贴吧居多，当然是传送过去的。百度最著名的搜索也不怎么样，要是你用谷歌就能明显感觉到百度结果的垃圾。更何况竞价排名，谁出的钱多谁排在前面，认为导致百度搜索结果更垃圾。更恶心的是居然还收钱掩盖真相，比如三鹿那事，三鹿为了不传播开来给百度500W（没记错的话），然后百度把三鹿的负面新闻都屏蔽掉，最后实在瞒不下去就退钱了。这几天，据说CCTV连续4天曝光百度的丑行，刚刚看到据说工信部还要出台限制竞价排名的法规，呵呵。百度居然把CCTV给屏蔽了，不信自己试试搜索“CCTV百度”，结果什么都没还告诉你，根据有关法律法规不予显示。</p><p>###盛大<br>以游戏及文学闻名的一家公司，游戏曾经是国内老大，但是后来先后被腾讯、网易追上，位居第三，但是盛大有很多著名游戏，我个人只玩过几天的龙之谷。盛大的创新还是很牛逼的。盛大的通行证更是一个奇葩的存在啊，用户名永远被注册掉，他喵的第一次注册的时候密码弄了我10+min，不能用特殊符号、下划线、减号，密码还不能超过9位数，真搞不懂一家吃网游的公司密码限制这么多不是找盗号么。。。雅虎允许32位，腾讯允许最多16位还都允许特殊符号。盛大文学虽然很著名蛋筒来没关注过。</p><p>旗下的快压纯粹就是一个流氓软件。</p><p>###360<br>360出的产品个个都是非常棒的，但是我个人非常排斥这家公司，人品太差，我就搞不明白了，自家产品完胜别家的，却还要用这种卑鄙、无耻、恶心、无下限下三滥的手段。这几年暗杀了很多的竞争对手比如金山网盾（直接导致这款优秀软件的死亡）、搜狗浏览器、QQ电脑管家……还危言耸听诱导（欺骗）用户安装自家所谓的安全产品。就像付盛说的金山做不做浏览器看用户需求，但不会无耻到为了推自家浏览器然后说别人的浏览器都是不安全的。3Q时把扫描硬盘→扫描隐私→上传隐私→泄漏隐私，还恶意干扰QQ正常功能，甚至还无耻到直接恶意诽谤腾讯马化腾的高层次专业人才住房补贴为经适房补贴。我曾经半年没有安装过360软件，8月初想通了，于是尝试了除360安全卫士、保险箱以外的几乎所有软件，然后也基本都卸载了，只剩下360硬件大师和MD。</p><p>###新浪<br>新浪啊新浪，你让我说你什么好啊。新浪一直是国内最牛逼的门户，但在这几强里除了金山（360不清楚）就数新浪最弱了，之前博客就是靠名人效应，博客就已经是各种和谐了。出了新浪微博，更是和谐，一直有一大坨字词无法搜索，如果仅仅如此还能理解，和谐社会嘛，但是，新浪居然还和百度一样以法律为名掩盖不利于自己的信息，反正各种恶心。。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;嘛~其实2个礼拜前就像写个360的，但发现挺难写的，今天干脆把大佬们都说说。&lt;br&gt;中国这个互联网巨头们之前有个称呼——&lt;code&gt;战国七雄&lt;/code&gt;——&lt;code&gt;百度、网易、腾讯、搜狐、盛大、阿里巴巴、新浪&lt;/code&gt;，加上今年上市的360和老牌弱旅金山凑满8个。
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>我的性观念</title>
-    <link href="https://yufei.im/2011/07/30/%E6%88%91%E7%9A%84%E6%80%A7%E8%A7%82%E5%BF%B5/"/>
-    <id>https://yufei.im/2011/07/30/我的性观念/</id>
+    <link href="https://yufei.im/post/%E6%88%91%E7%9A%84%E6%80%A7%E8%A7%82%E5%BF%B5/"/>
+    <id>https://yufei.im/post/我的性观念/</id>
     <published>2011-07-30T13:01:00.000Z</published>
     <updated>2018-03-20T11:23:02.710Z</updated>
     
@@ -297,6 +1547,88 @@
       <category term="成人" scheme="https://yufei.im/tags/%E6%88%90%E4%BA%BA/"/>
     
       <category term="果壳" scheme="https://yufei.im/tags/%E6%9E%9C%E5%A3%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DNF 3年记</title>
+    <link href="https://yufei.im/post/dnf-3%E5%B9%B4%E8%AE%B0/"/>
+    <id>https://yufei.im/post/dnf-3年记/</id>
+    <published>2011-07-25T08:15:00.000Z</published>
+    <updated>2018-04-25T14:45:08.206Z</updated>
+    
+    <content type="html"><![CDATA[<table border="1" cellspacing="2" cellpadding="1" align="center"><br>  <tr><br>    <td><br>      <div><br>        <p align="center"><br>          公测(第一章)<br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          <a href="http://dnf.qq.com/web200805/jcsp.htm" target="_blank">勇敢“心”启程</a><br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          2008年06月19日<br>        </p><br>      </div><br>    </td><br>  </tr><br><br>  <tr><br>    <td><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          <a href="http://dnf.qq.com/act/a20080710anhei/" target="_blank">进军，战斗在暗黑城</a><br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          2008年07月10日<br>        </p><br>      </div><br>    </td><br>  </tr><br><br>  <tr><br>    <td><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          <a href="http://dnf.qq.com/act/a20080827abyss/" target="_blank">勇闯深渊</a><br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          2008年08月27日<br>        </p><br>      </div><br>    </td><br>  </tr><br><br>  <tr><br>    <td><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          <a href="http://dnf.qq.com/act/a280081002ahc" target="_blank">进军，战斗在暗黑城(续章)</a><br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          2008年10月02日<br>        </p><br>      </div><br>    </td><br>  </tr><br><br>  <tr><br>    <td><br>      <div><br>        <p align="center"><br>          第二章<br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          <a href="http://dnf.qq.com/act/a20081229sp2/" target="_blank">死神的挑衅</a><br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          2009年1月7日<br>        </p><br>      </div><br>    </td><br>  </tr><br><br>  <tr><br>    <td><br>      <div><br>        <p align="center"><br>          第三章<br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          <a href="http://dnf.qq.com/act/a20090420chapter3/" target="_blank">雪山迷踪</a><br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          2009年4月20日<br>        </p><br>      </div><br>    </td><br>  </tr><br><br>  <tr><br>    <td><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          <a href="http://dnf.qq.com/act/chapter3/" target="_blank">异界的赋予</a><br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          2009年7月2日<br>        </p><br>      </div><br>    </td><br>  </tr><br><br>  <tr><br>    <td><br>      <div><br>        <p align="center"><br>          第四章<br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          <a href="http://dnf.qq.com/act/chapter4prelude/" target="_blank">魔道学概论</a><br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          2009年8月18日<br>        </p><br>      </div><br>    </td><br>  </tr><br><br>  <tr><br>    <td><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          <a href="http://dnf.qq.com/act/chapter4/" target="_blank">无尽的挑战</a><br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          2009年11月18日<br>        </p><br>      </div><br>    </td><br>  </tr><br><br>  <tr><br>    <td><br>      <div><br>        <p align="center"><br>          第五章<br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          <a href="http://dnf.qq.com/act/chapter5/" target="_blank">进化之光</a><br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          2010年1月12日<br>        </p><br>      </div><br>    </td><br>  </tr><br><br>  <tr><br>    <td><br>      <div><br>        <p align="center"><br>          第六章<br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          <a href="http://dnf.qq.com/act/chapter6/" target="_blank">天启 破开混沌的神兵</a><br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          2010年3月25日<br>        </p><br>      </div><br>    </td><br>  </tr><br><br>  <tr><br>    <td><br>      <div><br>        <p align="center"><br>          第七章<br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          <a href="http://dnf.qq.com/act/chapter7/" target="_blank">一路有你</a><br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          2010年5月27日<br>        </p><br>      </div><br>    </td><br>  </tr><br><br>  <tr><br>    <td><br>      <div><br>        <p align="center"><br>          第八章<br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          <a href="http://dnf.qq.com/act/chapter8/" target="_blank">暗夜降临</a><br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          2010年7月13日<br>        </p><br>      </div><br>    </td><br>  </tr><br><br>  <tr><br>    <td><br>      <div><br>        <p align="center"><br>          第九章<br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          <a href="http://dnf.qq.com/act/chapter9/" target="_blank">狄瑞吉之影</a><br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          2010年9月10日<br>        </p><br>      </div><br>    </td><br>  </tr><br><br>  <tr><br>    <td><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          <a href="http://dnf.qq.com/act/chapter9.28/" target="_blank">阿拉的计划 启航篇</a><br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          2010年9月28日<br>        </p><br>      </div><br>    </td><br>  </tr><br><br>  <tr><br>    <td><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          <a href="http://dnf.qq.com/act/a20101020rumor/" target="_blank">城镇保卫战</a><br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          2010年10月27日<br>        </p><br>      </div><br>    </td><br>  </tr><br><br>  <tr><br>    <td><br>      <div><br>        <p align="center"><br>          第十章<br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          <a href="http://dnf.qq.com/act/chapter10/" target="_blank">异次元空间</a><br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          2010年11月25日<br>        </p><br>      </div><br>    </td><br>  </tr><br><br>  <tr><br>    <td><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          <a href="http://dnf.qq.com/act/chapter12.21/" target="_blank">阿拉的计划 乘风篇</a><br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          2010年12月21日<br>        </p><br>      </div><br>    </td><br>  </tr><br><br>  <tr><br>    <td><br>      <div><br>        <p align="center"><br>          第十一章<br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          <a href="http://dnf.qq.com/act/chapter11/" target="_blank">绽放 天界玫瑰</a><br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          2011年1月18日<br>        </p><br>      </div><br>    </td><br>  </tr><br><br>  <tr><br>    <td><br>      <div><br>        <p align="center"><br>          第十二章<br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          <a href="http://dnf.qq.com/act/chapter12/" target="_blank">划破夜空的子弹</a><br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          2011年2月22日<br>        </p><br>      </div><br>    </td><br>  </tr><br><br>  <tr><br>    <td><br>      <div><br>        <p align="center"><br>          第十三章<br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          <a href="http://dnf.qq.com/act/chapter13/" target="_blank">无尽的祭坛</a><br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          2011年3月15日<br>        </p><br>      </div><br>    </td><br>  </tr><br><br>  <tr><br>    <td><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          <a href="http://dnf.qq.com/act/chapter4.21/" target="_blank">阿拉的计划 扬帆篇</a><br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          2011年4月21日<br>        </p><br>      </div><br>    </td><br>  </tr><br><br>  <tr><br>    <td><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          <a href="http://dnf.qq.com/act/chapter5.17/" target="_blank">阿拉的计划 破浪篇</a><br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          2011年5月17日<br>        </p><br>      </div><br>    </td><br>  </tr><br><br>  <tr><br>    <td><br>      <div><br>        <p align="center"><br>          第二季<br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          <a href="http://dnf.qq.com/act/a20110603second/" target="_blank">新的征程</a><br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          2011年6月16日<br>        </p><br>      </div><br>    </td><br>  </tr><br><br>  <tr><br>    <td><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          <a href="http://dnf.qq.com/act/chapter7.12/" target="_blank">阿拉的计划 远航篇</a><br>        </p><br>      </div><br>    </td><br><br>    <td><br>      <div><br>        <p align="center"><br>          2011年7月12日<br>        </p><br>      </div><br>    </td><br>  </tr><br></table><p>嘛~这东西拖了一个多月了，本来想在3周年6月19日发的，然后么因为懒就没弄。其实去年还欠了一份视频，然后么就坑了，到现在还没准备弄…. </p><p>然后么花了点时间稍微把DNF更新的大点的版本都统计一下，找起来挺累的，大概就是这么点吧，不记得有别的大版本。 </p><p>玩DNF是从08.06.19中午12点开始的，到今年2月初吧，然后再从6.19开始玩，中间差了4个大版本2章。 </p><p><strong>刚公测</strong>时那可真要命，一天不断线个七八次你真觉得今天少了点什么。而且我在湖北1区，电脑配置又差，进图要 黑上10秒，出图要黑上2分钟，然后卡出队，其实刚公测的时候挺好的，大家等级都低，一起打，每天3复活，团灭以后看谁好打就帮他复活，然后玩到47级， 就基本放弃不练了。这时候差不多是11月的时候，然后我回到江苏二开始练元素，一开始元素挺好的攻击高，前期的图怪也傻，PK的时候4个黑猫就能KO，天 雷还是100%晕眩 PK打霸体爽歪歪，经常用来抓猛龙于是乎，就到了第二章。 </p><p><strong>第二章</strong>更新的时候真的心里很激动，这辈子没见过更新维护48小时的游戏。更新完开服，变化特大，然后从这时 候开始也觉得DNF变味了。一方面官方放这BUG不管整整半年，再怎么提交也没用，像火属性怪不能用属性攻击，于是对元素来说无头里面的歌利亚那就是神 啊，特别是魔法防御的那就是BUG啊，一个怪1分钟打掉一条血。另一方面，外挂也起来了，到处横行，很惭愧，我也用了好几次，但是有一点，我用挂的那几次 从没被封过，没用挂的时候也从来没有被误封过，所以我一直对所谓误封持怀疑态度。 </p><p>到<strong>第三章</strong>前奏那APC更BUG了，新开的两张图都有APC啊，各种秒啊，官方还是不管，真他妈蛋疼。第三章 也凑上了DNF公测一周年，这时候可以说对DNF运营团队失望透了，这你妹的更新的是什么啊，一个瞎子觉醒一个附魔，你敢更新的多点么？第三章这段期间， 我的力法也开始练了起来，30级之前特别蛋疼，完全不能单刷，没出球根本连不起来，被人带到30以后就舒服多了，力法是我练得第一个不是传统意义上的魔法 师，有点走物理的，那种击打感吸引了我这个万年法师，然后练力法的时间就超过了元素。 </p><p><strong>第四章</strong>前奏开了魔道，然后就开始玩魔道= =，玩了一段时间觉得不带感，又练回力法了。然后第四章开了死塔，深渊，还有就是元素终于觉醒了，那觉醒是挺华丽的，就是伤害远没有想象中那么高。 </p><p><strong>第五章</strong>总算开S2了，变化还是大大的，各种改版啊，界面改版，任务可以接10个了，大叔男枪改版，然后 MISS增加，PK就完全不会了。大叔、男枪都感觉沉了BUG，特别是蓝拳，俗话说得好，一个版本一代神，蓝拳他瞄的整整神了7章啊我去。从这开始明显觉 得DNF更新频率变快了。 </p><p><strong>第六章</strong>开奶爸觉醒啥的，还有就是远古一，这任务太坑爹了，基本没怎么做。那塔刷的啊，眼泪哗哗的。 </p><p><strong>第七章</strong>开好感啥的，至今都没玩过几次。。。魔道也开觉醒了，伤害真坑爹，开的第一天就刷到了王星，这辈子头一回啊。 </p><p><strong>第八章</strong>开了盗贼，玩了一个死灵，还凑活吧，就是耗蓝太多了，伤害挺不错的，从这里开始盗贼PK就是个BUG了啊，那速度，那僵直。然后开了天界新图，东西掉的挺不错的。 </p><p><strong>第九章</strong>就马上开了盗贼觉醒，觉醒渣渣啊，活靶子一个，还有就开了野猪，完全不会打也打不过。这个时候远古图就没有能打过的，悲催啊。 </p><p><strong>第十章</strong>开了异界，我直到前几天就没去过，因为我知道我不适合，手残一个，从这开始发现这游戏越来越过不下去了，各种外挂啊，真他妈的XXX，于是各种人都去用外挂，身边人也是，反正我是坚持不用挂、不找挂。发现太难混了。 </p><p><strong>第十一章</strong>我是在体验服过的，练了一个女漫游，挺爽快，回到国服以后发现环境惨不忍睹啊，外挂横飞，再加上关心政治，时间上就比较忙，没什么空去玩了，慢慢就彻底不玩了。 </p><p><strong>第十二章</strong>开了女枪觉醒，我至今都没有在游戏里见过女枪觉醒。 </p><p><strong>第十三章</strong>开了祭坛，我也是没有去过，祭坛貌似挺不错的 </p><p><strong>第二季</strong>开70了，本来我准备先去体验服玩玩，然后呢发现体验服一直在换版本就准备等等，等着等着国服就更新 了，总的来说不是特别的惊艳，因为开了70所以有了不小的变化，有TP点，SP完全不一样了。开了很多张新图，技能也有改版，开了以后就玩到现在也才64 而已，不怎么多玩，不过玩游戏也挺浪费时间的，玩游戏就是图个乐嘛，本末倒置就不好了。 </p><p>视频什么的就等明年4周年再说吧，不过我觉得我很有可能玩不到那个时候，视频已经录了一点点，还是去年2周年录的呢。 </p><p>好久没有打字了，博客整个荒废快俩月了，也得稍微弄弄嘛~~之后更新的频繁点。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;table border=&quot;1&quot; cellspacing=&quot;2&quot; cellpadding=&quot;1&quot; align=&quot;center&quot;&gt;&lt;br&gt;  &lt;tr&gt;&lt;br&gt;    &lt;td&gt;&lt;br&gt;      &lt;div&gt;&lt;br&gt;        &lt;p align=&quot;center&quot;&gt;&lt;br&gt;    
+      
+    
+    </summary>
+    
+      <category term="记" scheme="https://yufei.im/categories/%E8%AE%B0/"/>
+    
+    
+      <category term="游戏" scheme="https://yufei.im/tags/%E6%B8%B8%E6%88%8F/"/>
+    
+      <category term="地下城与勇士" scheme="https://yufei.im/tags/%E5%9C%B0%E4%B8%8B%E5%9F%8E%E4%B8%8E%E5%8B%87%E5%A3%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2011 64念</title>
+    <link href="https://yufei.im/post/2011-64%E5%BF%B5/"/>
+    <id>https://yufei.im/post/2011-64念/</id>
+    <published>2011-06-03T16:00:00.000Z</published>
+    <updated>2018-04-25T14:37:00.614Z</updated>
+    
+    <content type="html"><![CDATA[<p>###八八 </p><blockquote><p>其实还是要说明一下，我由于生在93年，没遇到当年那事，一些内容也都是通过各种途径了解到的，由于这些消息基本全都是墙外获取的的，所以不可避免地带有很强的倾向性，个人尽可能以相对中立、平和的心态去看待。 </p></blockquote><blockquote><p>我个人看法： </p></blockquote><blockquote><blockquote><p>任何政府、组织在相对和平时期使用武力zhenya采取相对和平手段的手无寸铁的百姓的行为都是无法想象的，在这一刻，这个政府或组织即失去其合法性。 </p></blockquote></blockquote><blockquote><p>好吧，这句话用了很多限定词导致很拗口，理解起来应该不是什么大问题。 </p></blockquote><blockquote><p>最后其实我纪念的不只是这一个，甚至可以说就不是这个（原因还是上面那个，我没经历过），包含一百多年来所有为法制、人权、平等、自由、科学、民主奋斗过的人。 </p></blockquote><p>###墙 </p><blockquote><p>其实前面哪个本来不怎么想提的，毕竟河蟹嘛，而且写下来来可能会给别人带来麻烦，最后还是写了，也用了非常委婉的的措辞，除了某一个词。 </p></blockquote><blockquote><p>其实我本来不知道八八这事的，我父母是非常保守的人、特别是是我妈，所以从没跟我提过这事。但是某一年5月底，听说下月初中国互联网维护日，很多网站都会“技术性”维护，结果那几天果真能是这样，就翻出去查了下，哦，原来是这样。 </p></blockquote><blockquote><p>最近墙是越来越高了，不翻出去的话很多业务都无法使用。很多墙内的网站就杯具了，什么OperaChina、 DeepLinux、凤凰工作室这种技术性论坛都“被维护”停止解析了。河蟹真口怕啊~~这样只怕更多骚年都会了解到到底发生了神马。之前我看到一个和我 之前看的完全相反的关于八八的文章，我部分接受。但是我还是一直有个问题，身正不怕影子斜，既然果真是那么光荣真确伟大，为什么就不能拿到台面上谈呢？为 什么还要这样遮遮掩掩？作为一个刚满18周岁的人，我不懂专制人的思维。 </p></blockquote><p>###人</p><blockquote><p>一年前的今天我提到了<a href="&quot;https://docs.google.com/document/edit?id=1hngSU6diMWnqxw1rY3uwWbOXo6HTTbuQDFilHk8pV2c&amp;hl=zh_CN&amp;pli=1&quot;">我最欣赏、讨厌的政治家</a>，一年后我发现有了很大的改变，应该算成熟了吧，呵呵。</p></blockquote><div><br>          <table border="1" cellspacing="2" cellpadding="1" align="left"><br>            <tr><br>              <td><br>                <div><br>                  欣赏<br>                </div><br>              </td><br><br>              <td><br>                <div><br>                  2010<br>                </div><br>              </td><br><br>              <td><br>                <div><br>                  jiangzhongzhen<br>                </div><br>              </td><br><br>              <td><br>                <div><br>                  huyaobang<br>                </div><br>              </td><br><br>              <td><br>                <div><br>                  zhouenlai<br>                </div><br>              </td><br><br>              <td><br>                jiangjinguo<br>              </td><br><br>              <td><br>                <div><br>                  liushaoqi<br>                </div><br>              </td><br><br>              <td><br>                <div><br>                  <div><br>                    zhaoziyang<br>                  </div><br>                </div><br>              </td><br><br>              <td><br>                <div><br>                  sunwen<br>                </div><br>              </td><br><br>              <td><br>                wangzhaomin<br>              </td><br>            </tr><br><br>            <tr><br>              <td><br>              </td><br><br>              <td><br>                <div><br>                  2011<br>                </div><br>              </td><br><br>              <td><br>                <div><br>                  jiangjinguo<br>                </div><br>              </td><br><br>              <td><br>                <div><br>                  zhaoziyang<br>                </div><br>              </td><br><br>              <td><br>                dalailama<br>              </td><br><br>              <td><br>                huyaobang<br>              </td><br><br>              <td><br>                sunwen<br>              </td><br><br>              <td><br>                wangzhaomin<br>              </td><br><br>              <td><br>              </td><br><br>              <td><br>              </td><br>            </tr><br><br>            <tr><br>              <td><br>                <div><br>                  厌恶<br>                </div><br>              </td><br><br>              <td><br>                <div><br>                  2010<br>                </div><br>              </td><br><br>              <td><br>                <div><br>                  maozedong<br>                </div><br>              </td><br><br>              <td><br>                jiangzemin<br>              </td><br><br>              <td><br>                hujintao<br>              </td><br><br>              <td><br>                lipen<br>              </td><br><br>              <td><br>                zengyinquan<br>              </td><br><br>              <td><br>                denxiaopin<br>              </td><br><br>              <td><br>              </td><br><br>              <td><br>              </td><br>            </tr><br><br>            <tr><br>              <td><br>              </td><br><br>              <td><br>                <div><br>                  2011<br>                </div><br>              </td><br><br>              <td><br>                maozedong<br>              </td><br><br>              <td><br>                cixi<br>              </td><br><br>              <td><br>                <div><br>                  jiangzemin<br>                </div><br>              </td><br><br>              <td><br>                hujintao<br>              </td><br><br>              <td><br>                denxiaopin<br>              </td><br><br>              <td><br>                wubangguo<br>              </td><br><br>              <td><br>                zhouenlai<br>              </td><br><br>              <td><br>                wenjiabao<br>              </td><br>            </tr><br>          </table><br>          </div><br><p>###杂</p><blockquote><p>不知不觉中，来这个学校已经快3年了，初中一起毕业的人现在也在准备高考了。这三年下来从班级第四名到了30+，考五门挂四门的境界。每天9+小时电脑，晚上5小时睡眠。不读高中的目的似乎远没有达到：</p></blockquote><blockquote><ul><li>依然要学数学在这种我个人觉得毫无意义的学科。</li><li>学着许多过时的专业，当然就这些我也没学好。</li><li>学校一帮傻逼的校领导，接近专制的一种校园制度，领导说五就是五，绝不是四。</li><li>你再提意见也没用，没人卵你。 各种赤裸裸违法、侵犯人权的制度。<br>当然我也得到了许多空余时间，不用像读高中的同学一样，成堆的书、作业、卷子。多出来的时间虽然很多都浪费了，但是我有大量的时间学习、了解我感兴趣的东西。所以结论——<strong>不后悔不读高中</strong>。</li></ul></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;###八八 &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;其实还是要说明一下，我由于生在93年，没遇到当年那事，一些内容也都是通过各种途径了解到的，由于这些消息基本全都是墙外获取的的，所以不可避免地带有很强的倾向性，个人尽可能以相对中立、平和的心态去看待。 &lt;/p&gt;
+&lt;/blo
+      
+    
+    </summary>
+    
+      <category term="史政" scheme="https://yufei.im/categories/%E5%8F%B2%E6%94%BF/"/>
+    
+    
+      <category term="政治" scheme="https://yufei.im/tags/%E6%94%BF%E6%B2%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2011.05</title>
+    <link href="https://yufei.im/post/2011-05/"/>
+    <id>https://yufei.im/post/2011-05/</id>
+    <published>2011-05-22T08:12:00.000Z</published>
+    <updated>2018-04-25T14:39:37.185Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近彻底懒下来，一个多月没更新了。 </p><p>###期中考试 </p><blockquote><p>半个学期没听课就是这个结果啦，考4挂3。。其实那几天还是挺用功的，但毕竟前面半学期都没听，所以极其悲剧。下半学期还算认真听讲，希望都能过吧。 </p></blockquote><p>###政治课演讲 </p><blockquote><p>说这一个月没写点什么其实是不准确的，我花了3个晚上写下了政治课（毛泽东思想和中国特色社会主义）的演讲稿，要求是1840 年以来的人物或事件，我选了DalaiLama，一开始是写了个提纲，准备展开的，但是发现我个人还是不适合演讲（至少是目前），想说的基本都忘了，只好 读稿子，由于本身并没有一个完整的演讲稿，然后又是一个失败的演讲，所以么暑假抽时间在wiki上完整弄一个，什么来源啊都要，有来源是一种态度，有来源 的不一定是事实。也算是我对一个我比较尊重的人的致敬吧。 </p></blockquote><p>###视频弹幕 </p><p>####哔哩哔哩 </p><blockquote><p>月初哔哩哔哩改版了，感觉还不错，我相对于ACFUN更喜欢哔哩哔哩总的来说是这几个原因： </p></blockquote><blockquote><ul><li>更完善的弹幕管理，比如可单独屏蔽、举报某个人，或者某一种弹幕，当然还有神弹幕的存在。 </li><li>界面美观、大气。 </li><li>有缩略图，可以更快更准确的找到感兴趣的视频，虽然有封面党的存在。 </li><li>审核快，特别是新番上去年这时候哔哩哔哩新番一般都比AC早两天以上，现在AC貌似也快点了。 </li><li>有明显的改变，不管个人觉得是好是坏，至少在改，而不像AC千年不变。 </li><li>但是过来一年了，发现和自己以前哔哩哔哩感觉不一样了，因为本身是弹幕视频网站，弹幕是最重要的，但是弹幕质量个人觉得跟以前相差甚远，更多毫无意义的弹幕比如 </li></ul></blockquote><p>####各种复制UP、签名（周刊） </p><blockquote><p>刷订书机的（化物语）<br>各种小圆、蓝毛、红毛、学姐、QB、魔法少女……（小圆本身很不错，个人也很喜欢，但是被恶心的啊，不管什么视频都要小圆小圆的，烦不烦啊，最 恶心的就是第三话学姐掉头，这个视频上周刊2个月全是在靠评论来刷的，刷收藏和点击还管他了，把评论当聊天室有意义吗？反正这一话我就看过一次再也没点进 去过。还有就是最后话，哔哩哔哩有规定弹幕不许数人数，妈的各种数人数啊，完全屏蔽不掉，我说你要是跟周刊一样就前面半分钟复制签名忍忍就过了，不就是屏 蔽弹幕半分钟嘛，48分钟的视频，数人数就他妈的没断过啊！！然后我花了进10min把点人数的都拉黑了，但仅仅只有一小部分，人数太庞大了。居然还有人 说就算关小黑屋也要数人数，这跟说就算关进去也要违法有什么区别？一群二逼。从不知道哪个周刊开始复制河童子的签名开始到小圆最后话越来越坚定我离开哔哩哔哩的决心！还好到月初的改版以及小圆的完结后也暂时留着。）<br>各种愤青，我也是个愤青（愤怒青年），但是我是一个比较有脑子有独立思考能力的一个愤青，非常鄙视哪些持凡是XX都要XX的，无论是左愤还是右愤（我又有优越感了= =||）。<br>不知道还会留在bilibili多久，不知道以后会不会有C站D站神马的，这就是一个网站大众化的必然结果吗?但愿不是，呵呵。 </p></blockquote><p>###ACFUN </p><blockquote><p>AC嘛，以前从A转移到B的原因就是弹幕质量下降以及固有的不爽（至今几乎完全没有改变，嗯，一年没改变）</p></blockquote><blockquote><ul><li>CF党横行 </li><li>各种刷数字（这个真的屏蔽不了，就是每隔几秒刷一个毫无意义的数字，一般不会超过20的那种，不断的刷…比点人数更恶心） </li><li>各种愤青 </li><li>界面难看，评论系统过于简陋。 </li><li>审核慢，甚至两三天一篇都没审核。 </li><li>各种人身攻击 </li></ul></blockquote><blockquote><p>上个月惊喜的发现AC番组区又有封面了，界面也弄得至少不那么丑了。寄以希望，好吧，我又错了，相对于哔哩哔哩一次大更新，两三天修BUG，AC的 进度惨不忍睹，一个月至少我个人没看到有改变。弹幕管理是增强了点，真的是一点点，弹幕质量还是极差。我还是坚持每星期来至少3次AC，看一些纪录片和其 他的。虽说哔哩哔哩现在火起来了，但是还远远还比不上AC，看一下小众视频还是得来AC，像DC的作品，哔哩哔哩播放一般都是三位数，在AC就是5W+。 </p></blockquote><p>###东方Project </p><blockquote><p>混哔哩哔哩不可能不知道东方，一直都没有去了解。从2.11日和谐社介绍的东方萌卡开始慢慢深入了解，也晚了很多东方的游戏，东方绯想天、东方非想天则、魔里沙和六蘑菇、东方dota THD和很多正作……也收集了很多的图包，越来越不能自拔了啊啊…. </p></blockquote><p>###电脑 </p><blockquote><p>这一个月电脑除了很多问题，月初么每天都要蓝屏近十次，弄得都快崩溃了，重装后依然，最后发现问题原来问题出在ESET NOD32 ESS 5 Beta精睿汉化版上…换上EAV了。然后这两天会自动重启，三四小时一次，就跟断电的感觉一样，挺烦的。关键我用了虚拟磁盘，每次关机都会自动清空数 据，虚拟盘上放了火狐和FeedDemon，特杯具啊。。现在都放到机械硬盘上，性能降低很多，但是至少不会丢失了。</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;最近彻底懒下来，一个多月没更新了。 &lt;/p&gt;
+&lt;p&gt;###期中考试 &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;半个学期没听课就是这个结果啦，考4挂3。。其实那几天还是挺用功的，但毕竟前面半学期都没听，所以极其悲剧。下半学期还算认真听讲，希望都能过吧。 &lt;/p&gt;
+&lt;/bloc
+      
+    
+    </summary>
+    
+      <category term="记" scheme="https://yufei.im/categories/%E8%AE%B0/"/>
+    
     
   </entry>
   

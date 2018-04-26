@@ -3,7 +3,12 @@
 
 
 
-<html class="theme-next gemini" lang="zh-CN">
+
+
+  
+
+
+<html class="theme-next gemini use-motion" lang="zh-CN">
 <head>
   <meta charset="UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -53,19 +58,19 @@
 
 <link href="https://cdn.staticfile.org/font-awesome/4.6.2/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 
-<link href="/css/main.css?v=6.0.5" rel="stylesheet" type="text/css" />
+<link href="/css/main.css?v=6.2.0" rel="stylesheet" type="text/css" />
 
 
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png?v=6.0.5">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png?v=6.2.0">
 
 
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png?v=6.0.5">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png?v=6.2.0">
 
 
-  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png?v=6.0.5">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png?v=6.2.0">
 
 
-  <link rel="mask-icon" href="/images/safari-pinned-tab.svg?v=6.0.5" color="#222">
+  <link rel="mask-icon" href="/images/safari-pinned-tab.svg?v=6.2.0" color="#222">
 
 
   <link rel="manifest" href="/images/site.webmanifest">
@@ -84,13 +89,13 @@
   var CONFIG = {
     root: '/',
     scheme: 'Gemini',
-    version: '6.0.5',
+    version: '6.2.0',
     sidebar: {"position":"left","display":"post","offset":12,"b2t":true,"scrollpercent":true,"onmobile":false},
     fancybox: false,
     fastclick: false,
     lazyload: false,
     tabs: true,
-    motion: {"enable":false,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
     algolia: {
       applicationID: '',
       apiKey: '',
@@ -184,9 +189,7 @@
     <div class="headband"></div>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
-      <div class="header-inner"> 
-
-<div class="site-brand-wrapper">
+      <div class="header-inner"><div class="site-brand-wrapper">
   <div class="site-meta ">
     
 
@@ -211,67 +214,63 @@
   </div>
 </div>
 
-<nav class="site-nav">
-  
 
+
+
+<nav class="site-nav">
   
     <ul id="menu" class="menu">
       
         
         
+        
           
-  <li class="menu-item menu-item-home">
+          <li class="menu-item menu-item-home menu-item-active">
     <a href="/" rel="section">
       <i class="menu-item-icon fa fa-fw fa-home"></i> <br />首页</a>
-</li>
-
-      
+  </li>
+        
         
         
           
-  <li class="menu-item menu-item-about">
+          <li class="menu-item menu-item-about">
     <a href="/about/" rel="section">
       <i class="menu-item-icon fa fa-fw fa-user"></i> <br />关于</a>
-</li>
-
-      
+  </li>
+        
         
         
           
-  <li class="menu-item menu-item-tags">
+          <li class="menu-item menu-item-tags">
     <a href="/tags/" rel="section">
       <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />标签</a>
-</li>
-
-      
+  </li>
+        
         
         
           
-  <li class="menu-item menu-item-categories">
+          <li class="menu-item menu-item-categories">
     <a href="/categories/" rel="section">
       <i class="menu-item-icon fa fa-fw fa-th"></i> <br />分类</a>
-</li>
-
-      
+  </li>
+        
         
         
           
-  <li class="menu-item menu-item-archives">
+          <li class="menu-item menu-item-archives">
     <a href="/archives/" rel="section">
       <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />归档</a>
-</li>
-
-      
+  </li>
+        
         
         
           
-  <li class="menu-item menu-item-schedule">
+          <li class="menu-item menu-item-schedule">
     <a href="/schedule/" rel="section">
       <i class="menu-item-icon fa fa-fw fa-calendar"></i> <br />日程表</a>
-</li>
+  </li>
 
       
-
       
         <li class="menu-item menu-item-search">
           
@@ -313,11 +312,12 @@
 </nav>
 
 
+
   
 
 
 
- </div>
+</div>
     </header>
 
     
@@ -349,7 +349,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="https://yufei.im/2013/07/20/繁简体之争/">
+    <link itemprop="mainEntityOfPage" href="https://yufei.im/post/macos、ios同步照片折腾记/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="嘸">
@@ -368,11 +368,21 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2013/07/20/繁简体之争/" itemprop="url">繁简体之争</a></h1>
+                <a class="post-title-link" href="/post/macos、ios同步照片折腾记/" itemprop="url">
+                  macOS、iOS同步照片折腾记
+                </a>
+              
+            
+          </h1>
         
 
         <div class="post-meta">
           <span class="post-time">
+
+            
+            
+            
+
             
               <span class="post-meta-item-icon">
                 <i class="fa fa-calendar-o"></i>
@@ -380,12 +390,30 @@
               
                 <span class="post-meta-item-text">发表于</span>
               
-              <time title="创建于" itemprop="dateCreated datePublished" datetime="2013-07-20T22:44:00+08:00">2013-07-20</time>
+
+              
+                
+              
+
+              <time title="创建时间：2016-11-06 01:02:00" itemprop="dateCreated datePublished" datetime="2016-11-06T01:02:00+08:00">2016-11-06</time>
             
 
             
-            
+              
 
+              
+                
+                <span class="post-meta-divider">|</span>
+                
+
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">更新于</span>
+                
+                <time title="修改时间：2018-04-25 23:22:47" itemprop="dateModified" datetime="2018-04-25T23:22:47+08:00">2018-04-25</time>
+              
             
           </span>
 
@@ -401,7 +429,7 @@
                 <span class="post-meta-item-text">分类于</span>
               
               
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/想法/" itemprop="url" rel="index"><span itemprop="name">想法</span></a></span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/科技/" itemprop="url" rel="index"><span itemprop="name">科技</span></a></span>
 
                 
                 
@@ -411,27 +439,17 @@
 
           
             
-              <span class="post-comments-count">
-                <span class="post-meta-divider">|</span>
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-comment-o"></i>
-                </span>
-                <a href="/2013/07/20/繁简体之争/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count valine-comment-count" data-xid="/2013/07/20/繁简体之争/" itemprop="commentCount"></span>
-                </a>
-              </span>
-            
           
 
           
           
-             <span id="/2013/07/20/繁简体之争/" class="leancloud_visitors" data-flag-title="繁简体之争">
+             <span id="/post/macos、ios同步照片折腾记/" class="leancloud_visitors" data-flag-title="macOS、iOS同步照片折腾记">
                <span class="post-meta-divider">|</span>
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
                </span>
                
-                 <span class="post-meta-item-text">热度&#58;</span>
+                 <span class="post-meta-item-text">阅读次数：</span>
                
                  <span class="leancloud-visitors-count"></span>
              </span>
@@ -458,16 +476,11 @@
       
         
           
-          刚刚看到apple4us在微博上
-
-鼎力支持 @黃秋生。#收復漢字 #中國夢
-
-我顿时一愣，这尼玛看这架势十有八九是黄秋生说应该废简体改繁体了吧。（我个人是倾向于叫简体汉字和传统汉字的，但是由于习惯和方便，就用繁体和简体来称呼）
-转到黄秋生主页里果然是这样。页面往下稍微一拉就……这尼玛，让我又想起当
+          入了 128G 的 iPhone 7 Plus，打算把以前的拍的照片在 macOS 和 iOS 之间同步，本来以为这是一件非常简单的事情，没想到就是一场噩梦。。首先因为照片有十几个吉比特，所以打算通过 iTunes 来同步照片。然而从电脑通过 iTunes 同步到手机上后无法做任何变更，其次在手机拍
           ...
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2013/07/20/繁简体之争/#more" rel="contents">
+            <a class="btn" href="/post/macos、ios同步照片折腾记/#更多" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -523,7 +536,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="https://yufei.im/2013/04/22/消费灾难 谎言/">
+    <link itemprop="mainEntityOfPage" href="https://yufei.im/post/2016年读书计划/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="嘸">
@@ -542,11 +555,21 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2013/04/22/消费灾难 谎言/" itemprop="url">消费灾难 谎言</a></h1>
+                <a class="post-title-link" href="/post/2016年读书计划/" itemprop="url">
+                  2016年读书计划
+                </a>
+              
+            
+          </h1>
         
 
         <div class="post-meta">
           <span class="post-time">
+
+            
+            
+            
+
             
               <span class="post-meta-item-icon">
                 <i class="fa fa-calendar-o"></i>
@@ -554,12 +577,30 @@
               
                 <span class="post-meta-item-text">发表于</span>
               
-              <time title="创建于" itemprop="dateCreated datePublished" datetime="2013-04-22T19:28:00+08:00">2013-04-22</time>
+
+              
+                
+              
+
+              <time title="创建时间：2016-03-08 23:59:00" itemprop="dateCreated datePublished" datetime="2016-03-08T23:59:00+08:00">2016-03-08</time>
             
 
             
-            
+              
 
+              
+                
+                <span class="post-meta-divider">|</span>
+                
+
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">更新于</span>
+                
+                <time title="修改时间：2018-04-25 22:40:26" itemprop="dateModified" datetime="2018-04-25T22:40:26+08:00">2018-04-25</time>
+              
             
           </span>
 
@@ -575,7 +616,7 @@
                 <span class="post-meta-item-text">分类于</span>
               
               
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/想法/" itemprop="url" rel="index"><span itemprop="name">想法</span></a></span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/记/" itemprop="url" rel="index"><span itemprop="name">记</span></a></span>
 
                 
                 
@@ -585,27 +626,17 @@
 
           
             
-              <span class="post-comments-count">
-                <span class="post-meta-divider">|</span>
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-comment-o"></i>
-                </span>
-                <a href="/2013/04/22/消费灾难 谎言/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count valine-comment-count" data-xid="/2013/04/22/消费灾难 谎言/" itemprop="commentCount"></span>
-                </a>
-              </span>
-            
           
 
           
           
-             <span id="/2013/04/22/消费灾难 谎言/" class="leancloud_visitors" data-flag-title="消费灾难 谎言">
+             <span id="/post/2016年读书计划/" class="leancloud_visitors" data-flag-title="2016年读书计划">
                <span class="post-meta-divider">|</span>
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
                </span>
                
-                 <span class="post-meta-item-text">热度&#58;</span>
+                 <span class="post-meta-item-text">阅读次数：</span>
                
                  <span class="leancloud-visitors-count"></span>
              </span>
@@ -632,12 +663,55 @@
       
         
           
-          又地震了，然后前两年发生的事又重演了，只不过几年后社交网络更加发达。
-在社交网络上每个人都不是自己，而是要扮演一个角色：地震来了[蜡烛]、恐怖袭击了庆祝/谴责、但凡事关政府（无论有无依据，瞎编都行）下面必然是打成一片。都在表演，微博的快速、简短彻底把人的逻辑和语言能力夺去了。我看到好几个在自己博客上
+          计划今年读完50本书，当前进度10本。
+
+
+
+序号
+书名
+作者
+类别
+
+
+
+
+1
+蒙曼说唐：武则天
+蒙曼
+历史
+
+
+2
+蒙曼说唐：太平公主
+蒙曼
+历史
+
+
+3
+蒙曼说唐：唐玄宗
+蒙曼
+历史
+
+
+4
+蒙曼说唐：长恨歌
+蒙曼
+历史
+
+
+5
+大隋风云：隋文帝杨坚
+蒙曼
+历史
+
+
+6
+大隋风云：隋炀帝杨广
+
           ...
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2013/04/22/消费灾难 谎言/#more" rel="contents">
+            <a class="btn" href="/post/2016年读书计划/#更多" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -693,7 +767,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="https://yufei.im/2013/02/14/先有鸡还是先有蛋/">
+    <link itemprop="mainEntityOfPage" href="https://yufei.im/post/zabbix-流量汇总教程/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="嘸">
@@ -712,11 +786,21 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2013/02/14/先有鸡还是先有蛋/" itemprop="url">先有鸡还是先有蛋</a></h1>
+                <a class="post-title-link" href="/post/zabbix-流量汇总教程/" itemprop="url">
+                  Zabbix 流量汇总教程
+                </a>
+              
+            
+          </h1>
         
 
         <div class="post-meta">
           <span class="post-time">
+
+            
+            
+            
+
             
               <span class="post-meta-item-icon">
                 <i class="fa fa-calendar-o"></i>
@@ -724,12 +808,30 @@
               
                 <span class="post-meta-item-text">发表于</span>
               
-              <time title="创建于" itemprop="dateCreated datePublished" datetime="2013-02-14T00:36:00+08:00">2013-02-14</time>
+
+              
+                
+              
+
+              <time title="创建时间：2016-01-22 14:55:00" itemprop="dateCreated datePublished" datetime="2016-01-22T14:55:00+08:00">2016-01-22</time>
             
 
             
-            
+              
 
+              
+                
+                <span class="post-meta-divider">|</span>
+                
+
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">更新于</span>
+                
+                <time title="修改时间：2018-04-26 00:12:51" itemprop="dateModified" datetime="2018-04-26T00:12:51+08:00">2018-04-26</time>
+              
             
           </span>
 
@@ -745,7 +847,7 @@
                 <span class="post-meta-item-text">分类于</span>
               
               
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/想法/" itemprop="url" rel="index"><span itemprop="name">想法</span></a></span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/科技/" itemprop="url" rel="index"><span itemprop="name">科技</span></a></span>
 
                 
                 
@@ -755,27 +857,17 @@
 
           
             
-              <span class="post-comments-count">
-                <span class="post-meta-divider">|</span>
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-comment-o"></i>
-                </span>
-                <a href="/2013/02/14/先有鸡还是先有蛋/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count valine-comment-count" data-xid="/2013/02/14/先有鸡还是先有蛋/" itemprop="commentCount"></span>
-                </a>
-              </span>
-            
           
 
           
           
-             <span id="/2013/02/14/先有鸡还是先有蛋/" class="leancloud_visitors" data-flag-title="先有鸡还是先有蛋">
+             <span id="/post/zabbix-流量汇总教程/" class="leancloud_visitors" data-flag-title="Zabbix 流量汇总教程">
                <span class="post-meta-divider">|</span>
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
                </span>
                
-                 <span class="post-meta-item-text">热度&#58;</span>
+                 <span class="post-meta-item-text">阅读次数：</span>
                
                  <span class="leancloud-visitors-count"></span>
              </span>
@@ -802,13 +894,11 @@
       
         
           
-          好久没码字了，凑一篇吧。之前看到几篇关于先有鸡还是先有蛋的文章，相当蛋疼的考虑了很久，得出自己的结论。这是个哲学问题。
-我认为这个问题的核心是定义问题——什么是鸡，什么是蛋，什么是鸡蛋。
-当人们看到一种全新的物种的时候，会给他一个定义，或者叫称呼。当你看到一匹马，你给他定义「马」以后，他就是第一匹马
+          用Zabbix获取网络设备的接口流量后有一个很重要的需求就是将流量进行汇总。首先通过监控项（items）来获取数据，然后通过计算公式（Calculated）将采集到的数据进行运算并储存到数据库中。首先可以看下 2.4 版 Zabbix 的官方计算公式文档，了解大致格式。1func(&lt;key&g
           ...
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2013/02/14/先有鸡还是先有蛋/#more" rel="contents">
+            <a class="btn" href="/post/zabbix-流量汇总教程/#更多" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -864,7 +954,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="https://yufei.im/2012/12/25/群众都是傻逼的——肯德基篇/">
+    <link itemprop="mainEntityOfPage" href="https://yufei.im/post/zabbix安装指南/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="嘸">
@@ -883,11 +973,21 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2012/12/25/群众都是傻逼的——肯德基篇/" itemprop="url">群众都是傻逼的——肯德基篇</a></h1>
+                <a class="post-title-link" href="/post/zabbix安装指南/" itemprop="url">
+                  Zabbix安装指南
+                </a>
+              
+            
+          </h1>
         
 
         <div class="post-meta">
           <span class="post-time">
+
+            
+            
+            
+
             
               <span class="post-meta-item-icon">
                 <i class="fa fa-calendar-o"></i>
@@ -895,12 +995,30 @@
               
                 <span class="post-meta-item-text">发表于</span>
               
-              <time title="创建于" itemprop="dateCreated datePublished" datetime="2012-12-25T18:43:00+08:00">2012-12-25</time>
+
+              
+                
+              
+
+              <time title="创建时间：2015-12-28 15:55:00" itemprop="dateCreated datePublished" datetime="2015-12-28T15:55:00+08:00">2015-12-28</time>
             
 
             
-            
+              
 
+              
+                
+                <span class="post-meta-divider">|</span>
+                
+
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">更新于</span>
+                
+                <time title="修改时间：2018-04-25 22:57:00" itemprop="dateModified" datetime="2018-04-25T22:57:00+08:00">2018-04-25</time>
+              
             
           </span>
 
@@ -916,7 +1034,7 @@
                 <span class="post-meta-item-text">分类于</span>
               
               
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/想法/" itemprop="url" rel="index"><span itemprop="name">想法</span></a></span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/科技/" itemprop="url" rel="index"><span itemprop="name">科技</span></a></span>
 
                 
                 
@@ -926,27 +1044,17 @@
 
           
             
-              <span class="post-comments-count">
-                <span class="post-meta-divider">|</span>
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-comment-o"></i>
-                </span>
-                <a href="/2012/12/25/群众都是傻逼的——肯德基篇/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count valine-comment-count" data-xid="/2012/12/25/群众都是傻逼的——肯德基篇/" itemprop="commentCount"></span>
-                </a>
-              </span>
-            
           
 
           
           
-             <span id="/2012/12/25/群众都是傻逼的——肯德基篇/" class="leancloud_visitors" data-flag-title="群众都是傻逼的——肯德基篇">
+             <span id="/post/zabbix安装指南/" class="leancloud_visitors" data-flag-title="Zabbix安装指南">
                <span class="post-meta-divider">|</span>
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
                </span>
                
-                 <span class="post-meta-item-text">热度&#58;</span>
+                 <span class="post-meta-item-text">阅读次数：</span>
                
                  <span class="leancloud-visitors-count"></span>
              </span>
@@ -973,13 +1081,14 @@
       
         
           
-          上个月，在唐茶上买了《乌合之众》，一直没看，前两天翻了几章，不少结论我是不同意的，不少结论也印证我之前的想法——群众都是傻逼的。这次开一个系列慢慢谈（预感绝对会坑），今天先讲前段时间很热门的肯德基事件。
-大概事情就是CCTV曝光养殖场为了生产速成鸡，给鸡喂激素、抗生素，甚至使用违禁药品。
-这件事我觉
+          操作系统：CentOS 7.2Zabbix版本：2.4.7
+
+#安装 EPEL 源：1yum install epel-release
+#添加 Zabbix 仓库：官方源实在是太慢了，于是用阿里云的镜像12rpm --import http://mirrors.aliyun.com/zabbix/R
           ...
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2012/12/25/群众都是傻逼的——肯德基篇/#more" rel="contents">
+            <a class="btn" href="/post/zabbix安装指南/#更多" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1035,7 +1144,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="https://yufei.im/2012/07/14/感/">
+    <link itemprop="mainEntityOfPage" href="https://yufei.im/post/在深信服上做上网行为管理/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="嘸">
@@ -1054,11 +1163,21 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2012/07/14/感/" itemprop="url">感</a></h1>
+                <a class="post-title-link" href="/post/在深信服上做上网行为管理/" itemprop="url">
+                  在深信服上做上网行为管理
+                </a>
+              
+            
+          </h1>
         
 
         <div class="post-meta">
           <span class="post-time">
+
+            
+            
+            
+
             
               <span class="post-meta-item-icon">
                 <i class="fa fa-calendar-o"></i>
@@ -1066,12 +1185,30 @@
               
                 <span class="post-meta-item-text">发表于</span>
               
-              <time title="创建于" itemprop="dateCreated datePublished" datetime="2012-07-14T23:22:00+08:00">2012-07-14</time>
+
+              
+                
+              
+
+              <time title="创建时间：2015-12-14 11:17:00" itemprop="dateCreated datePublished" datetime="2015-12-14T11:17:00+08:00">2015-12-14</time>
             
 
             
-            
+              
 
+              
+                
+                <span class="post-meta-divider">|</span>
+                
+
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">更新于</span>
+                
+                <time title="修改时间：2018-04-25 23:02:42" itemprop="dateModified" datetime="2018-04-25T23:02:42+08:00">2018-04-25</time>
+              
             
           </span>
 
@@ -1087,7 +1224,7 @@
                 <span class="post-meta-item-text">分类于</span>
               
               
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/想法/" itemprop="url" rel="index"><span itemprop="name">想法</span></a></span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/科技/" itemprop="url" rel="index"><span itemprop="name">科技</span></a></span>
 
                 
                 
@@ -1097,27 +1234,17 @@
 
           
             
-              <span class="post-comments-count">
-                <span class="post-meta-divider">|</span>
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-comment-o"></i>
-                </span>
-                <a href="/2012/07/14/感/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count valine-comment-count" data-xid="/2012/07/14/感/" itemprop="commentCount"></span>
-                </a>
-              </span>
-            
           
 
           
           
-             <span id="/2012/07/14/感/" class="leancloud_visitors" data-flag-title="感">
+             <span id="/post/在深信服上做上网行为管理/" class="leancloud_visitors" data-flag-title="在深信服上做上网行为管理">
                <span class="post-meta-divider">|</span>
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
                </span>
                
-                 <span class="post-meta-item-text">热度&#58;</span>
+                 <span class="post-meta-item-text">阅读次数：</span>
                
                  <span class="leancloud-visitors-count"></span>
              </span>
@@ -1144,12 +1271,29 @@
       
         
           
-          这是看到网上某人的一篇让人痛心的文章，有感而发的（网上所知道的一个小名人，跟我现实生活没有任何关系），其实都是在心中压抑了很久的，趁着这会儿都吐出来吧，憋在肚里只对身体也不好，说不定哪天隔屁了，这些感情就真的憋死了。活在当下，谁也不能保证能睁眼看到明天的阳光。
-本文所有人名字都用字母替代，并且之间毫
+          #需求甲区域
+
+
+只允许访问几个特定的工作网站；
+允许所有的邮件服务；
+其他所有网络都禁止访问；
+领班额外可以访问新浪微盘；
+晚上十一点至次日七点之间可以访问视频及购物网站
+
+
+乙区域
+
+
+禁用即时通讯工具；
+禁用下载工具；
+禁用视频播放；
+IE浏览全天候开放；
+购物网站禁用；
+晚上十一点至次日七点
           ...
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2012/07/14/感/#more" rel="contents">
+            <a class="btn" href="/post/在深信服上做上网行为管理/#更多" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1205,7 +1349,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="https://yufei.im/2012/04/21/骂人、人身攻击/">
+    <link itemprop="mainEntityOfPage" href="https://yufei.im/post/如何离线安装macos和windows/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="嘸">
@@ -1224,11 +1368,21 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2012/04/21/骂人、人身攻击/" itemprop="url">骂人、人身攻击</a></h1>
+                <a class="post-title-link" href="/post/如何离线安装macos和windows/" itemprop="url">
+                  如何离线安装macOS和Windows
+                </a>
+              
+            
+          </h1>
         
 
         <div class="post-meta">
           <span class="post-time">
+
+            
+            
+            
+
             
               <span class="post-meta-item-icon">
                 <i class="fa fa-calendar-o"></i>
@@ -1236,12 +1390,30 @@
               
                 <span class="post-meta-item-text">发表于</span>
               
-              <time title="创建于" itemprop="dateCreated datePublished" datetime="2012-04-21T23:42:00+08:00">2012-04-21</time>
+
+              
+                
+              
+
+              <time title="创建时间：2015-05-22 08:38:00" itemprop="dateCreated datePublished" datetime="2015-05-22T08:38:00+08:00">2015-05-22</time>
             
 
             
-            
+              
 
+              
+                
+                <span class="post-meta-divider">|</span>
+                
+
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">更新于</span>
+                
+                <time title="修改时间：2018-04-25 23:08:05" itemprop="dateModified" datetime="2018-04-25T23:08:05+08:00">2018-04-25</time>
+              
             
           </span>
 
@@ -1257,7 +1429,7 @@
                 <span class="post-meta-item-text">分类于</span>
               
               
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/想法/" itemprop="url" rel="index"><span itemprop="name">想法</span></a></span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/科技/" itemprop="url" rel="index"><span itemprop="name">科技</span></a></span>
 
                 
                 
@@ -1267,27 +1439,17 @@
 
           
             
-              <span class="post-comments-count">
-                <span class="post-meta-divider">|</span>
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-comment-o"></i>
-                </span>
-                <a href="/2012/04/21/骂人、人身攻击/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count valine-comment-count" data-xid="/2012/04/21/骂人、人身攻击/" itemprop="commentCount"></span>
-                </a>
-              </span>
-            
           
 
           
           
-             <span id="/2012/04/21/骂人、人身攻击/" class="leancloud_visitors" data-flag-title="骂人、人身攻击">
+             <span id="/post/如何离线安装macos和windows/" class="leancloud_visitors" data-flag-title="如何离线安装macOS和Windows">
                <span class="post-meta-divider">|</span>
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
                </span>
                
-                 <span class="post-meta-item-text">热度&#58;</span>
+                 <span class="post-meta-item-text">阅读次数：</span>
                
                  <span class="leancloud-visitors-count"></span>
              </span>
@@ -1314,12 +1476,12 @@
       
         
           
-          跟我略熟的人应该都能感觉到，我并不是一个喜欢骂人的人。就我记忆而言，我这两年骂过的人、组织貌似就方舟子、伟光正、新浪、方校长、所在的学校、一个名叫Caesium的破开源软件。可能还有别的，反正我是不记得了。
-我这人基本不人身攻击（1年会有那么1~2次），而且我有一个底线，要攻击就攻击本人，不会波及他
+          昨天拿到一台 2014 年初版的 MacBook Air，那人说 Mac OS X 用不惯，想装成 Windows 7。
+系统是 10.9 的，作为不更新会死星人，当然第一件事就是更新，但是更新速度实在是慢。而且之前有人用过了，想要恢复出厂配置。于是 option+r 进入恢复模式，先把硬盘抹掉，然
           ...
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2012/04/21/骂人、人身攻击/#more" rel="contents">
+            <a class="btn" href="/post/如何离线安装macos和windows/#更多" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1375,7 +1537,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="https://yufei.im/2012/01/30/诛心/">
+    <link itemprop="mainEntityOfPage" href="https://yufei.im/post/如何在-fedora-中安装-f-lux/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="嘸">
@@ -1394,11 +1556,21 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2012/01/30/诛心/" itemprop="url">诛心</a></h1>
+                <a class="post-title-link" href="/post/如何在-fedora-中安装-f-lux/" itemprop="url">
+                  如何在 Fedora 中安装 F.lux
+                </a>
+              
+            
+          </h1>
         
 
         <div class="post-meta">
           <span class="post-time">
+
+            
+            
+            
+
             
               <span class="post-meta-item-icon">
                 <i class="fa fa-calendar-o"></i>
@@ -1406,12 +1578,30 @@
               
                 <span class="post-meta-item-text">发表于</span>
               
-              <time title="创建于" itemprop="dateCreated datePublished" datetime="2012-01-30T21:20:00+08:00">2012-01-30</time>
+
+              
+                
+              
+
+              <time title="创建时间：2015-04-27 23:06:00" itemprop="dateCreated datePublished" datetime="2015-04-27T23:06:00+08:00">2015-04-27</time>
             
 
             
-            
+              
 
+              
+                
+                <span class="post-meta-divider">|</span>
+                
+
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">更新于</span>
+                
+                <time title="修改时间：2018-04-25 23:04:35" itemprop="dateModified" datetime="2018-04-25T23:04:35+08:00">2018-04-25</time>
+              
             
           </span>
 
@@ -1427,7 +1617,7 @@
                 <span class="post-meta-item-text">分类于</span>
               
               
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/想法/" itemprop="url" rel="index"><span itemprop="name">想法</span></a></span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/科技/" itemprop="url" rel="index"><span itemprop="name">科技</span></a></span>
 
                 
                 
@@ -1437,27 +1627,17 @@
 
           
             
-              <span class="post-comments-count">
-                <span class="post-meta-divider">|</span>
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-comment-o"></i>
-                </span>
-                <a href="/2012/01/30/诛心/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count valine-comment-count" data-xid="/2012/01/30/诛心/" itemprop="commentCount"></span>
-                </a>
-              </span>
-            
           
 
           
           
-             <span id="/2012/01/30/诛心/" class="leancloud_visitors" data-flag-title="诛心">
+             <span id="/post/如何在-fedora-中安装-f-lux/" class="leancloud_visitors" data-flag-title="如何在 Fedora 中安装 F.lux">
                <span class="post-meta-divider">|</span>
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
                </span>
                
-                 <span class="post-meta-item-text">热度&#58;</span>
+                 <span class="post-meta-item-text">阅读次数：</span>
                
                  <span class="leancloud-visitors-count"></span>
              </span>
@@ -1484,11 +1664,12 @@
       
         
           
-          最近新浪上很热闹啊，方舟子大战韩寒。我完全没有参与这件事。其实，我是想掺和进去看看情况的，但是新浪这个傻逼不让我登陆啊，说我的密码和去年年底泄漏的密码相同，强制要求我更改，不改的话不让登录，于是我就不登就不登嘛~~到了昨天实在是忍不住了，还是改吧，这场大戏以后说不定就看不到了。于是点进去登陆，让我填
+          之前在 Windows 下很喜欢一款名为 F.lux 的色温调节软件，它可以根据你所设置的地理位置的日落后期间将屏幕的色温调低，即将屏幕显示为暖色，以缓解在晚上由于显示器过于刺眼导致眼睛疲劳。
+在换了 Linux 后就没法用了，因为官方只提供了 deb 安装包。（其实也提供了二进制包，但之前没注意过
           ...
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2012/01/30/诛心/#more" rel="contents">
+            <a class="btn" href="/post/如何在-fedora-中安装-f-lux/#更多" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1544,7 +1725,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="https://yufei.im/2011/12/12/拖延/">
+    <link itemprop="mainEntityOfPage" href="https://yufei.im/post/如何批量修改cacti数据/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="嘸">
@@ -1563,11 +1744,21 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2011/12/12/拖延/" itemprop="url">拖延</a></h1>
+                <a class="post-title-link" href="/post/如何批量修改cacti数据/" itemprop="url">
+                  如何批量修改Cacti数据
+                </a>
+              
+            
+          </h1>
         
 
         <div class="post-meta">
           <span class="post-time">
+
+            
+            
+            
+
             
               <span class="post-meta-item-icon">
                 <i class="fa fa-calendar-o"></i>
@@ -1575,12 +1766,30 @@
               
                 <span class="post-meta-item-text">发表于</span>
               
-              <time title="创建于" itemprop="dateCreated datePublished" datetime="2011-12-12T00:44:00+08:00">2011-12-12</time>
+
+              
+                
+              
+
+              <time title="创建时间：2015-04-07 05:42:00" itemprop="dateCreated datePublished" datetime="2015-04-07T05:42:00+08:00">2015-04-07</time>
             
 
             
-            
+              
 
+              
+                
+                <span class="post-meta-divider">|</span>
+                
+
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">更新于</span>
+                
+                <time title="修改时间：2018-04-25 23:06:11" itemprop="dateModified" datetime="2018-04-25T23:06:11+08:00">2018-04-25</time>
+              
             
           </span>
 
@@ -1596,7 +1805,7 @@
                 <span class="post-meta-item-text">分类于</span>
               
               
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/想法/" itemprop="url" rel="index"><span itemprop="name">想法</span></a></span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/科技/" itemprop="url" rel="index"><span itemprop="name">科技</span></a></span>
 
                 
                 
@@ -1606,27 +1815,17 @@
 
           
             
-              <span class="post-comments-count">
-                <span class="post-meta-divider">|</span>
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-comment-o"></i>
-                </span>
-                <a href="/2011/12/12/拖延/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count valine-comment-count" data-xid="/2011/12/12/拖延/" itemprop="commentCount"></span>
-                </a>
-              </span>
-            
           
 
           
           
-             <span id="/2011/12/12/拖延/" class="leancloud_visitors" data-flag-title="拖延">
+             <span id="/post/如何批量修改cacti数据/" class="leancloud_visitors" data-flag-title="如何批量修改Cacti数据">
                <span class="post-meta-divider">|</span>
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
                </span>
                
-                 <span class="post-meta-item-text">热度&#58;</span>
+                 <span class="post-meta-item-text">阅读次数：</span>
                
                  <span class="leancloud-visitors-count"></span>
              </span>
@@ -1653,12 +1852,14 @@
       
         
           
-          呃，我又跳票了。掐指算来已经拖了20天…期间几乎没有碰过这个博客，连之前搞的轻博客也没有打开过，甚至直到刚刚我才把博客顶上的多媒体链接搞定。本来这篇是要写关于动物保护和环境保护的，但既然拖延了这么久，就应当『纪念』下嘛~
-其实我很早之前就发现我有拖延这个情况，而且还十分严重。比如说初中暑假60天，可
+          之前可能是由于虚拟机被挂起，恢复后系统时间出现偏差，导致 cacti 的图形在某五分钟出现了一个峰值，既影响查看图形，还影响数据统计，于是打算把这一段错误的数据删掉。
+但由于有一百多的接口，三百多的 rrd 数据库文件，一个个改也未免太傻了点。花了半天来研究怎么批量修改数据，记录一下。
+
+###单个
           ...
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2011/12/12/拖延/#more" rel="contents">
+            <a class="btn" href="/post/如何批量修改cacti数据/#更多" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1714,7 +1915,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="https://yufei.im/2011/10/05/我为什么反对中医、中药/">
+    <link itemprop="mainEntityOfPage" href="https://yufei.im/post/如何使用smokeping来监控网络质量/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="嘸">
@@ -1733,11 +1934,21 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2011/10/05/我为什么反对中医、中药/" itemprop="url">我为什么反对中医、中药</a></h1>
+                <a class="post-title-link" href="/post/如何使用smokeping来监控网络质量/" itemprop="url">
+                  如何使用SmokePing来监控网络质量
+                </a>
+              
+            
+          </h1>
         
 
         <div class="post-meta">
           <span class="post-time">
+
+            
+            
+            
+
             
               <span class="post-meta-item-icon">
                 <i class="fa fa-calendar-o"></i>
@@ -1745,12 +1956,30 @@
               
                 <span class="post-meta-item-text">发表于</span>
               
-              <time title="创建于" itemprop="dateCreated datePublished" datetime="2011-10-05T19:00:00+08:00">2011-10-05</time>
+
+              
+                
+              
+
+              <time title="创建时间：2014-12-10 18:52:00" itemprop="dateCreated datePublished" datetime="2014-12-10T18:52:00+08:00">2014-12-10</time>
             
 
             
-            
+              
 
+              
+                
+                <span class="post-meta-divider">|</span>
+                
+
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">更新于</span>
+                
+                <time title="修改时间：2018-04-25 23:06:44" itemprop="dateModified" datetime="2018-04-25T23:06:44+08:00">2018-04-25</time>
+              
             
           </span>
 
@@ -1766,7 +1995,7 @@
                 <span class="post-meta-item-text">分类于</span>
               
               
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/想法/" itemprop="url" rel="index"><span itemprop="name">想法</span></a></span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/科技/" itemprop="url" rel="index"><span itemprop="name">科技</span></a></span>
 
                 
                 
@@ -1776,27 +2005,17 @@
 
           
             
-              <span class="post-comments-count">
-                <span class="post-meta-divider">|</span>
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-comment-o"></i>
-                </span>
-                <a href="/2011/10/05/我为什么反对中医、中药/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count valine-comment-count" data-xid="/2011/10/05/我为什么反对中医、中药/" itemprop="commentCount"></span>
-                </a>
-              </span>
-            
           
 
           
           
-             <span id="/2011/10/05/我为什么反对中医、中药/" class="leancloud_visitors" data-flag-title="我为什么反对中医、中药">
+             <span id="/post/如何使用smokeping来监控网络质量/" class="leancloud_visitors" data-flag-title="如何使用SmokePing来监控网络质量">
                <span class="post-meta-divider">|</span>
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
                </span>
                
-                 <span class="post-meta-item-text">热度&#58;</span>
+                 <span class="post-meta-item-text">阅读次数：</span>
                
                  <span class="leancloud-visitors-count"></span>
              </span>
@@ -1823,13 +2042,13 @@
       
         
           
-          其实很早就想写这个的，但是种种原因，拖到现在。申明：本人未对医学有什么研究，纯粹是表达自己的看法。
-先交代清楚文中的西医若无特别说明，即默认为现代医学的简称，文中的中医若无特别说明，即默认为中国汉族传统医学的简称。
-中医源远流长，最早可以追溯到《黄帝内经》，提出了阴阳五行学说，阴阳五行是啥，到底有没
+          smokeping 是一款开源的网络质量监控的工具。因为之前的那套挂了，所以重新搭了一遍。花了近一周，踩坑无数，将过程记录下来。
+
+不得不吐槽 Linux 杂乱无章的依赖关系，装 Smokeping 最便捷的是 FreeBSD，仅需要一条命令便能完成全部安装。但由于后面的配置太不方便，还是用了用的人
           ...
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2011/10/05/我为什么反对中医、中药/#more" rel="contents">
+            <a class="btn" href="/post/如何使用smokeping来监控网络质量/#更多" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1885,7 +2104,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="https://yufei.im/2011/07/30/我的性观念/">
+    <link itemprop="mainEntityOfPage" href="https://yufei.im/post/安卓5-0升级记/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="嘸">
@@ -1904,11 +2123,21 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2011/07/30/我的性观念/" itemprop="url">我的性观念</a></h1>
+                <a class="post-title-link" href="/post/安卓5-0升级记/" itemprop="url">
+                  安卓5.0升级记
+                </a>
+              
+            
+          </h1>
         
 
         <div class="post-meta">
           <span class="post-time">
+
+            
+            
+            
+
             
               <span class="post-meta-item-icon">
                 <i class="fa fa-calendar-o"></i>
@@ -1916,12 +2145,30 @@
               
                 <span class="post-meta-item-text">发表于</span>
               
-              <time title="创建于" itemprop="dateCreated datePublished" datetime="2011-07-30T21:01:00+08:00">2011-07-30</time>
+
+              
+                
+              
+
+              <time title="创建时间：2014-12-03 00:38:00" itemprop="dateCreated datePublished" datetime="2014-12-03T00:38:00+08:00">2014-12-03</time>
             
 
             
-            
+              
 
+              
+                
+                <span class="post-meta-divider">|</span>
+                
+
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">更新于</span>
+                
+                <time title="修改时间：2018-04-25 23:16:01" itemprop="dateModified" datetime="2018-04-25T23:16:01+08:00">2018-04-25</time>
+              
             
           </span>
 
@@ -1937,7 +2184,7 @@
                 <span class="post-meta-item-text">分类于</span>
               
               
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/想法/" itemprop="url" rel="index"><span itemprop="name">想法</span></a></span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/科技/" itemprop="url" rel="index"><span itemprop="name">科技</span></a></span>
 
                 
                 
@@ -1947,27 +2194,17 @@
 
           
             
-              <span class="post-comments-count">
-                <span class="post-meta-divider">|</span>
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-comment-o"></i>
-                </span>
-                <a href="/2011/07/30/我的性观念/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count valine-comment-count" data-xid="/2011/07/30/我的性观念/" itemprop="commentCount"></span>
-                </a>
-              </span>
-            
           
 
           
           
-             <span id="/2011/07/30/我的性观念/" class="leancloud_visitors" data-flag-title="我的性观念">
+             <span id="/post/安卓5-0升级记/" class="leancloud_visitors" data-flag-title="安卓5.0升级记">
                <span class="post-meta-divider">|</span>
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
                </span>
                
-                 <span class="post-meta-item-text">热度&#58;</span>
+                 <span class="post-meta-item-text">阅读次数：</span>
                
                  <span class="leancloud-visitors-count"></span>
              </span>
@@ -1994,14 +2231,14 @@
       
         
           
-          这几天一直混迹于果壳网，以前也听说过这个网站，但是一直没主动上过，前几天突然发现这网站还是有不少好东西的。果壳网是一个带有社会化网络属性的泛科技主题网站，由不同内容的主题站构成，提供大量负责任、有智趣、贴近生活的内容，你可以在这里：
-
-依兴趣关注不同的主题站，精准阅读喜欢的内容，并与网友交流；
-关注
+          Android 5.0 这个据说是 Android 诞生的历史上最大的更新，事后想了想还是 4.0 冰激凌三明治 更新要大得多，萝莉棒（Lollipop）更多是重构界面与逻辑的重梳理。本篇记录刷正式版萝莉棒的过程。为了避免又成为一篇纯吐槽文，加点教程充当干货吧。
+#教程
+##准备
+###工厂镜像ht
           ...
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2011/07/30/我的性观念/#more" rel="contents">
+            <a class="btn" href="/post/安卓5-0升级记/#更多" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -2045,6 +2282,10 @@
   </section>
 
   
+  <nav class="pagination">
+    <span class="page-number current">1</span><a class="page-number" href="/page/2/">2</a><span class="space">&hellip;</span><a class="page-number" href="/page/6/">6</a><a class="extend next" rel="next" href="/page/2/"><i class="fa fa-angle-right" aria-label="下一页"></i></a>
+  </nav>
+
 
 
           </div>
@@ -2085,7 +2326,7 @@
                 
                   <a href="/archives/">
                 
-                    <span class="site-state-item-count">10</span>
+                    <span class="site-state-item-count">57</span>
                     <span class="site-state-item-name">日志</span>
                   </a>
                 </div>
@@ -2100,7 +2341,13 @@
                     
                       
                     
-                    <span class="site-state-item-count">1</span>
+                      
+                    
+                      
+                    
+                      
+                    
+                    <span class="site-state-item-count">4</span>
                     <span class="site-state-item-name">分类</span>
                   </a>
                 </div>
@@ -2151,7 +2398,105 @@
                     
                       
                     
-                    <span class="site-state-item-count">19</span>
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                    <span class="site-state-item-count">68</span>
                     <span class="site-state-item-name">标签</span>
                   </a>
                 </div>
@@ -2245,13 +2590,10 @@
     <footer id="footer" class="footer">
       <div class="footer-inner">
         <div class="copyright">&copy; 2011 &mdash; <span itemprop="copyrightYear">2018</span>
-  <span class="with-love">
+  <span class="with-love" id="animate">
     <i class="fa fa-user"></i>
   </span>
   <span class="author" itemprop="copyrightHolder">嘸</span>
-
-  <div class="powered-by">  
-  </div>
 
   
 
@@ -2261,7 +2603,7 @@
 
 
 
-  <div class="powered-by">由 <a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a> 强力驱动</div>
+  <div class="powered-by">由 <a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a> 强力驱动 v3.7.1</div>
 
 
 
@@ -2269,7 +2611,7 @@
 
 
 
-  <div class="theme-info">主题 &mdash; <a class="theme-link" target="_blank" href="https://github.com/theme-next/hexo-theme-next">NexT.Gemini</a></div>
+  <div class="theme-info">主题 &mdash; <a class="theme-link" target="_blank" href="https://github.com/theme-next/hexo-theme-next">NexT.Gemini</a> v6.2.0</div>
 
 
 
@@ -2347,28 +2689,28 @@
   
 
 
-  <script type="text/javascript" src="/js/src/utils.js?v=6.0.5"></script>
+  <script type="text/javascript" src="/js/src/utils.js?v=6.2.0"></script>
 
-  <script type="text/javascript" src="/js/src/motion.js?v=6.0.5"></script>
-
-
-
-  
-  
-
-
-  <script type="text/javascript" src="/js/src/affix.js?v=6.0.5"></script>
-
-  <script type="text/javascript" src="/js/src/schemes/pisces.js?v=6.0.5"></script>
+  <script type="text/javascript" src="/js/src/motion.js?v=6.2.0"></script>
 
 
 
   
+  
+
+
+  <script type="text/javascript" src="/js/src/affix.js?v=6.2.0"></script>
+
+  <script type="text/javascript" src="/js/src/schemes/pisces.js?v=6.2.0"></script>
+
+
+
+  
 
   
 
 
-  <script type="text/javascript" src="/js/src/bootstrap.js?v=6.0.5"></script>
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=6.2.0"></script>
 
 
 
@@ -2396,30 +2738,6 @@
 
 
 
-
-  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-  
-  
-  <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
-  
-  <script type="text/javascript">
-    var GUEST = ['nick','mail','link'];
-    var guest = 'nick,mail,link';
-    guest = guest.split(',').filter(function (item) {
-      return GUEST.indexOf(item)>-1;
-    });
-    new Valine({
-        el: '#comments' ,
-        verify: false,
-        notify: false,
-        appId: 'r8UN3EOjqJTFQI3w84zjezHu-gzGzoHsz',
-        appKey: 'bhNNR7FbvhRcqPSiyICwwrk3',
-        placeholder: 'Just go go',
-        avatar:'mm',
-        guest_info:guest,
-        pageSize:'10' || 10,
-    });
-  </script>
 
 
 
@@ -2880,6 +3198,8 @@
   <script src="https://cdn.staticfile.org/pangu/3.3.0/pangu.min.js"></script>
   <script type="text/javascript">pangu.spacingPage();</script>
 
+
+  
 
   
 
