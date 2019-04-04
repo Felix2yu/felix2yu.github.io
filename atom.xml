@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yufei.im/"/>
-  <updated>2018-04-25T15:22:47.000Z</updated>
+  <updated>2019-02-12T14:27:21.837Z</updated>
   <id>https://yufei.im/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>家庭数据中心软硬件选型</title>
+    <link href="https://yufei.im/post/%E5%AE%B6%E5%BA%AD%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E8%BD%AF%E7%A1%AC%E4%BB%B6%E9%80%89%E5%9E%8B/"/>
+    <id>https://yufei.im/post/家庭数据中心软硬件选型/</id>
+    <published>2019-02-07T15:02:00.000Z</published>
+    <updated>2019-02-12T14:27:21.837Z</updated>
+    
+    <content type="html"><![CDATA[<p>之前的一台NAS是2015年买的威联通TS-420。当初购买的最主要考量是功耗，所以选择了这款ARM处理器的信号，但是无奈ARM处理器的机型性能极差，真的只能够用作NAS的本职工作——网络附加存储，其它所有事情都干不了。正好碰到硬盘出了问题，更换硬盘后RAID处于只读模式，询问了威联通的工程师说只能够格式化后重组。于是就动了更新换代的念头，就我个人而言就这几点要求：</p><ol><li>便宜</li><li>功耗、噪声低</li><li>体积小</li><li>兼容Linux操作系统</li><li>x64架构</li></ol><p>初步看中了三台品牌机：</p><ul><li>威联通 TS-TS-453Bmini</li><li>群晖 DS418play</li><li>群晖 DS918+</li></ul><p>威联通的特点就是便宜也够用，群晖的系统很著名，但是同等配置价格直接翻了近一倍，这个操作系统的溢价也太高了吧。<br>再加上这两家厂商的操作系统及软件全都是闭源的，给计算机小白用用来可以，对于计算机专业特别是Linux工程师来说限制太多了，如果</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;之前的一台NAS是2015年买的威联通TS-420。当初购买的最主要考量是功耗，所以选择了这款ARM处理器的信号，但是无奈ARM处理器的机型性能极差，真的只能够用作NAS的本职工作——网络附加存储，其它所有事情都干不了。正好碰到硬盘出了问题，更换硬盘后RAID处于只读模式，
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://yufei.im/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="Linux" scheme="https://yufei.im/tags/Linux/"/>
+    
+      <category term="NAS" scheme="https://yufei.im/tags/NAS/"/>
+    
+      <category term="数据中心" scheme="https://yufei.im/tags/%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83/"/>
+    
+  </entry>
   
   <entry>
     <title>macOS、iOS同步照片折腾记</title>
